@@ -1,0 +1,991 @@
+﻿ID,Class,Co (ppm),Ni (ppm),Cu (ppm),Zn (ppm),As (ppm),Mo (ppm),Ag (ppm),Sb (ppm),Te (ppm),Au (ppm),Tl (ppm),Pb (ppm),d34S (‰),Deposit style,Period,Description,Reference
+0,Sedimentary,156.0176089,329.4860134,273.9414442,34.33388048,258.8083328,9.399489041,5.382540675,159.1200066,0.993235936,0.162622308,1.887490215,458.8561541,38.362,Secondary py nodules,Cambrian,Black shale nodules,Gregory et al. 2019
+1,Sedimentary,100.7877705,280.5526352,186.8345133,0,217.3269277,6.38869372,5.817663238,108.3352489,1.18988734,1.167036859,2.424510122,351.430496,38.169,Secondary py nodules,Cambrian,Black shale nodules,Gregory et al. 2019
+2,Sedimentary,143.5686875,243.2617843,114.6423013,91.12800711,154.8825119,5.720907738,4.257207901,112.3078661,1.918968906,0.202163963,1.757331416,805.2612462,38.206,Secondary py nodules,Cambrian,Black shale nodules,Gregory et al. 2019
+3,Sedimentary,128.1953187,432.4649849,216.2725919,0,318.6120687,6.441567278,5.530337725,229.9912153,0.4915,0.48898069,2.582279105,655.7329536,37.646,Secondary py nodules,Cambrian,Black shale nodules,Gregory et al. 2019
+4,Sedimentary,52.3215334,309.6136886,326.3680517,23.80917185,552.954438,3.220697068,3.674870029,430.1680111,1.170203522,0.073555417,3.52362485,375.3240108,39.005,Secondary py nodules,Cambrian,Black shale nodules,Gregory et al. 2019
+5,Sedimentary,187.8303448,387.908606,184.4484404,49.3922669,478.8128132,4.035802871,6.743060269,350.0500426,1.30244638,0.838243217,2.765944146,454.9558877,36.34,Secondary py nodules,Cambrian,Black shale nodules,Gregory et al. 2019
+6,Sedimentary,243.5671095,241.6632633,179.0440198,0,547.1755253,3.862250232,7.181192083,418.6634168,1.650826011,4.12443548,4.012421025,275.01053,38.629,Secondary py nodules,Cambrian,Black shale nodules,Gregory et al. 2019
+7,Sedimentary,449.4260635,241.0097292,405.8402853,102.6306728,498.4158362,3.627889204,6.379054518,364.3161004,0.46,0.095922144,4.389206424,187.3352268,36.331,Secondary py nodules,Cambrian,Black shale nodules,Gregory et al. 2019
+8,Sedimentary,283.8572089,248.7795676,172.8361283,34.61711942,520.138848,3.39162112,4.969290527,363.356989,1.358905801,0.253704006,3.78765597,317.4683519,37.36,Secondary py nodules,Cambrian,Black shale nodules,Gregory et al. 2019
+9,Sedimentary,262.2536902,260.9719853,193.1941052,112.8103629,404.0004357,2.664876066,4.112959802,327.5768676,1.087028688,0.045816717,3.110981251,227.4119532,35.332,Secondary py nodules,Cambrian,Black shale nodules,Gregory et al. 2019
+10,High Temperature,9.232722186,19.68340462,0.148693423,1.298019966,1.592498686,,,0.005,,,,0.005,28.55475185,Skarn,Cambrian,Py(o),Ding et al. 2021
+11,High Temperature,3.714396188,76.9227216,0.066324633,0.490846224,2.526589308,,,0.005,,,,0.016924532,28.69161667,Skarn,Cambrian,Py(o),Ding et al. 2021
+12,High Temperature,9.322479781,267.9740349,0.321001319,1.401241702,2.776104096,,,0.005,,,,0.039891698,27.78253793,Skarn,Cambrian,Py(o),Ding et al. 2021
+13,High Temperature,5.068498349,10.86491995,3.344765011,1.351336291,1.425205981,,,0.005,,,,0.104033659,28.44032136,Skarn,Cambrian,Py(o),Ding et al. 2021
+14,High Temperature,4.440068564,22.95589724,0.143699004,1.155824964,1.343036349,,,0.005,,,,0.005,28.54169139,Skarn,Cambrian,Py(o),Ding et al. 2021
+15,High Temperature,31.83393541,55.66058568,0.523587237,0.482061566,2.546596926,,,0.005,,,,0.005,28.79399468,Skarn,Cambrian,Py(o),Ding et al. 2021
+16,High Temperature,2.66947481,52.52453719,0.026647777,0.663133032,2.320293772,,,0.005,,,,0.005,28.33752358,Skarn,Cambrian,Py(o),Ding et al. 2021
+17,High Temperature,67.80008053,938.3959741,4.100681747,1.179789064,132.5933337,,,0.005,,,,0.05392906,25.96293322,Skarn,Cambrian,Py(o),Ding et al. 2021
+18,High Temperature,18.65762623,130.4986655,0.41205458,0.312562338,45.53372633,,,0.013333278,,,,0.005,25.54640415,Skarn,Cambrian,Py(o),Ding et al. 2021
+19,High Temperature,7.854346983,710.9457414,0.09716611,0.857901448,58.90778095,,,0.066648556,,,,0.005,25.24369645,Skarn,Cambrian,Py(o),Ding et al. 2021
+20,High Temperature,15.44786046,116.4591655,0.390981288,0.780989222,52.43206316,,,0.03445376,,,,0.005,25.81504704,Skarn,Cambrian,Py(o),Ding et al. 2021
+21,High Temperature,30.12007588,455.039821,0.230117451,0.901516156,76.22429664,,,0.005,,,,0.006199975,25.46323515,Skarn,Cambrian,Py(o),Ding et al. 2021
+22,High Temperature,10.62116844,557.8388774,0.221729395,0.50934923,48.69827755,,,0.005,,,,0.549791623,24.93530062,Skarn,Cambrian,Py(o),Ding et al. 2021
+23,High Temperature,62.04785176,471.3124793,0.075112621,0.663745673,94.90393644,,,0.005,,,,0.005,24.76333431,Skarn,Cambrian,Py(o),Ding et al. 2021
+24,High Temperature,44.71887123,52.78928825,0.61235509,1.067844765,27.82744194,,,0.005,,,,0.128801093,26.73880494,Skarn,Cambrian,Py(o),Ding et al. 2021
+25,High Temperature,16.64576727,362.7509744,0.321589517,1.194466338,40.17426265,,,0.02189486,,,,0.013252568,24.78454961,Skarn,Cambrian,Py(o),Ding et al. 2021
+26,High Temperature,6.383632215,40.38497159,62.21295557,2.550042879,212.7587915,,,188.6730088,,,,1070.694636,24.85875661,Skarn,Cambrian,Py(o),Ding et al. 2021
+27,High Temperature,4.33560301,117.7756017,393.5178011,6.9687633,257.3397406,,,137.105635,,,,695.7313732,25.05540237,Skarn,Cambrian,Py(o),Ding et al. 2021
+28,High Temperature,0.270398851,79.2652781,3027.19789,94.81945072,103.4458553,,,138.0194074,,,,781.2479618,24.94749199,Skarn,Cambrian,Py(o),Ding et al. 2021
+29,High Temperature,0.331304247,1.09511071,56.55138096,1.735672938,220.066468,,,180.8614329,,,,979.3942199,25.07049759,Skarn,Cambrian,Py(o),Ding et al. 2021
+30,High Temperature,0.352930966,1.100213922,4.965161042,3.708088439,10.85685794,,,2.197317945,,,,1.224625979,29.21453964,Skarn,Cambrian,Py(o),Ding et al. 2021
+31,High Temperature,1.386160539,7.245217309,1.978847113,3.079604652,12.82562531,,,7.742485274,,,,4.225963603,29.40870395,Skarn,Cambrian,Py(o),Ding et al. 2021
+32,High Temperature,0.314467761,0.362238004,15.91928835,1.530596964,118.6240883,,,72.44836648,,,,37.39157323,29.85789851,Skarn,Cambrian,Py(o),Ding et al. 2021
+33,High Temperature,0.127023672,0.309579865,27.31764981,2.127083413,148.9268732,,,121.4462688,,,,59.01732527,29.75224067,Skarn,Cambrian,Py(o),Ding et al. 2021
+34,High Temperature,1.229287928,311.1683956,135.5685611,126.3302185,134.4727115,,,41.57007499,,,,458.1299726,29.81445233,Skarn,Cambrian,Py(o),Ding et al. 2021
+35,High Temperature,0.259672035,14.94697044,29.69820825,1.474951908,134.0154512,,,65.21321186,,,,359.8868753,29.47300207,Skarn,Cambrian,Py(o),Ding et al. 2021
+36,High Temperature,19.188965,80.86084634,43.46582327,4.971468046,0.168516474,,,48.85073835,,,,4.151348115,29.35123039,Skarn,Cambrian,Py(o),Ding et al. 2021
+37,High Temperature,22.66339283,616.9287026,161.0661328,5.508020181,45.72659777,,,0.005,,,,14.18806927,27.61582924,Skarn,Cambrian,Py(o),Ding et al. 2021
+38,High Temperature,203.2546452,421.9613768,0.563510669,1.223842762,39.69538814,,,0.005,,,,0.081525173,27.86609615,Skarn,Cambrian,Py(o),Ding et al. 2021
+39,High Temperature,146.8451334,201.0456246,420.1752612,7.473026939,46.7878266,,,0.063799235,,,,28.22596136,28.18862563,Skarn,Cambrian,Py(o),Ding et al. 2021
+40,High Temperature,53.76965286,182.963928,0.633146688,1.231388804,51.81846077,,,0.005,,,,0.05226322,28.20004983,Skarn,Cambrian,Py(o),Ding et al. 2021
+41,High Temperature,1.538541176,233.737116,0.982991901,2.257706294,48.61802457,,,0.032444895,,,,1.150356175,27.8395757,Skarn,Cambrian,Py(o),Ding et al. 2021
+42,High Temperature,60.83405036,645.4381446,1.407610693,5.089735353,27.7033857,,,0.009432208,,,,0.084869328,28.15312903,Skarn,Cambrian,Py(o),Ding et al. 2021
+43,High Temperature,14.5566506,65.61422058,1.41793242,1.571905097,21.39547138,,,0.02350206,,,,0.005,28.72025598,Skarn,Cambrian,Py(o),Ding et al. 2021
+44,High Temperature,76.91841554,516.8605092,0.410039028,1.432313104,13.0536288,,,0.005020606,,,,0.005,28.28001493,Skarn,Cambrian,Py(o),Ding et al. 2021
+45,High Temperature,116.4479127,617.8209783,1.42547496,0.864462513,17.2155643,,,0.013677478,,,,0.007720429,27.72593954,Skarn,Cambrian,Py(o),Ding et al. 2021
+46,High Temperature,38.36152756,103.7070672,0.288215499,1.483320238,11.58539958,,,0.005,,,,0.005,27.97360063,Skarn,Cambrian,Py(o),Ding et al. 2021
+47,High Temperature,198.0686068,393.0044974,0.882695943,0.888304574,18.18856414,,,0.059546799,,,,1.226358501,26.29631641,Skarn,Cambrian,Py(o),Ding et al. 2021
+48,High Temperature,49.27936952,197.2524416,0.248400228,1.310815537,25.63133753,,,0.025837527,,,,0.023952015,25.46231521,Skarn,Cambrian,Py(o),Ding et al. 2021
+49,High Temperature,58.57719864,417.8552484,0.247117556,1.631690483,26.13715392,,,0.005,,,,0.005,25.44455747,Skarn,Cambrian,Py(o),Ding et al. 2021
+50,High Temperature,84.71011721,631.2112324,0.411153432,1.279058857,22.80812296,,,0.055501886,,,,0.016053958,25.77725986,Skarn,Cambrian,Py(o),Ding et al. 2021
+51,High Temperature,83.1431029,548.4494371,0.117594886,1.059698824,29.17182322,,,0.051670394,,,,0.010876833,25.44374103,Skarn,Cambrian,Py(o),Ding et al. 2021
+52,High Temperature,55.8242061,144.0118801,0.294759969,2.393831064,21.39693497,,,0.007113,,,,0.005,25.70317255,Skarn,Cambrian,Py(o),Ding et al. 2021
+53,High Temperature,89.0653647,401.4804705,1.102880799,1.076708603,16.51360844,,,0.236386955,,,,6.741348029,25.58519294,Skarn,Cambrian,Py(o),Ding et al. 2021
+54,High Temperature,141.0705638,627.4616588,0.427411867,1.480180881,24.83231959,,,0.022043804,,,,0.00710013,26.6198619,Skarn,Cambrian,Py(o),Ding et al. 2021
+55,High Temperature,148.2775145,293.609255,0.154116537,1.372782286,17.16257252,,,0.005,,,,0.00597471,26.70069222,Skarn,Cambrian,Py(o),Ding et al. 2021
+56,High Temperature,1537.250133,81.50122644,2.954446861,1.63268832,22.72964727,,,0.05701931,,,,22.81262842,23.46939026,Skarn,Cambrian,Py(r) (rhyolite),Ding et al. 2021
+57,High Temperature,3650.171218,73.75441922,36.30723591,5.621562793,23.66172482,,,0.150892749,,,,23.001312,25.52163519,Skarn,Cambrian,Py(r) (rhyolite),Ding et al. 2021
+58,High Temperature,509.2881893,174.813127,2.703300689,1.529240985,60.86211617,,,0.005,,,,1.624814421,25.76461738,Skarn,Cambrian,Py(r) (rhyolite),Ding et al. 2021
+59,High Temperature,950.6956846,108.3150906,3.414188452,1.768020367,19.15760758,,,0.028143424,,,,48.42501781,25.12607604,Skarn,Cambrian,Py(r) (rhyolite),Ding et al. 2021
+60,High Temperature,3337.339179,213.186393,195.7057427,86.82633156,27.99934211,,,1.231407865,,,,110.0635892,26.54950474,Skarn,Cambrian,Py(r) (rhyolite),Ding et al. 2021
+61,High Temperature,5029.517923,44.23101383,47.41220672,18.84463245,30.46513492,,,0.21066421,,,,23.49347224,26.77100716,Skarn,Cambrian,Py(r) (rhyolite),Ding et al. 2021
+62,High Temperature,957.376617,76.17789832,0.916516945,1.4699254,5.980865239,,,0.005,,,,0.176601933,26.56237659,Skarn,Cambrian,Py(r) (rhyolite),Ding et al. 2021
+63,High Temperature,4915.463693,11.8152257,0.836636674,2.233043205,122.4629423,,,0.247093361,,,,0.574336567,27.11015931,Skarn,Cambrian,Py(r) (rhyolite),Ding et al. 2021
+64,High Temperature,1118.250416,97.31982188,2.380019743,9.078921657,88.64101238,,,0.092971766,,,,18.00113321,24.87387229,Skarn,Cambrian,Py(r) (Mag vein),Ding et al. 2021
+65,High Temperature,340.5247937,260.3787122,13.7665465,17.08882287,216.9780231,,,1.252223999,,,,56.16429953,25.73899836,Skarn,Cambrian,Py(r) (Mag vein),Ding et al. 2021
+66,High Temperature,275.7334967,271.9806891,30.89706172,34.80842616,139.1553005,,,0.57835746,,,,128.9971536,25.68306525,Skarn,Cambrian,Py(r) (Mag vein),Ding et al. 2021
+67,High Temperature,4991.359447,27.99568701,0.125175803,1.774546889,13.12238626,,,0.026048447,,,,0.007844074,25.17547255,Skarn,Cambrian,Py(r) (Mag vein),Ding et al. 2021
+68,Polymetallic Hydrothermal,8903.734761,52.56687929,0.133161761,1.903193717,12.67636406,,,0.005,,,,0.87276984,18.05322121,hydrothermal,Cambrian,Py(v),Ding et al. 2021
+69,Polymetallic Hydrothermal,9309.422812,43.51782681,0.294174962,0.968834902,13.21972379,,,0.005,,,,0.005,18.0195053,hydrothermal,Cambrian,Py(v),Ding et al. 2021
+70,Sedimentary,0.086623135,4.734156811,16.31971674,19.43666093,116.2244726,13.41122265,4.333747409,25.63164474,1.114739775,1.4353518,11.43209724,84.85213622,-11.537,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+71,Sedimentary,0.109419667,10.24073115,3.933643211,21.42781794,269.9441503,15.59544235,5.764800941,56.23548154,0.857202515,0.555115328,7.726951738,87.23146222,-12.117,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+72,Sedimentary,0.319731442,28.08433217,7.577319609,144.4940522,300.5026614,22.11480591,5.249751429,62.46573119,1.162322154,0.194255202,6.159808602,80.29879316,-12.475,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+73,Sedimentary,0.043092016,4.429579786,2.539301044,8.724245031,260.7809118,2.559047309,5.498614605,51.76880306,0.366,0.272012989,4.758817399,91.52895473,-13.016,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+74,Sedimentary,0.062252012,9.467596154,3.373748482,13.92401872,254.1608583,23.66653677,7.43691157,58.52888652,1.095094202,3.146009543,9.290469811,129.8146292,-12.782,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+75,Sedimentary,0.400262186,28.92977874,9.038796496,17.95607077,245.7037573,20.12063918,3.33180784,39.28340773,0.81205455,3.171641955,4.673420373,53.27884901,-12.502,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+76,Sedimentary,0.513060653,46.26621476,21.19192417,79.62737049,268.5003685,55.28706894,5.727410641,69.87519884,1.30718779,6.312527075,13.41141817,122.3475774,-11.982,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+77,Sedimentary,0.377186623,29.85507323,29.52019001,206.7624869,311.2437391,52.05992244,10.83445152,94.15428613,1.111695116,3.326604638,10.17517792,173.7575581,-12.81,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+78,Sedimentary,0.559177487,38.5015419,22.65526658,32.64338904,257.1981722,72.39223961,6.106750278,60.40862219,1.31987178,8.380277635,10.64813799,109.4056566,-11.963,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+79,Sedimentary,0.38132457,42.0892647,13.56123855,23.83353056,234.1587462,17.91175888,4.533872422,46.24117306,0.996765511,0.975893452,6.412976613,79.71737293,-12.101,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+80,Sedimentary,0.124121874,18.34951576,5.676601038,25.32933932,250.6168897,20.75354939,6.245687651,49.6036695,0.3525,3.052723728,9.202101646,124.3130218,-11.708,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+81,Sedimentary,0.052937314,6.881338501,2.577457281,11.23558137,201.2109993,5.958890754,4.22885533,30.45955984,0.384,1.844984873,5.386428472,82.10187353,-10.999,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+82,Sedimentary,0.029791571,1.749795514,1.177055681,19.8316104,270.0856538,3.004144674,4.565976973,30.10913314,1.051496529,0.01,4.181692006,68.46103089,-11.423,Sedimentary,Carboniferous,Black shale w py disk,Gregory et al. 2019
+83,Sedimentary,0.1,1.77,3.2,2.67,592,,0.97,1.32,,0.07,,35.1,-9.612451404,SEDEX,Carboniferous,"Framboidal pyrite
+(Py1)",W. Zhang et al. 2022
+84,Sedimentary,0.42,3.93,2.58,4.89,1231,,2.18,2.3,,0.24,,4962,-2.410354848,SEDEX,Carboniferous,"Framboidal pyrite
+(Py1)",W. Zhang et al. 2022
+85,Sedimentary,46.8,235,148,9.1,227,,12.1,8.21,,0.27,,330,-2.277548528,SEDEX,Carboniferous,"Framboidal pyrite
+(Py1)",W. Zhang et al. 2022
+86,Sedimentary,5.7,13.2,7.81,2.75,163,,1.94,2.26,,0.11,,42.6,-2.158316671,SEDEX,Carboniferous,"Framboidal pyrite
+(Py1)",W. Zhang et al. 2022
+87,Sedimentary,5.91,21.8,1.82,3.29,112,,1.05,1.06,,0.07,,27.4,-3.382349136,SEDEX,Carboniferous,"Framboidal pyrite
+(Py1)",W. Zhang et al. 2022
+88,Sedimentary,0.015,0.235,28.7,15.3,736,,71.7,154,,0.02,,1310,-0.6,SEDEX,Carboniferous,"Colloform pyrite
+(Py2)",W. Zhang et al. 2022
+89,Sedimentary,0.015,0.235,19.7,7.07,559,,43.7,128,,0.005,,775,-0.6,SEDEX,Carboniferous,"Colloform pyrite
+(Py2)",W. Zhang et al. 2022
+90,Sedimentary,0.015,0.235,18.4,9.31,610,,44,134,,0.005,,764,-1.6,SEDEX,Carboniferous,"Colloform pyrite
+(Py2)",W. Zhang et al. 2022
+91,Sedimentary,0.015,0.235,16.8,12.7,310,,45.3,84.5,,0.005,,535,-2,SEDEX,Carboniferous,"Colloform pyrite
+(Py2)",W. Zhang et al. 2022
+92,Sedimentary,0.015,0.235,20.3,14.2,942,,45.7,159,,0.005,,694,-1.4,SEDEX,Carboniferous,"Colloform pyrite
+(Py2)",W. Zhang et al. 2022
+93,Med Temperature,0.05,1.29,0.39,28.9,4.51,,0.02,0.07,,0.005,,1.2,-3.3,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+94,Med Temperature,0.015,0.235,0.26,25.7,3.93,,0,0.035,,0.01,,0.69,-5.5,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+95,Med Temperature,0.04,0.59,15.4,0.84,151,,3.6,26.5,,0.08,,160,-5,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+96,Med Temperature,0.015,0.53,19.5,1.07,170,,4.53,37.7,,0.08,,253,-3,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+97,Med Temperature,0.015,0.78,37.1,5.16,323,,4.24,15.3,,0.08,,208,-2.3,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+98,Med Temperature,0.04,3,2.8,0.53,0.235,,0.51,3.66,,0.005,,25.3,-3.4,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+99,Med Temperature,0.015,1.83,5.24,0.9,67.1,,4.23,27,,0.02,,63.2,-1.9,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+100,Med Temperature,0.015,0.235,5.4,122,2497,,1.19,7.59,,0.94,,149,-2.5,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+101,Med Temperature,0.015,0.6,24.5,1.04,2292,,3.72,24,,0.41,,758,-3.4,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+102,Med Temperature,0.015,0.235,1.84,1.67,17.3,,0.5,2.94,,0.005,,12.7,21.60669638,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+103,Med Temperature,0.015,0.61,17.3,0.62,354,,4.46,52.2,,0.15,,178,22.02665572,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+104,Med Temperature,0.25,6.11,0.61,0.57,16.3,,0.33,0.5,,0.005,,2.52,21.79028278,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+105,Med Temperature,0.38,31.9,10.6,0.49,1572,,3.4,15.1,,0.33,,1009,21.1707311,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+106,Med Temperature,0.03,1.26,147,138,1816,,131,621,,0.95,,4882,22.22320734,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+107,Med Temperature,0.03,0.53,61.8,57.2,356,,60.5,102,,0.24,,942,-3.162523654,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+108,Med Temperature,0.04,0.59,110,155,927,,99.9,351,,0.62,,1373,-10.16104238,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+109,Med Temperature,0.015,1.32,64.6,35.1,817,,160,277,,0.03,,3011,-6.151145075,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+110,Med Temperature,0.015,1.57,41.4,26.3,480,,123,153,,0.005,,1017,-3.550143384,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+111,Med Temperature,0.015,7.21,51.4,49.7,838,,125,329,,0.005,,1680,-5.416554674,SEDEX,Carboniferous,"Massive pyrite
+(Py3)",W. Zhang et al. 2022
+112,Med Temperature,0.015,0.235,1.58,1.23,0.1175,,1.25,0.94,,0.005,,18.5,0.548658736,SEDEX,Carboniferous,"Pyrite coexisting with black sphalerite
+(Py4a)",W. Zhang et al. 2022
+113,Med Temperature,0.04,0.47,5.24,0.66,21.7,,10.6,7.3,,0.03,,78.9,-0.355430352,SEDEX,Carboniferous,"Pyrite coexisting with black sphalerite
+(Py4a)",W. Zhang et al. 2022
+114,Med Temperature,0.015,0.235,0.23,0.98,0.1175,,0.2,0.08,,0.005,,0.4,-1.088997559,SEDEX,Carboniferous,"Pyrite coexisting with black sphalerite
+(Py4a)",W. Zhang et al. 2022
+115,Med Temperature,0.05,0.62,0.64,1.38,239,,2.36,3.62,,0.12,,70.9,-1.433899405,SEDEX,Carboniferous,"Pyrite coexisting with black sphalerite
+(Py4a)",W. Zhang et al. 2022
+116,Med Temperature,0.05,0.235,1.15,0.91,1563,,1.96,2.62,,1.66,,38.9,-1.222698337,SEDEX,Carboniferous,"Pyrite coexisting with black sphalerite
+(Py4a)",W. Zhang et al. 2022
+117,Med Temperature,0.87,6.02,2.17,1.18,1222,,4.76,7.99,,0.23,,346,5.567365702,SEDEX,Carboniferous,"Pyrite coexisting with black sphalerite
+(Py4a)",W. Zhang et al. 2022
+118,Med Temperature,0.04,1.22,0.95,0.83,786,,4.28,5.27,,0.77,,90.7,3.66061895,SEDEX,Carboniferous,"Pyrite coexisting with black sphalerite
+(Py4a)",W. Zhang et al. 2022
+119,Med Temperature,0.06,0.235,1.85,1.36,963,,5.97,3.4,,0.95,,40.5,4.778079949,SEDEX,Carboniferous,"Pyrite coexisting with black sphalerite
+(Py4a)",W. Zhang et al. 2022
+120,Med Temperature,2.76,3.04,0.66,0.52,253,,0.04,0.58,,0.05,,8.32,1.308730438,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+121,Med Temperature,0.5,5.72,1.6,4.43,142,,0.26,3.15,,0.06,,33.2,7.382162191,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+122,Med Temperature,0.61,1.07,526,249,1117,,33.3,20.3,,2.16,,3324,4.486822498,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+123,Med Temperature,0.41,0.71,902,250,1042,,13.1,26.3,,1.15,,282,6.12054629,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+124,Med Temperature,0.86,6.41,79.7,3.27,932,,3.45,0.94,,0.28,,24.7,7.94546972,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+125,Med Temperature,0.19,1.26,16.9,1.56,263,,1.37,1.48,,0.09,,63.4,-2,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+126,Med Temperature,0.47,2.3,244,103,301,,38.8,3.18,,0.23,,209,2,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+127,Med Temperature,0.015,0.235,1.16,1.62,53.4,,2.13,0.41,,0.01,,10.5,1.1,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+128,Med Temperature,2.28,4.14,2717,481,934,,46.7,48.9,,1.22,,712,0.6,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+129,Med Temperature,3.34,0.235,2835,682,1917,,22.1,31.9,,6.45,,474,-1.2,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+130,Med Temperature,1.7,1498,114,5066,1034,,11,48.7,,1.2,,1022,1.308730438,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+131,Med Temperature,2.75,122,141,1454,5397,,17.3,128,,14.4,,2421,7.382162191,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+132,Med Temperature,5.59,1538,130,508,10977,,9.33,119,,31.6,,1039,6.12054629,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+133,Med Temperature,0.64,16,26.3,16.1,120,,55.9,3.71,,0.04,,173,7.94546972,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+134,Med Temperature,0.015,0.235,0.42,5,11.2,,0.07,0.035,,0.005,,5.14,-2,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+135,Med Temperature,7.35,4.61,15.1,100,1327,,10.8,14.3,,1.07,,82.4,2,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+136,Med Temperature,0.27,4.89,16,33,36.7,,8.76,4.4,,0.04,,107,1.1,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+137,Med Temperature,0.44,6.14,19.8,23.4,71.5,,11.1,1.96,,0.06,,100,0.6,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+138,Med Temperature,0.58,6.68,81.2,7.7,94.4,,64.3,3.41,,0.03,,123,-1.2,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+139,Med Temperature,0.43,15.3,63.9,13.9,360,,26,4.53,,0.17,,180,0.5,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+140,Med Temperature,0.26,8.15,7.74,42.7,1000,,5.17,2.49,,0.04,,121,2.567611922,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+141,Med Temperature,5.65,139,12.9,8.7,768,,14.6,4.63,,0.04,,242,2.624833807,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+142,Med Temperature,0.09,3.79,16.1,8.55,489,,104,3.64,,0.17,,111,2.408591608,SEDEX,Carboniferous,"Pyrite coexisting with yellow-brawn sphalerite 
+(Py4b)",W. Zhang et al. 2022
+143,Med Temperature,4.19,108,2121,2441,2236,,176,39.8,,0.08,,2832,3.9,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+144,Med Temperature,4.65,73.2,29261,4136,1740,,136,19.7,,0.07,,1853,1.5,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+145,Med Temperature,0.46,33.5,4013,2348,4521,,243,706,,0.05,,403,-1,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+146,Med Temperature,1.48,20.7,10128,2349,2182,,202,281,,0.03,,1895,-0.8,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+147,Med Temperature,0.96,61,2340,19101,3006,,76.6,76.7,,0.03,,650,3.9,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+148,Med Temperature,0.57,24.3,2510,4786,4296,,141,193,,0.08,,6031,1.5,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+149,Med Temperature,1.33,49.2,2922,256,3959,,126,75.3,,0.05,,713,4.2,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+150,Med Temperature,2.58,75.1,1244,2053,2225,,63.9,72.6,,0.04,,754,3.8,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+151,Med Temperature,0.015,0.69,28.7,3.95,2.4,,13.3,0.97,,0.03,,2663,-1,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+152,Med Temperature,2.04,17.5,282,38.7,1209,,141,32.2,,0.07,,1297,3.9,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+153,Med Temperature,2.49,73.8,61,5.44,20.7,,27.2,1.73,,0.08,,92.9,1.5,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+154,Med Temperature,0.015,0.6,4.45,2.09,0.1175,,0.17,0.035,,0.005,,54.9,4.2,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+155,Med Temperature,0.015,0.235,4.22,2.58,0.1175,,0.81,0.08,,0.005,,126,3.8,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+156,Med Temperature,0.67,16,1320,11.7,457,,56.7,46.4,,0.04,,1254,-1,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+157,Med Temperature,0.015,2.03,22.5,7.58,0.1175,,1.43,0.035,,0.03,,13.3,-0.8,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+158,Med Temperature,1.16,9.95,1194,145,3158,,260,58.9,,0.16,,2780,3.9,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+159,Med Temperature,2.73,16.5,1050,1906,4623,,85,113,,0.03,,2080,1.5,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+160,Med Temperature,37.4,155,1018,9.97,3175,,82.1,55.2,,0.08,,1635,4.2,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+161,Med Temperature,11.5,50.5,1691,345,4079,,102,235,,0.05,,10619,3.8,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+162,Med Temperature,0.78,2.53,1776,666,1155,,36.7,97.4,,0.005,,417,-1,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+163,Med Temperature,16.2,46.8,10789,2158,4499,,254,56.9,,0.1,,5151,-0.8,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+164,Med Temperature,12.2,110,3173,300,7046,,80.2,97.8,,0.03,,997,3.9,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+165,Med Temperature,7.34,27.8,2252,457,3922,,117,90.4,,0.11,,1416,1.5,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+166,Med Temperature,21.4,143,2755,451,3663,,72,191,,0.03,,787,4.2,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+167,Med Temperature,3.07,32.9,6521,15892,6160,,180,716,,0.06,,1857,3.8,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+168,Med Temperature,1.34,24.7,1099,8268,1125,,415,125,,0.11,,13061,3.9,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+169,Med Temperature,0.66,10.5,636,4553,1261,,306,270,,0.03,,2704,1.5,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+170,Med Temperature,0.44,2.96,862,11549,878,,71.9,325,,0.01,,1218,4.2,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+171,Med Temperature,6.38,62.5,644,15467,2267,,544,86.9,,0.03,,14180,3.8,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+172,Med Temperature,1.08,7.72,1001,790,2675,,107,318,,0.09,,21905,-1,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+173,Med Temperature,0.25,9.5,1274,825,1670,,747,168,,0.03,,1698,-0.8,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+174,Med Temperature,0.55,2.16,1327,3777,459,,75.7,136,,0.01,,646,3.9,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+175,Med Temperature,0.97,21.2,1097,752,1377,,434,0.035,,0.06,,1856,1.5,SEDEX,Carboniferous,"Pyrite coexisting with chalcopyrite
+(Py5)",W. Zhang et al. 2022
+176,Sedimentary,4.584366087,39.00381858,40.54839922,6.412170362,30.62324839,6.386121856,0.465386673,8.161094683,0.43,0.078570672,3.179659846,13.32054523,14.496,Secondary py nodules,Devonian,"grey to black, calc, silty mud",Gregory et al. 2019
+177,Sedimentary,9.467738691,87.35519798,58.44041304,15.95884074,45.9827114,8.071816097,0.580923063,10.31534293,1.438270696,0.044821297,6.587073239,16.5154024,19.394,Secondary py nodules,Devonian,"grey to black, calc, silty mud",Gregory et al. 2019
+178,Sedimentary,15.95868002,125.3510239,56.11999282,10.10492931,40.43261585,11.73232437,0.804290298,10.89660236,1.303145757,0.088879478,6.010106421,15.9954873,16.763,Secondary py nodules,Devonian,"grey to black, calc, silty mud",Gregory et al. 2019
+179,Sedimentary,3.450222802,23.36358395,36.76928336,6.069499097,44.86531874,6.468398299,0.604418955,12.55022041,0.799146122,0.241044245,7.441510806,10.95064377,12.367,Secondary py nodules,Devonian,"grey to black, calc, silty mud",Gregory et al. 2019
+180,Sedimentary,9.97803321,57.96788368,87.58214263,16.67619179,71.11211796,16.34667135,1.377208436,19.07825092,1.364016666,0.150446888,11.40455357,24.86733052,17.903,Secondary py nodules,Devonian,"grey to black, calc, silty mud",Gregory et al. 2019
+181,Sedimentary,5.864157789,36.83278439,58.60138334,8.402745866,59.17024969,10.41009982,0.735475707,16.53571163,0.992952876,0.04497425,7.570952474,16.11495412,13.912,Secondary py nodules,Devonian,"grey to black, calc, silty mud",Gregory et al. 2019
+182,Sedimentary,9.75747671,55.98644025,80.22196455,13.3025299,77.4588783,15.64281046,1.027243812,16.81651092,1.470101002,0.190129033,8.287162124,19.61812858,16.183,Secondary py nodules,Devonian,"grey to black, calc, silty mud",Gregory et al. 2019
+183,Sedimentary,6.970297878,48.89461553,83.95006811,13.85142903,64.87293979,12.9634445,0.937750326,11.93788133,1.558290473,0.613950091,7.057170516,24.75101124,17.619,Secondary py nodules,Devonian,"grey to black, calc, silty mud",Gregory et al. 2019
+184,Sedimentary,4.003585809,62.55617485,36.20976053,5.279622598,28.19011865,4.002235705,0.403398275,5.803342472,0.3885,0.0956141,2.734750733,11.44101798,19.214,Secondary py nodules,Devonian,"grey to black, calc, silty mud",Gregory et al. 2019
+185,Sedimentary,2.591547307,27.77638468,32.47791951,5.349111311,25.49215627,4.26478644,0.602011748,6.695856998,1.479127831,0.267229041,2.535847056,13.59206485,12.444,Secondary py nodules,Devonian,"grey to black, calc, silty mud",Gregory et al. 2019
+186,Sedimentary,52.78790188,382.3415883,2659.626688,3.71891036,79.1083358,0.151444784,560.3005191,1.557484337,0.4275,0.069693994,0.290648744,52.58367346,-9.421,Sedimentary,Ectasian,black shale w nodules,Gregory et al. 2019
+187,Sedimentary,42.43515219,923.995524,5584.301633,7.532515352,20.46415573,0.037,434.3628282,0.64994922,0.425,0.029994085,0.433813071,27.11527118,-16.784,Sedimentary,Ectasian,black shale w nodules,Gregory et al. 2019
+188,Sedimentary,45.63633771,657.9800676,2425.253494,41.23116244,50.30805108,0.825735207,185.1284219,2.33042763,1.116935799,0.069321805,0.227929794,81.08389503,-20.305,Sedimentary,Ectasian,black shale w nodules,Gregory et al. 2019
+189,Sedimentary,404.4995692,1875.295182,2573.283604,1454.524111,62.21131617,2.061093342,23.33383675,2.53435036,1.698311942,0.061680093,0.009,116.2731604,-14.633,Sedimentary,Ectasian,black shale w nodules,Gregory et al. 2019
+190,Sedimentary,348.6439905,1221.38635,660.8209147,8.966909779,169.2892832,0.198730992,59.35457433,9.472088744,2.078956849,0.145356318,0.518550446,167.5488416,-23.159,Sedimentary,Ectasian,black shale w nodules,Gregory et al. 2019
+191,Sedimentary,56.5803466,290.2909987,170.1835987,1.752740586,46.74524962,0.364511779,11.06603638,1.65262135,0.4365,0.0115,0.161030131,31.68167107,-20.912,Sedimentary,Ectasian,black shale w nodules,Gregory et al. 2019
+192,Sedimentary,18.14394486,278.1415833,118.0885396,59.34256857,17025.00622,10.67972194,6.200131001,1322.501201,1.400444766,0.051025479,19.02192409,229.3531187,20.064,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+193,Sedimentary,23.64649013,364.3280021,140.4480624,27.99866187,17610.38208,7.62924678,7.670846931,668.5497794,1.387855671,0.069350441,23.2350218,218.3728636,21.689,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+194,Sedimentary,19.1767116,239.2091955,138.9949237,72.40529311,18076.34606,10.69174954,6.119542051,1559.506641,2.00445774,0.070122233,14.03225807,234.5989501,19.701,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+195,Sedimentary,21.38953517,222.5457455,169.1342087,132.7609742,17916.38056,14.57270474,5.173363098,1668.626657,1.08508453,0.047483404,14.25639366,315.3086149,20.202,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+196,Sedimentary,26.17220231,351.5842762,145.4169043,59.63441105,17833.98535,8.959599656,6.738315717,1200.19072,1.046043571,0.06159269,20.04215783,268.8815975,19.57,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+197,Sedimentary,26.18749055,307.8479139,209.5823113,67.13992267,18754.4421,7.554160906,6.546300693,1215.231222,1.401471126,0.075449706,15.15579007,252.7116495,19.091,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+198,Sedimentary,29.26663377,480.7890918,117.2129921,92.40642485,18538.36416,10.72279435,6.430170672,1265.501066,1.28643578,0.691040455,21.319921,300.3437923,19.584,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+199,Sedimentary,25.50545338,475.1817935,157.6118695,123.9293386,22143.10542,9.302669452,6.83893193,1400.327491,1.024679241,0.069088328,15.29913983,315.517188,19.345,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+200,Sedimentary,18.09528151,271.5946435,62.07189957,123.7731801,20934.72303,7.940121682,5.409893755,1389.999829,0.3515,0.047805042,14.41001284,297.2194852,19.572,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+201,Sedimentary,27.13335452,528.5270778,135.0014215,89.36386628,19033.2131,18.39066888,6.016077914,1336.105014,1.019291837,0.086781168,16.36141555,373.4131585,18.904,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+202,Sedimentary,21.55022181,373.4932203,109.5696161,304.2773472,18746.81079,18.00018066,8.255740792,1362.591945,1.90361613,0.055706983,18.05338103,323.9651469,,Secondary py nodules,Ectasian,nodules in crbonaceous shale,Gregory et al. 2019
+203,Sedimentary,0.0237,4.149,9.0101,81.7459,207.0124,0.0863,5.6495,175.673,0.6152,0.1612,18.172,314.0891,-4.582835174,Sedimentary,Mesoproterozoic,"Caixiashan Pb-Zn deposit, colloform pyrite",Dengfend Li et al. 2019
+204,Sedimentary,3.3565,7.4689,2.3731,14.1199,459.1337,0.0582,4.3253,156.537,0.3351,0.272,122.5145,1461.8699,-13.17241123,Sedimentary,Mesoproterozoic,"Caixiashan Pb-Zn deposit, colloform pyrite",Dengfend Li et al. 2019
+205,Sedimentary,3.0802,3.5269,0.7062,29.6397,975.7075,1.4944,2.5392,142.4619,0.3447,3.9774,62.4975,1589.8459,-11.5508546,Sedimentary,Mesoproterozoic,"Caixiashan Pb-Zn deposit, colloform pyrite",Dengfend Li et al. 2019
+206,Sedimentary,5.3899,8.2852,0.5226,31.4046,319.5456,0.057,3.6535,166.8291,0.8238,0.0319,88.5445,1016.8426,-5.45675892,Sedimentary,Mesoproterozoic,"Caixiashan Pb-Zn deposit, colloform pyrite",Dengfend Li et al. 2019
+207,Sedimentary,2.9751,4.5407,4.8019,15.1922,2744.3341,0.0132,1.8688,578.1921,0.2593,0.006,253.8961,3590.6815,-0.493887758,Sedimentary,Mesoproterozoic,"Caixiashan Pb-Zn deposit, colloform pyrite",Dengfend Li et al. 2019
+208,Sedimentary,0.476,4.1357,13.6766,1102.8219,126.9821,0.0129,5.5093,114.8995,0.6964,0.0061,3.95,2224.2787,-16.53934348,Sedimentary,Mesoproterozoic,"Caixiashan Pb-Zn deposit, colloform pyrite",Dengfend Li et al. 2019
+209,Sedimentary,0.654,4.8148,14.9651,14.2748,114.3908,2.6728,0.692,53.1982,0.5637,0.0777,307.6458,2033.9827,-28.11731174,Sedimentary,Mesoproterozoic,"Caixiashan Pb-Zn deposit, colloform pyrite",Dengfend Li et al. 2019
+210,Low Temp Hydrothermal,0.7204,28.445,45.9115,372.4938,165.6351,0.0389,5.3173,291.7125,0.6493,0.0155,32.2399,886.4639,15.71426295,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+211,Low Temp Hydrothermal,0.2361,13.3071,24.1669,159.5301,113.9408,0.013,2.2692,127.9881,0.4799,0.6309,23.1448,1097.918,15.91111489,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+212,Low Temp Hydrothermal,0.0788,3.1369,149.448,48.5704,108.6723,0.0239,6.7827,209.417,0.913,0.0699,9.1168,578.18,6.452109417,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+213,Low Temp Hydrothermal,0.0439,3.1848,30.1298,46.5997,31.1078,0.0198,4.3861,61.5352,1.4342,0.1215,3.4406,363.3882,19.77691849,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+214,Low Temp Hydrothermal,0.5053,19.041,49.8636,337.274,106.5562,0.0164,10.8364,206.422,0.4776,0.0265,7.3127,562.3335,16.30818952,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+215,Low Temp Hydrothermal,0.0392,3.9419,84.2795,117.9371,134.5249,0.0139,4.4947,65.9606,0.2798,0.068,0.8981,138.413,15.44707464,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+216,Low Temp Hydrothermal,0.156,6.4175,0.8197,0.9165,523.4216,0.0334,0.1116,37.8334,0.8337,0.1027,15.4497,104.1591,12.71766403,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+217,Low Temp Hydrothermal,0.4953,11.5275,1.2175,2.306,431.5372,1.8165,0.5963,61.6062,0.7022,0.1764,25.7236,107.1936,13.71248544,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+218,Low Temp Hydrothermal,0.1034,19.1218,1.6808,2.3158,397.3542,0.0398,0.5357,79.0199,1.0467,0.0782,70.4198,125.8045,11.89475101,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+219,Low Temp Hydrothermal,0.1866,5.7427,10.4527,3.8058,501.3919,0.0144,0.0663,71.9328,0.536,0.3688,45.7232,140.4558,13.18867051,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+220,Low Temp Hydrothermal,0.1297,1.009,0.6605,1.1229,819.2503,0.2243,1.281,49.1048,0.8472,0.0347,23.5133,188.3079,12.91271824,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+221,Low Temp Hydrothermal,0.2645,8.1885,2.4416,1.4974,572.2716,0.4803,12.1654,297.1909,0.7291,0.4867,119.7145,1119.7043,21.16881453,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+222,Low Temp Hydrothermal,0.6907,21.8017,6.5654,4.0868,1178.4564,0.0375,48.9738,1026.5051,0.2707,0.0523,220.4321,4071.3042,18.03423949,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+223,Low Temp Hydrothermal,0.3937,10.6836,12.7741,3.6182,1462.1151,7.8735,26.0885,709.0659,0.4343,0.0537,208.8951,3205.6412,19.68029026,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+224,Low Temp Hydrothermal,0.3058,15.5082,5.5957,6.3658,767.6262,0.1241,33.1653,815.8092,0.6138,0.3721,262.9358,1308.0909,22.10947917,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+225,Low Temp Hydrothermal,0.4576,12.4352,7.0099,8.4456,776.1158,9.8899,43.1284,1057.0535,0.6927,0.755,257.6703,3147.0039,22.51509305,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+226,Low Temp Hydrothermal,0.4787,8.0016,12.3056,5.9035,636.9234,0.3044,23.1019,651.5343,2.1358,0.223,292.548,946.9376,21.7238651,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+227,Low Temp Hydrothermal,0.3634,15.7954,5.0523,475.0124,846.2075,31.2385,34.7454,989.3676,0.8021,0.0897,290.9732,3182.6091,20.31803662,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+228,Low Temp Hydrothermal,0.1685,12.4284,6.426,4.0354,672.8099,0.0517,36.5932,691.4558,0.5098,0.1307,218.6203,1154.1826,23.99170733,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+229,Low Temp Hydrothermal,0.3392,9.7871,3.6724,7.0269,518.8374,0.0573,23.2785,432.7434,0.4622,0.044,189.7299,627.4861,21.36701477,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+230,Low Temp Hydrothermal,0.3746,10.8362,2.7594,6.5112,572.4157,0.0648,29.1749,735.3814,0.2165,0.0208,219.9941,863.1918,21.41420531,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+231,Low Temp Hydrothermal,0.6795,6.3788,2.6444,227.255,4339.5396,20.6731,6.1256,397.6668,1.1899,0.0576,99.9636,2015.7831,9.778143199,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+232,Low Temp Hydrothermal,5.8788,11.7181,1.2499,52.3408,905.9849,2.5509,6.0096,342.7159,1.9842,0.565,135.0117,1630.9376,5.912078739,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+233,Low Temp Hydrothermal,3.2784,6.3606,1.9078,7.209,1128.9226,0.2443,2.3352,168.1321,0.4424,0.1395,76.9178,523.7917,13.69630582,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+234,Low Temp Hydrothermal,2.7803,11.2109,2.6648,226.7026,791.1634,0.0515,6.77,188.8298,4.5718,0.3492,93.0378,1243.183,11.13337425,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+235,Low Temp Hydrothermal,5.7345,12.7152,0.3802,18.8309,259.1304,0.0404,3.3996,125.5296,0.4918,0.229,68.7757,1054.6214,8.423774872,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+236,Low Temp Hydrothermal,5.4461,19.1998,1.4233,6.6241,1610.4809,3.4461,6.6336,315.2997,0.792,0.0598,129.8253,3946.0951,12.03295186,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+237,Low Temp Hydrothermal,0.7717,13.2359,0.9848,41.7601,2074.6452,0.0168,4.517,161.1583,1.2968,0.6272,34.4271,1539.5159,7.780635308,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+238,Low Temp Hydrothermal,2.488,3.6626,0.6291,83.943,1249.6047,0.5297,2.713,94.8896,0.6242,0.0608,30.9667,2110.628,12.74103459,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+239,Low Temp Hydrothermal,10.2488,18.2349,1.4512,9.3124,1301.4894,0.4578,3.9947,186.2537,0.6936,0.1462,158.7947,1236.6042,21.07106271,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+240,Low Temp Hydrothermal,4.1612,17.249,1.1791,3663.3049,2220.9538,0.2039,3.8341,207.2287,1.2127,0.3972,243.3246,4054.1138,12.36126314,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+241,Low Temp Hydrothermal,0.3049,4.533,0.4996,5.0286,1369.127,0.3166,0.7829,60.0862,0.5812,0.1308,95.6167,1638.1732,9.432753433,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+242,Low Temp Hydrothermal,3.1412,9.1011,8.892,1.5243,1953.4847,0.0127,4.3427,169.6473,0.3638,0.0272,41.4558,594.3815,7.546705089,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+243,Low Temp Hydrothermal,3.8505,12.8376,1.024,14.214,1448.3263,0.0404,4.4389,108.6929,2.1817,1.7726,22.3659,1600.0818,9.680840812,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+244,Low Temp Hydrothermal,1.4859,6.9719,0.6114,10.3507,135.0709,0.2747,6.7724,88.9994,0.7409,0.0169,82.8953,199.8206,10.33521622,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+245,Low Temp Hydrothermal,0.0235,1.1782,2.3918,9.4223,11.7668,0.0112,0.787,4.0702,0.7145,0.2123,0.1862,9.1422,18.02098119,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+246,Low Temp Hydrothermal,0.3345,7.416,22.2243,43.8099,144.4407,0.0288,7.9083,194.8837,1.9175,0.3188,4.4445,1274.8494,7.318392792,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+247,Low Temp Hydrothermal,0.085,3.0766,4.569,17.6756,15.8223,0.1187,0.5229,5.9804,0.6189,0.0061,0.2099,15.6124,17.90570146,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+248,Low Temp Hydrothermal,4.6384,12.1518,31.9179,293.7057,84.3886,0.0121,22.4256,175.1196,0.3496,0.2302,2.3151,1029.618,15.21247027,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+249,Low Temp Hydrothermal,0.1173,2.5611,1.2343,1.494,474.5739,0.0365,0.4202,52.5292,0.3707,0.0634,18.1543,81.2268,8.736580697,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+250,Low Temp Hydrothermal,0.0578,2.7613,1.0851,1.5161,191.3117,0.0846,0.3483,44.3261,0.4937,0.1204,28.0175,89.8845,25.47326538,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+251,Low Temp Hydrothermal,0.054,1.6657,0.677,7.0465,100.2374,0.0571,0.262,23.3417,0.6514,0.161,139.0679,756.2694,33.46486996,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+252,Low Temp Hydrothermal,0.021,3.677,1.3065,1.2324,517.5431,0.0124,0.1716,149.6163,0.4733,0.1913,33.6348,170.448,16.17088754,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+253,Low Temp Hydrothermal,0.0489,5.04,2.9699,7.0874,712.6288,0.0217,0.2858,92.0981,0.7121,0.3244,87.929,235.4114,13.44057807,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+254,Low Temp Hydrothermal,0.0565,8.0119,1.2,1.5024,1342.002,0.0248,0.2889,42.3999,0.7473,0.465,24.5742,364.7691,8.916803594,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+255,Low Temp Hydrothermal,0.8223,1.1609,0.8925,1.0629,133.7884,0.0959,0.0935,16.4173,0.2727,0.447,58.5505,132.257,20.72938532,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+256,Low Temp Hydrothermal,0.185,9.891,1.0338,40.0921,915.8478,0.0283,0.0924,88.001,0.4942,0.8738,342.7163,1655.8034,21.08353904,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+257,Low Temp Hydrothermal,1.2432,4.1609,0.9775,24.7205,315.13,0.0373,0.8112,120.0252,0.3702,0.2883,66.258,380.5032,21.63724131,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+258,Low Temp Hydrothermal,0.1614,2.8119,0.9632,5.5253,218.5857,1.2632,0.2144,51.3479,0.3537,0.8016,137.6415,205.1814,9.732867308,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+259,Low Temp Hydrothermal,0.5849,9.1427,1.1317,5.3702,598.7048,0.0922,0.882,143.8053,0.5998,0.232,326.7188,346.7917,12.3339646,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+260,Low Temp Hydrothermal,0.0758,6.1639,1.6054,24.6622,578.9366,0.1011,0.301,65.8124,0.238,1.9773,164.8739,683.9735,17.23481392,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+261,Low Temp Hydrothermal,0.0946,0.7472,1.3417,5.8189,376.0058,0.0856,0.3339,47.5765,0.355,0.2604,136.6281,221.0494,24.10013775,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+262,Low Temp Hydrothermal,0.2077,2.1276,0.9059,0.7562,434.908,1.2852,0.2352,54.4663,0.5672,0.0936,36.1322,84.3039,13.18631553,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+263,Low Temp Hydrothermal,0.556,3.2699,1.5913,0.7692,582.8306,0.3997,0.1625,61.7457,0.6438,0.639,29.1212,167.9118,14.63079531,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+264,Low Temp Hydrothermal,3.679,7.1808,1.0435,355.1337,1900.6555,0.3605,0.768,210.8951,0.4825,0.0202,40.989,505.2026,13.1258667,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+265,Low Temp Hydrothermal,3.9709,16.743,0.9878,29.0938,899.2357,0.1603,1.8896,107.8255,0.3451,0.1251,34.6515,1323.0312,7.852436885,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+266,Low Temp Hydrothermal,8.9567,14.2459,2.1293,8.3716,1447.2233,2.6043,3.6705,234.8869,0.3472,0.1122,85.1454,642.1604,16.66335902,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+267,Low Temp Hydrothermal,4.6339,4.6253,1.5491,4.0321,1812.0755,0.0105,0.777,63.4462,0.4938,0.0059,29.095,501.2852,8.125692549,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+268,Low Temp Hydrothermal,0.1727,1.2706,0.6908,0.7337,1960.7779,0.0118,0.8246,53.7349,0.2378,0.2382,20.8473,128.4542,11.20094235,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+269,Low Temp Hydrothermal,0.8177,3.5407,0.6041,686.3744,893.8769,0.0416,0.9377,35.3717,0.2984,0.0083,17.2298,94.4752,12.15711246,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+270,Low Temp Hydrothermal,0.5436,3.6913,0.5508,38.2812,1038.3077,0.2651,2.4774,166.3019,0.4577,0.1033,378.7229,2815.1332,14.51641444,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+271,Low Temp Hydrothermal,0.5364,1.4614,1.3507,62.9629,513.3283,0.0618,0.1213,18.1021,0.6158,0.2136,6.7463,94.7832,12.06992233,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+272,Low Temp Hydrothermal,0.9141,14.5634,0.5818,0.7207,1604.5186,0.1011,0.0721,0.1057,0.6719,0.0103,0.0236,0.1531,11.72453256,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+273,Low Temp Hydrothermal,0.0763,1.2679,0.7017,1.677,640.2523,0.0096,0.3663,59.106,0.8781,0.4414,25.7158,265.6436,14.51596501,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+274,Low Temp Hydrothermal,0.2151,1.8214,1.1069,11.2541,555.1736,0.2891,0.1362,95.936,0.8887,0.092,30.0044,290.4795,16.5375176,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+275,Low Temp Hydrothermal,0.0923,1.8787,0.7135,1.7539,529.4529,0.0116,0.1682,88.6384,0.35,0.1325,44.0109,246.4852,14.15619336,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+276,Low Temp Hydrothermal,0.0774,3.467,18.377,13.0173,166.2246,0.0098,0.1314,74.1339,0.3842,0.161,486.7496,208.1129,26.18775709,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+277,Low Temp Hydrothermal,0.4093,5.9915,1.0306,5.4442,281.494,0.2209,0.1135,45.3269,0.4093,8.7428,131.647,233.7482,13.93529672,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+278,Low Temp Hydrothermal,0.0782,0.5676,0.5588,3.985,530.016,0.0319,0.2336,56.6465,0.233,0.182,26.5973,220.2935,13.39732463,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+279,Low Temp Hydrothermal,0.0611,0.9702,2.8033,0.9714,672.0778,0.0908,0.1515,69.2508,0.3619,0.6485,37.0257,121.3314,13.45867233,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+280,Low Temp Hydrothermal,0.031,1.5015,1.9057,7.4345,831.3761,0.0357,0.1984,29.6122,0.3593,0.1359,133.3222,330.0064,9.94882018,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+281,Low Temp Hydrothermal,0.0432,1.6722,1.0791,1.2151,561.0579,0.0166,0.4346,98.9637,0.5114,0.4125,30.5897,125.2747,11.85284587,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+282,Low Temp Hydrothermal,0.0523,0.5083,1.421,0.9808,780.5596,0.0356,0.37,65.2358,0.4672,0.4877,19.954,95.5936,13.19800081,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+283,Low Temp Hydrothermal,0.0909,0.6162,0.8213,6.2059,485.2567,0.0866,0.1637,76.605,0.536,0.1144,106.3125,357.1796,6.937389959,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+284,Low Temp Hydrothermal,0.2405,11.8342,2.184,1.7063,733.7666,0.031,0.496,164.6859,0.3088,0.2326,76.5528,263.5838,18.60356412,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+285,Low Temp Hydrothermal,0.0353,0.1511,7.9114,211.3962,31.5164,0.0373,0.0761,1.8877,0.3599,0.0059,187.5932,15.0361,8.280522444,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+286,Low Temp Hydrothermal,0.0371,0.5176,0.6631,9.6897,189.6928,0.0136,0.3372,45.763,0.5512,0.0428,163.2046,1042.0906,44.27813595,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+287,Low Temp Hydrothermal,0.2886,2.0026,3.1622,3.9363,566.4768,32.3975,0.3375,54.0449,0.3445,0.1068,54.2112,193.8963,41.99973203,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+288,Low Temp Hydrothermal,0.0812,3.7692,2.6797,1.9263,651.5657,0.0955,0.3423,74.6929,0.3785,4.9014,54.5719,165.5971,13.38878539,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+289,Low Temp Hydrothermal,0.0659,2.127,0.7281,4.0896,803.9745,0.0374,0.2176,38.6277,0.5112,0.1886,88.9684,152.6577,11.36768224,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+290,Low Temp Hydrothermal,0.1577,3.6596,1.2709,1.6296,433.4289,30.5652,0.1396,53.382,0.3374,0.3316,30.8684,121.1144,12.52969296,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+291,Low Temp Hydrothermal,0.0463,3.2226,1.143,1.3006,767.7492,0.0223,0.3782,50.4216,1.0469,0.0371,13.8785,68.2152,10.34544538,"Colloform pyrite, secondary",Mesoproterozoic,Caixiashan Pb-Zn deposit. Carbonate rock dissolution,Dengfend Li et al. 2019
+292,Sedimentary,0.748,158.5996,4.2846,0.7315,1273.9722,0.0126,2.9629,32.2513,0.905,0.0261,0.2199,65.9694,2.115748773,"Colloform pyrite, primary. BSR-AOM",Mesoproterozoic,Caixiashan Pb-Zn deposit. Syn-sedimentary deposit,Dengfend Li et al. 2019
+293,Sedimentary,0.9258,8.8589,0.8775,32.4753,1993.8645,12.7928,4.3007,305.0637,1.3801,0.0651,102.7778,818.9549,1.375756256,"Colloform pyrite, primary. BSR-AOM",Mesoproterozoic,Caixiashan Pb-Zn deposit. Syn-sedimentary deposit,Dengfend Li et al. 2019
+294,Sedimentary,2.0654,9.108,0.5593,2.7821,1353.7508,2.3156,2.6319,138.9724,0.3611,0.1198,41.1259,259.7036,1.075309856,"Colloform pyrite, primary. BSR-AOM",Mesoproterozoic,Caixiashan Pb-Zn deposit. Syn-sedimentary deposit,Dengfend Li et al. 2019
+295,Sedimentary,14.1789,55.9921,2.1776,29.3018,623.1999,3.9307,1.806,251.8178,1.6496,0.6637,87.8465,1239.7691,1.88,"Colloform pyrite, primary. BSR-AOM",Mesoproterozoic,Caixiashan Pb-Zn deposit. Syn-sedimentary deposit,Dengfend Li et al. 2019
+296,Sedimentary,0.0384,5.1037,1.3556,11.2082,169.9754,0.185,0.2101,60.4793,1.499,0.0065,173.1015,589.1649,1.980693959,"Colloform pyrite, primary. BSR-AOM",Mesoproterozoic,Caixiashan Pb-Zn deposit. Syn-sedimentary deposit,Dengfend Li et al. 2019
+297,Sedimentary,0.6175,5.7071,0.5709,93.0919,2439.3986,0.4321,3.1776,638.04,0.4397,0.2093,313.0145,2183.1885,1.803059857,"Colloform pyrite, primary. BSR-AOM",Mesoproterozoic,Caixiashan Pb-Zn deposit. Syn-sedimentary deposit,Dengfend Li et al. 2019
+298,Sedimentary,4.619651262,48.03526347,409.860885,4.852990993,790.460099,1.028752643,2.551614484,36.34710914,2.367591861,0.098682997,3.221351578,118.5092534,20.989,Secondary py nodules,Neoarchean,nodules in black shale,Gregory et al. 2019
+299,Sedimentary,1.595451223,12.76311769,152.9186629,4.421426223,187.3940965,0.673504528,0.952452575,11.85442941,1.5470556,0.029264599,0.348479047,68.82169574,20.563,Secondary py nodules,Neoarchean,nodules in black shale,Gregory et al. 2019
+300,Sedimentary,17.54438914,35.87998835,173.2379031,13.1772137,538.3111278,0.0425,0.909960622,30.60742837,0.464,0.140336704,1.540257367,175.4283066,17.475,Secondary py nodules,Neoarchean,nodules in black shale,Gregory et al. 2019
+301,Sedimentary,3.874798373,23.22531345,275.7010317,6.090645203,450.8845553,0.661789952,1.539601156,34.14830038,2.245464456,0.064407949,0.933534833,147.7400881,10.812,Secondary py nodules,Neoarchean,nodules in black shale,Gregory et al. 2019
+302,Sedimentary,4.559286648,27.53814843,287.7190337,6.964375406,537.3540815,0.740406579,2.037024528,43.28631748,2.603754062,0.084644661,1.065730242,204.1894639,8.675,Secondary py nodules,Neoarchean,nodules in black shale,Gregory et al. 2019
+303,Sedimentary,4.187336806,29.96758864,297.7432582,6.108067794,639.182445,0.658622039,1.893444671,48.45021582,2.348211281,0.114032466,1.172098305,208.8483794,6.689,Secondary py nodules,Neoarchean,nodules in black shale,Gregory et al. 2019
+304,Sedimentary,8.424170982,33.58038772,350.7514178,6.581594721,759.9383344,0.919532781,2.053642971,52.32650482,2.584834652,0.127518166,0.991010456,211.1304571,4.1,Secondary py nodules,Neoarchean,nodules in black shale,Gregory et al. 2019
+305,Sedimentary,11.58940783,33.37475593,345.1792999,7.933602229,741.5276068,0.723193039,2.034909661,49.79966909,2.63712191,0.137327843,1.60668743,221.4520133,3.754,Secondary py nodules,Neoarchean,nodules in black shale,Gregory et al. 2019
+306,Sedimentary,6.151499048,33.15934225,335.9699798,7.015035595,696.6963847,0.816076926,2.00155482,49.57452206,3.418250418,0.106221975,0.939523193,180.5992229,,Secondary py nodules,Neoarchean,nodules in black shale,Gregory et al. 2019
+307,Sedimentary,238.7770601,557.9563406,168.9954104,2.648385815,609.5330674,2.60860506,1.872206581,75.66173616,3.333795226,0.118527068,11.47031693,532.3686674,0.28,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+308,Sedimentary,192.9354084,631.9722584,192.1612928,4.894407297,534.0783413,1.522008577,2.647692354,90.50127576,5.546597236,0.081679237,5.231747174,595.2446471,-0.27,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+309,Sedimentary,167.0196957,805.9675183,152.1132303,10.91753319,387.3216038,0.568886644,2.306103127,78.38038889,4.191749268,0.255933141,3.408599568,537.8571657,1.26,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+310,Sedimentary,209.983878,566.8882741,522.5757019,43.78414942,550.1307512,1.634678292,2.377683854,63.98562762,4.369669344,0.092627791,5.686572776,378.5716622,2.46,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+311,Sedimentary,197.3130456,898.9819115,161.2931326,2.554548601,361.8927528,0.856518088,2.322442533,78.90223223,3.705747048,0.0135,3.620514488,475.6823783,1.76,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+312,Sedimentary,207.5597992,596.9262677,132.223555,52.69014341,388.670286,1.346691671,1.427018815,56.15938395,2.899623615,0.057628048,4.20217782,293.5073536,1,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+313,Sedimentary,171.8726553,698.4375652,284.0728871,523.2890699,341.2025716,1.159766914,1.517092068,45.19255953,2.093709916,0.241245849,3.13105289,239.1701889,-0.17,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+314,Sedimentary,260.3059143,425.4990349,86.45640301,650.8162855,284.3756705,1.973594056,1.097746531,41.7119743,1.95771598,0.139340274,4.229161551,255.672843,-0.73,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+315,Sedimentary,240.4605238,641.9754955,220.0471085,21.26424351,259.141817,1.727376522,6.451699146,44.0213171,12.18368713,0.104163043,6.640197617,220.9862324,3.72,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+316,Sedimentary,122.3286443,368.7074901,155.0577404,117.8843607,184.9332798,2.546466335,4.090080316,30.21980038,7.848590141,0.082659044,4.545579512,164.2780598,2.09,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+317,Sedimentary,163.4673069,499.1389588,180.6461226,24.03343718,245.0370279,4.364421446,6.411231401,46.05145601,12.29248644,0.09038897,8.794566696,287.528546,2.04,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+318,Sedimentary,178.6097188,551.334074,150.4718437,11.63540232,236.7049429,3.048148198,4.941317803,36.52462415,10.32624659,0.098789363,10.02758275,185.0331047,1.91,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+319,Sedimentary,169.7855879,443.0633648,268.7508205,32.3894108,221.6703,2.817387987,4.622487172,36.50542921,9.939348664,0.096363562,7.279153272,206.1500989,3.16,Sedimentary,Neoarchean,nodules in black shale,Gregory et al. 2019
+320,Sedimentary,255.0565836,39.15487525,58.99485471,88.72726513,373.7693876,3.148108627,2.180026778,12.19563695,4.761163994,0.265934595,8.364654659,118.0542432,2.39,Sedimentary,Neoarchean,nodules in crbonaceous shale,Gregory et al. 2019
+321,Sedimentary,114.802788,41.23775829,92.90851262,13.39688832,480.4652348,2.526941188,4.057949429,18.65426318,8.144881506,0.4201723,5.820782253,321.6311103,2.38,Sedimentary,Neoarchean,nodules in crbonaceous shale,Gregory et al. 2019
+322,Sedimentary,75.03642054,42.77102555,304.7859675,5494.62143,589.52044,0.963496437,4.079125738,18.12665216,7.249028725,0.360891364,3.81846484,250.8462549,2.53,Sedimentary,Neoarchean,nodules in crbonaceous shale,Gregory et al. 2019
+323,Sedimentary,38.81885599,41.78654736,373.4621123,2022.095106,469.6488687,1.417553452,3.651748878,21.88410412,8.848945377,0.425900432,6.004244252,278.5275927,2.89,Sedimentary,Neoarchean,nodules in crbonaceous shale,Gregory et al. 2019
+324,Sedimentary,48.17999418,43.36585459,72.48038923,697.5485901,507.034839,1.925569562,4.658777937,24.05639423,9.305105615,0.418918053,4.949832688,242.6947473,4.5,Sedimentary,Neoarchean,nodules in crbonaceous shale,Gregory et al. 2019
+325,Sedimentary,55.1117893,37.7056186,67.42193986,24.98172522,442.3798735,3.905201246,4.251054686,20.68467226,7.904857613,0.851655504,5.863153311,226.8988702,2.52,Sedimentary,Neoarchean,nodules in crbonaceous shale,Gregory et al. 2019
+326,Sedimentary,33.56059589,46.18706306,70.94354223,148.5383662,499.6335389,1.642747027,3.861560499,24.01809373,8.838115233,0.372030458,6.915466922,221.3959938,2.52,Sedimentary,Neoarchean,nodules in crbonaceous shale,Gregory et al. 2019
+327,Sedimentary,50.97787886,58.32339763,121.080203,390.2785234,599.0562946,4.829689925,7.537765389,32.55525871,12.37234266,0.709077188,2.959769997,399.9299571,5.99,Sedimentary,Neoarchean,nodules in crbonaceous shale,Gregory et al. 2019
+328,Sedimentary,115.7865907,64.39399868,16.2021268,58.958488,626.6075273,0.279278857,1.956560026,8.527075041,4.075711327,0.132437926,1.016623097,107.3496895,4.05,Sedimentary,Neoarchean,nodules in crbonaceous shale,Gregory et al. 2019
+329,Sedimentary,141.2389852,48.74751351,59.29515887,4335.548451,639.2419817,1.392018775,2.001387078,6.147199173,2.358607505,0.246732277,0.370964035,65.6294761,4.13,Sedimentary,Neoarchean,nodules in crbonaceous shale,Gregory et al. 2019
+330,Med Temperature,145.96,945.61,7.89,,2907.43,,0.307,1.18,0.33,0.512,0.0028,5.27,-30.98,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+331,Med Temperature,874.43,287.13,231.61,,1182.46,,2.27,42.86,2.86,0.417,12.96,329.3,-25.51,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+332,Med Temperature,269.72,187.18,314.19,,2567.68,,8.74,244.76,4.83,0.98,145.33,209.88,-26.12,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+333,Med Temperature,99.71,264.28,1295.94,,711.55,,10.76,27.27,2.98,0.176,5.02,1078.92,-25.59,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+334,Med Temperature,135.49,265.79,346.82,,1103.55,,3.31,66.42,3.78,0.451,28.31,499.46,-28.12,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+335,Med Temperature,278.18,336.16,206.74,,765.77,,0.8,11.1,0.33,0.4,3.24,48.12,-30.98,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+336,Med Temperature,40.71,504.48,6.28,,414.22,,0.314,3.65,0.33,0.55,0.0487,8.63,-25.51,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+337,Med Temperature,79.33,510.14,10.01,,1118.17,,0.78,7.08,1.32,0.79,0.0167,37.99,-26.12,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+338,Med Temperature,213.59,711.78,15.12,,1044.44,,0.91,11.12,1.37,0.208,0.0521,169.22,-25.59,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+339,Med Temperature,60.16,306.31,4696.55,,578.73,,3.14,13.71,0.82,0.295,0.0028,503.05,-28.12,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+340,Med Temperature,187,247.79,8.45,,455.51,,0.1,1.39,0.33,0.044,0.242,8.96,-30.98,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+341,Med Temperature,302.71,821.66,22.13,,1651.1,,1.49,4.87,0.33,0.078,0.0028,406.13,-25.51,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+342,Med Temperature,195.54,469.56,278.98,,1820.1,,0.264,2.67,1.09,0.058,0.0055,20.15,-25.5,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+343,Med Temperature,453.79,257.12,24.77,,1271.71,,0.87,49.57,1.36,0.401,20.42,181.5,-25.74,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+344,Med Temperature,195.24,916.4,559.94,,2688.93,,0.544,4.33,0.85,0.298,0.0053,19.33,-24.68,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+345,Med Temperature,188.22,374.74,14.02,,718.05,,0.86,9.15,1.13,0.168,1.18,106.87,-33.3,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+346,Med Temperature,312.06,428.23,587.64,,2065.76,,1.99,87.28,3.81,0.501,37.44,116.74,-32.75,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+347,Med Temperature,377.02,516.29,31.91,,1623.14,,2.01,15.61,1.57,0.405,2.47,102.31,-25.5,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+348,Med Temperature,155.59,481.51,988.82,,1290.72,,4.7,9.73,0.33,0.51,0.177,233.79,-25.74,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+349,Med Temperature,229.01,761.22,2162.62,,1109.58,,0.97,7.06,1.46,0.382,1.29,52.98,-24.68,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+350,Med Temperature,254,373.45,16.21,,1575.81,,1.59,8.25,1.62,0.216,0.0028,335.92,-33.3,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+351,Med Temperature,389.2,267.35,37.76,,1007.58,,18.95,27.87,2.83,0.357,9.15,256.74,-32.75,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+352,Med Temperature,211.1,374.63,23.64,,1391.07,,2.09,9.52,2.15,0.251,0.154,597.13,-25.5,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+353,Med Temperature,1302.1,326.41,651.9,,1908.71,,11.23,118.3,6.32,0.99,41.01,454.34,-25.74,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+354,Med Temperature,601.09,375.74,319.52,,2606.96,,2.9,168.12,2.69,0.69,95.1,1028.36,-24.68,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+355,Med Temperature,670.89,277,477.34,,1699.54,,8.5,76.35,4.02,0.49,32.48,830.11,-33.3,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+356,Med Temperature,319.59,447.16,638.62,,1418.37,,5.05,38.5,2.1,0.333,9.68,883.36,-32.75,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+357,Med Temperature,239.8,361.06,859.91,,2313.76,,3.21,189.84,4.89,0.76,97.97,687.02,-25.5,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+358,Med Temperature,586.43,351.62,763.32,,2730.25,,4.07,188.33,5.85,0.89,118.34,362.55,-25.74,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+359,Med Temperature,468.53,493.66,521.65,,2743.81,,6.63,207.7,10.21,0.98,112.74,1089.46,-24.68,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+360,Med Temperature,468.29,608.68,142.26,,3191.3,,3.25,187.75,4.71,0.86,100.58,282.64,-33.3,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+361,Med Temperature,367.56,338.34,429.84,,2605.15,,4.56,229.45,8.66,0.97,132.33,210.97,-32.75,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+362,Med Temperature,309.23,380.19,406.42,,3096.9,,4.56,251.54,6.92,0.96,139.56,1548.78,-25.5,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+363,Med Temperature,494.09,432.5,292.01,,3107.93,,4.32,208.39,5.77,0.91,129.66,533.14,-25.74,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+364,Med Temperature,1752.22,868.04,47.61,,4682.81,,8.93,105.29,11.83,1.5,114.81,1012.78,-17.28,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+365,Med Temperature,132.94,3334.31,2.8,,8745.53,,0.12,0.86,0.33,0.134,0.0693,17.33,-16.68,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+366,Med Temperature,325.41,1519.74,5.3,,1591.38,,0.108,3.14,4.2,0.135,0.0274,12.04,-16.23,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+367,Med Temperature,163.09,749.83,2.5,,2442.98,,0.08,1.11,1.12,0.05,0.0028,32.99,-17.23,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+368,Med Temperature,8.53,70.65,7.72,,497.11,,29.84,2.4,14.28,0.233,0.218,179.6,-16.705,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+369,Med Temperature,32.77,801.44,10.65,,1737.22,,5.73,4.02,7.69,0.42,0.009,579.45,-16.645,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+370,Med Temperature,471.72,607.77,22.07,,1754.03,,3.12,16.72,11.45,0.45,6.14,855.95,-16.585,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+371,Med Temperature,5.31,140.39,3.71,,1043.25,,0.08,2.33,9.29,0.15,1.27,79.58,-16.525,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+372,Med Temperature,8.69,111.34,2.5,,3209.77,,0.08,0.178,3.64,0.196,0.0135,1,-16.465,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+373,Med Temperature,50.76,1599.46,7.79,,3890.54,,2.24,8.06,6.77,0.35,0.425,614.85,-16.405,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+374,Med Temperature,871.45,1283.02,6.35,,3293.32,,0.251,4.49,4.24,0.23,0.582,114.85,-16.345,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+375,Med Temperature,93.72,2074.94,2.5,,1126.38,,0.08,3.25,8.99,0.065,0.0086,10.21,-16.285,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+376,Med Temperature,86.7,415.48,9.07,,2308.19,,3.22,4.24,5.05,0.37,0.0258,280.28,-16.225,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+377,Med Temperature,24.2,256.73,9.89,,2863.3,,0.1,1.36,4.09,0.169,0.247,8.03,-16.855,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+378,Med Temperature,230.46,1190.78,5.56,,3235.69,,1.44,2.69,1.96,0.34,0.0115,449.79,-16.49,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+379,Med Temperature,33.39,375.77,7.76,,1637.07,,0.71,2.55,3.81,0.19,0.806,57.15,-17.25,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+380,Med Temperature,25.51,254.09,6.14,,1317.75,,0.4,1.12,3.99,0.185,0.0028,135.3,-16.7,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+381,Med Temperature,151.87,245.57,11.5,,930.14,,0.173,0.69,2.74,0.126,0.0028,43.38,-17.08,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+382,Med Temperature,251.73,1382.69,2.5,,2255.65,,0.08,0.58,7.41,0.081,0.0135,3.74,-17.11,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+383,Med Temperature,85.65,459.43,3.34,,2256.46,,0.08,3.77,3.68,0.176,0.0135,11.12,-16.89,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+384,Med Temperature,98.44,999.55,3.65,,4019.42,,0.45,4.17,4.83,0.19,0.125,22.33,-17.116,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py1,Tan et al. 2022
+385,Med Temperature,11.54,641.84,22.38,,4791.92,,0.188,1.61,0.33,1.07,0.0028,50.83,-24.96,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+386,Med Temperature,37.03,1294.46,73.5,,5742.93,,0.08,0.375,0.66,0.75,0.0028,11.55,-24.28,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+387,Med Temperature,572.26,1623.65,2.5,,8.955,,0.246,0.172,0.9,0.036,0.0028,117.25,-24.54,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+388,Med Temperature,27.72,3404.8,2.91,,18.01,,0.65,2.12,0.33,0.208,0.0028,211.88,-24.54,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+389,Med Temperature,15.87,5706.81,20.81,,17.91,,0.08,0.36,0.33,0.0276,0.01,15.47,-24.17,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+390,Med Temperature,145.21,2686.28,11.68,,132.46,,0.51,4.48,0.33,0.278,0.0028,582.61,-16.31,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+391,Med Temperature,27.03,575.76,2.5,,2478.81,,0.08,0.0435,0.33,0.256,0.0028,0.0184,-17.43,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+392,Med Temperature,53.52,1640.08,69.34,,3333.05,,0.08,1.57,0.33,0.79,0.0028,17.26,-16.31,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+393,Med Temperature,4.71,144.83,3.35,,3595.03,,0.087,1.5,0.33,0.57,0.0028,24.66,-17.43,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+394,Med Temperature,1.16,68,2.56,,982.08,,0.08,0.0435,0.33,0.089,0.0028,0.072,-16.31,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+395,Med Temperature,274.67,2401.74,165.25,,56.76,,0.185,0.546,0.94,0.058,0.0028,40.84,-17.43,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+396,Med Temperature,102.71,2802.07,3.63,,25.57,,0.08,0.66,0.81,0.038,0.0028,1.62,-16.31,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+397,Med Temperature,3.89,121.01,2.5,,1924.84,,0.08,0.0435,2.08,0.72,0.0028,0.0184,-17.43,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+398,Med Temperature,6.13,255.51,2.5,,1758.71,,0.08,0.0435,0.33,0.033,0.0028,0.0184,-15.45,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+399,Med Temperature,1.6,68.9,2.5,,1917.92,,0.083,0.53,4.32,0.167,0.0028,1.41,-16.93,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+400,Med Temperature,1.1,68,2.5,,1229.24,,0.08,0.087,11.99,0.053,0.0028,0.34,-15.45,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+401,Med Temperature,36.76,603.04,3.57,,2626.68,,1.75,0.475,1.3,0.093,0.0028,376.79,-16.93,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+402,Med Temperature,25.01,170.86,9.38,,707.1,,0.08,7.85,10.21,0.309,0.563,27.71,-15.45,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+403,Med Temperature,32.59,464.17,2.5,,2028.45,,3.38,0.487,1.17,0.088,0.0028,1164.89,-16.93,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+404,Med Temperature,11.52,851.51,4.07,,797.87,,0.116,2.52,12.11,0.071,0.0028,6.48,-15.45,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+405,Med Temperature,17.26,843.35,2.5,,707.62,,0.08,2.07,16.59,0.096,0.0028,7.86,-16.93,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+406,Med Temperature,4.26,253.07,2.5,,2226.3,,0.08,0.0435,0.33,0.045,0.0028,0.0368,-15.45,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+407,Med Temperature,2.33,68,4.61,,1005.11,,0.08,2.3,16.25,0.184,0.0091,9.44,-16.93,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+408,Med Temperature,2.52,68,2.5,,907.63,,0.08,2.02,10.08,0.086,0.0028,8.37,-15.45,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+409,Med Temperature,6.54,68,2.5,,1667.35,,0.08,0.185,0.33,0.031,0.0028,0.469,-16.93,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+410,Med Temperature,52.37,68,12.65,,1103.77,,0.192,8.62,16.64,0.44,1.45,49.37,-15.45,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+411,Med Temperature,1.1,130.71,2.5,,716.14,,0.08,0.0435,4.09,0.029,0.0028,0.092,-16.93,Orogenic Au-metamorphic fluid,Neoproterozoic to Mesozoic ,Py2,Tan et al. 2022
+412,Med Temperature,1.1,68,48.37,,23913.12,,0.08,0.0435,0.96,122.43,0.0028,0.0184,-2.4,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+413,Med Temperature,49.88,208.29,43.09,,25855.36,,0.211,1.35,1.36,130.21,0.0028,105.42,-2.55,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+414,Med Temperature,119.03,655.94,83.38,,37265.43,,0.081,1.38,1.21,232.76,0.0028,41.79,-2.45,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+415,Med Temperature,26,121.67,43.11,,22829.21,,0.087,1.92,0.82,85.17,0.0028,18.4,-2.08,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+416,Med Temperature,53.23,284.17,51.18,,37994.59,,0.08,0.66,0.33,211.75,0.0028,4.52,-2.4,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+417,Med Temperature,74.35,495.91,54.08,,31141.28,,0.08,0.341,0.33,250.54,0.0028,1.78,-2.26,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+418,Med Temperature,6.26,91.11,4.76,,8975.8,,0.08,0.337,0.77,21.08,0.0028,19.72,-2.55,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+419,Med Temperature,281.47,458.16,61.91,,27708.43,,0.08,0.172,0.94,66.98,0.0056,2.41,-2.45,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+420,Med Temperature,2.01,68,28.11,,18358.96,,0.08,0.262,0.33,45.26,0.0028,1.91,-2.14,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+421,Med Temperature,148.47,364.39,12.2,,17862.86,,0.08,0.146,0.33,22.88,0.0028,2.99,-2.08,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+422,Med Temperature,92.9,445.71,159.4,,20987.09,,0.49,10.38,0.33,48.71,0.0028,198.76,-2.4,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+423,Med Temperature,4.26,68,53.62,,24158.52,,0.085,2.18,1.29,44,0.0028,70.9,-2.26,Orogenic Au-Magmatic-hydrothermal ,Neoproterozoic to Mesozoic ,Py3a,Tan et al. 2022
+424,Sedimentary,129.1627404,416.5611198,517.3705055,56.17936874,23.14194263,0.039,0.233411396,2.953109088,0.423,0,1.335749162,240.9150744,25.636,Secondary py nodules,Ordovician,grey burrowed calcisiltite w nodules,Gregory et al. 2019
+425,Sedimentary,44.58440904,200.3453309,576.7556807,14.49190623,8.706714563,0.035,0.165193099,1.050552041,0.379,0.022788528,1.641706874,119.529674,28.652,Secondary py nodules,Ordovician,grey burrowed calcisiltite w nodules,Gregory et al. 2019
+426,Sedimentary,140.2567068,336.3874882,1156.225407,253.1751192,27.1305714,0.380418885,0.409538378,3.274970474,0.433,0.025357084,1.070714276,213.1472588,27.385,Secondary py nodules,Ordovician,grey burrowed calcisiltite w nodules,Gregory et al. 2019
+427,Sedimentary,122.1395812,212.5452494,990.4650521,289.1990875,16.36848744,0.162876554,0.302112904,2.746395726,0.327,0.135381835,0.547550014,181.7930031,23.176,Secondary py nodules,Ordovician,grey burrowed calcisiltite w nodules,Gregory et al. 2019
+428,Sedimentary,63.08654345,106.9991364,2214.847247,225.3770754,6.584981672,0.032,0.260698831,0.918848941,0.3485,0.021953153,1.33146594,95.30506346,26.069,Secondary py nodules,Ordovician,grey burrowed calcisiltite w nodules,Gregory et al. 2019
+429,Sedimentary,2.364075687,22.66306219,404.0126782,1.667462819,0.4475,0.038,0.056,0.169959043,0.408,0.0105,0.915804594,64.78104887,29.678,Secondary py nodules,Ordovician,grey burrowed calcisiltite w nodules,Gregory et al. 2019
+430,Sedimentary,46.79963622,111.2568839,580.4149389,5.920670137,3.970487671,0.033,0.16046286,0.792445941,0.746321452,0.360769082,2.129737597,186.0669188,24.394,Secondary py nodules,Ordovician,grey burrowed calcisiltite w nodules,Gregory et al. 2019
+431,Sedimentary,31.16800613,136.4220146,1744.303374,11.05611632,8.393892235,0.170602597,0.187202914,0.682207448,0.3765,1.199618966,2.1710166,145.2511375,26.57,Secondary py nodules,Ordovician,grey burrowed calcisiltite w nodules,Gregory et al. 2019
+432,Sedimentary,27.26100301,230.1542849,156.4911631,1.530856257,22.11691229,0.035,0.0515,1.257016808,0.3755,0.359472422,0.215745054,75.1064218,22.52,Secondary py nodules,Ordovician,grey burrowed calcisiltite w nodules,Gregory et al. 2019
+433,Sedimentary,157.7181777,351.7123499,1661.012137,485.4448852,13.69948932,0.258825849,0.394986699,2.745015498,0.3545,0.260927429,1.130053385,168.3483126,19.922,Secondary py nodules,Ordovician,grey burrowed calcisiltite w nodules,Gregory et al. 2019
+434,Sedimentary,0.073,0.006,0.0045,0.0015,0.0025,,0.029,0.001,0.007,0.003,0.011,0.004,-31.8,Sedimentary framboids,Permian,Py1a framboids,Jinxiang Li 2019
+435,Sedimentary,0.054,0.023,0.0045,0.053,0.0025,,0.001,0.025,0.001,0.003,0.001,0.004,-34.1,Sedimentary framboids,Permian,Py1a framboids,Jinxiang Li 2019
+436,Sedimentary,0.041,0.0075,0.013,0.0295,0.0025,,0.001,0.001,0.007,0.003,0.005,0.008,-31.8,Sedimentary framboids,Permian,Py1a framboids,Jinxiang Li 2019
+437,Sedimentary,0.026,0.022,0.0045,0.018,0.0025,,0.017,0.001,0.033,0.003,0.001,0.004,-34.1,Sedimentary framboids,Permian,Py1a framboids,Jinxiang Li 2019
+438,Sedimentary,0.034,0.0075,0.042,0.019,0.0025,,0.017,0.001,0.0105,0.013,0.001,0.004,-1.1,Sedimentary Secondary pyrite,Permian,Py2 porous xtline pyrite. Diagenetic origing.,Jinxiang Li 2019
+439,Sedimentary,0.028,0.015,0.016,0.014,0.0025,,0.003,0.001,0.016,0.015,0.001,0.004,-0.1,Sedimentary Secondary pyrite,Permian,Py2 porous xtline pyrite. Diagenetic origing.,Jinxiang Li 2019
+440,Sedimentary,0.061,0.051,0.085,0.011,0.005,,0.005,0.04,0.012,0.006,0.002,0.105,-1.1,Sedimentary Secondary pyrite,Permian,Py2 porous xtline pyrite. Diagenetic origing.,Jinxiang Li 2019
+441,Sedimentary,0.081,0.0075,0.021,0.012,0.0025,,0.001,0.001,0.031,0.003,0.026,0.005,-0.1,Sedimentary Secondary pyrite,Permian,Py2 porous xtline pyrite. Diagenetic origing.,Jinxiang Li 2019
+442,Sedimentary,0.067,0.074,0.025,0.022,0.0025,,0.001,0.002,0.02,0.003,0.001,0.004,-1.1,Sedimentary Secondary pyrite,Permian,Py2 porous xtline pyrite. Diagenetic origing.,Jinxiang Li 2019
+443,Sedimentary,0.073,0.009,0.116,0.0015,2.408,,0.001,0.001,0.001,0.003,0.166,0.083,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+444,Sedimentary,0.036,0.0075,0.031,0.025,2.363,,0.001,0.001,0.001,0.003,0.178,0.042,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+445,Sedimentary,0.04765,0.01129,0.031,0.012,0.33341,,0.00535,0.00865,0.01147,0.00265,0.02547,0.01818,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+446,Sedimentary,0.038,0.018,0.193,0.0095,2.747,,0.001,0.001,0.01,0.003,0.001,0.004,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+447,Sedimentary,0.03,0.036,0.151,0.01,3.013,,0.001,0.025,0.001,0.018,0.001,0.029,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+448,Sedimentary,0.034,0.0075,0.263,0.042,4.501,,0.008,0.015,0.03,0.004,0.001,0.004,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+449,Sedimentary,0.013,0.0075,0.009,0.003,0.135,,0.001,0.006,0.001,0.001,0.218,0.004,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+450,Sedimentary,0.038,0.0075,0.0045,0.0015,1.874,,0.015,0.007,0.002,0.005,0.208,0.004,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+451,Sedimentary,0.036,0.0075,0.044,0.059,0.384,,0.001,0.001,0.001,0.003,0.212,0.015,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+452,Sedimentary,0.202,0.09,0.034,0.081,0.166,,0.004,0.005,0.001,0.008,0.197,0.004,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+453,Sedimentary,0.04,0.014,0.032,0.011,1.048,,0.001,0.001,0.021,0.023,0.206,0.004,13.3,Sedimentary Secondary pyrite,Permian,"Py3 euhedral py. Late sedimentary diagenesis, early deformation.",Jinxiang Li 2019
+454,Polymetallic Hydrothermal,289.231038,2.76085408,81.50434464,3856.26102,118.1781814,22.73123651,5.051721814,3.142514799,0,0.136294081,10.72071378,447.0977347,4.19,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+455,Polymetallic Hydrothermal,604.7344314,2.664666889,46.27090961,2874.319267,191.1868751,21.60368148,3.038998492,3.177149752,0,0.123663413,8.804578231,519.7235992,3.8,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+456,Polymetallic Hydrothermal,485.8440347,3.187102928,258.0375076,7332.204728,278.6882921,24.25348198,31.9591779,18.77126077,0,0.404916325,6.000640635,362.3245596,6.43,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+457,Polymetallic Hydrothermal,481.8247225,5.038307129,148.9435197,681.2205009,159.9016463,18.12745137,25.70615272,19.19883318,0,0.188921975,2.186655763,465.7451486,6.36,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+458,Polymetallic Hydrothermal,576.7358187,3.419335614,230.0168641,2592.60812,257.3142765,21.85036953,39.48175987,22.29282962,0.199475111,0.459776403,3.622078188,400.7910394,6.13,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+459,Polymetallic Hydrothermal,693.0199672,3.308496048,367.5010014,1979.268138,321.2057123,39.05531879,77.48386367,22.76765089,0,0.64688272,7.873146753,535.1852507,5.1,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+460,Polymetallic Hydrothermal,657.4736291,3.720459354,152.8641544,3046.128609,145.0736079,37.34590574,23.73725858,4.181654303,0,0.387663166,26.63130972,660.8855605,4.9,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+461,Polymetallic Hydrothermal,279.3555474,5.895891066,187.9693422,3003.879624,165.624009,13.34564106,13.53567244,3.222495624,0.08729663,0.038166395,7.681588346,513.2074966,4.19,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+462,Polymetallic Hydrothermal,54.30504703,2.402383549,1443.411327,835.7985007,10.93186438,24.8762949,8.225595045,0.167477906,0,0.026393114,97.30043676,138.2542132,3.8,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+463,Polymetallic Hydrothermal,23.45517549,9.781599874,3.089193964,1057.783072,10.85292154,35.61261986,0.060539409,0.366786271,0.072947727,0,28.10974692,16.51984204,6.43,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+464,Polymetallic Hydrothermal,33.01664959,6.784866625,897.1773271,913.3989967,11.82166755,17.40122772,8.677844606,0.796693583,0.103433312,0,64.179413,60.59386963,6.36,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+465,Polymetallic Hydrothermal,40.18118025,5.574706971,453.7962259,2794.174711,22.41230042,41.75372662,53.96218818,3.260752207,0.038162476,0,121.4690383,142.4893217,6.13,Hydrothemal Seawater mix,Quaternary,Py-I Anhedral. Outermost zone of the chimney,Meng et al. 2020
+466,Polymetallic Hydrothermal,10580.42837,10.63459598,1152.149393,5.247599609,262.5465286,50.16874568,19.01243971,64.87103488,0.196480239,0.375853323,0.006924742,80.30557941,4.46,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+467,Polymetallic Hydrothermal,10758.15545,13.08971326,923.239929,2.97328407,265.120177,45.85133786,11.19538589,71.76474559,0,0.299295684,0,50.45914211,2.77,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+468,Polymetallic Hydrothermal,11151.26484,10.716995,1051.776166,42.0611751,264.7918028,48.54540555,20.44168493,53.26021931,0.163713583,0.344405303,0.014794236,79.50932331,4.23,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+469,Polymetallic Hydrothermal,11489.60095,18.12147259,1308.427627,940.6407153,226.4018918,38.28358501,7.858153895,25.6202111,0.024830534,0.075725935,0.020024078,53.50320756,4.51,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+470,Polymetallic Hydrothermal,18757.86157,24.5569964,1272.864796,184.5346765,169.210678,35.83192607,21.72550641,47.68624995,0.096500484,0.295863468,0.02031028,114.6518284,4.69,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+471,Polymetallic Hydrothermal,1687.87049,32.58691873,794.8873406,14.5767339,377.3007952,24.40407571,1.538080466,9.653882158,0,0.054018206,0.01160011,18.01273265,3.41,Hydrothermal,Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+472,Polymetallic Hydrothermal,670.8541305,19.78878758,657.9069925,4.087992463,592.5083627,16.94238147,0.227223423,12.25340809,0.030421411,0.019700097,0.001187263,1.439094749,4.69,Hydrothermal,Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+473,Polymetallic Hydrothermal,439.03273,15.25588012,430.9072041,0.970133763,508.7158485,19.91569005,0.048640925,10.90340615,0.062517864,0.030649592,0,0.423762475,3.76,Hydrothermal,Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+474,Polymetallic Hydrothermal,1316.757727,66.33556189,1794.237881,13.66001256,170.9560007,7.730469081,2.563807856,4.453157634,0.12114468,0.049529922,0,19.93126399,4.51,Hydrothermal,Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+475,Polymetallic Hydrothermal,865.3732237,19.61231559,1114.967005,19.91713426,242.8064819,9.741601369,1.41483076,6.290156889,0.123984272,0.040711473,0,10.80368452,4.6,Hydrothermal,Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+476,Polymetallic Hydrothermal,456.1347832,20.63828483,1752.726921,22.24960849,310.4701227,8.862946279,1.569886933,6.371833551,0.152242392,0.063497439,0.008869954,12.11413081,4.19,Hydrothermal,Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+477,Polymetallic Hydrothermal,1589.805741,42.154756,2844.747153,26.37011525,332.4769421,14.41615991,4.092746693,8.919313616,0.237833712,0.149990723,0,45.26294777,4.46,Hydrothermal,Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+478,Polymetallic Hydrothermal,377.5246317,23.24618393,1414.306478,6.397893476,267.4997437,6.964111339,2.387309977,2.255981947,0,0.053588083,0,19.41283702,2.77,Hydrothermal,Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+479,Polymetallic Hydrothermal,711.3168267,19.82425636,1133.389468,12.00068392,414.4474223,17.96083087,1.319657735,5.369806637,0.029139443,0.049628686,0.003739418,15.77042239,3.41,Hydrothermal,Quaternary,"Py-II Euhedral, replaced and overgrown by massive chalcopyrite. Interioir wall",Meng et al. 2020
+480,Polymetallic Hydrothermal,5693.710088,6.761627714,2052.023939,0.925242803,641.1414097,42.07320154,4.976264865,113.9389062,0.120457658,0.346397734,0,21.7976714,4.04,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+481,Polymetallic Hydrothermal,9467.532811,12.86914315,2030.312393,1.973942145,706.002175,53.17796289,11.49005292,144.4991034,0.123129632,0.559506289,0.013386488,67.01426252,4.19,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+482,Polymetallic Hydrothermal,14794.18226,16.4060699,864.5651279,1.573824109,457.855264,31.25723099,6.907631557,124.4731729,0,0.267574733,0.01601507,40.13261272,2.91,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+483,Polymetallic Hydrothermal,8127.212582,9.178625998,629.2916817,1.156492194,501.7814593,28.43575629,5.217052068,66.95277348,0,0.185200032,0,43.13244598,3.82,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+484,Polymetallic Hydrothermal,15635.05745,20.80995586,859.1639978,2.809430629,304.7243139,21.64634688,13.61585948,79.82583703,0.048512658,0.364741776,0.015180319,85.19818964,2.56,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+485,Polymetallic Hydrothermal,14577.82327,18.8362493,1645.796952,1.54202448,370.5928201,35.84177401,21.01510962,121.0996729,0.096437298,0.648238616,0.031184968,137.7768863,2.03,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+486,Polymetallic Hydrothermal,19098.32651,28.91385067,1044.228992,1.264244797,268.6274756,25.57789994,14.62993711,81.53814184,0.160588427,0.428061054,0.019153692,102.7388331,3.42,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+487,Polymetallic Hydrothermal,8995.57802,14.66560479,9454.218359,39.38841818,362.4600921,28.58908067,17.06485318,115.0094245,0.17817964,0.378097736,0.017301976,83.4007573,3.05,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+488,Polymetallic Hydrothermal,16337.98551,22.26316514,3601.404793,8.808306041,410.3112436,33.22102459,13.90241975,140.7582964,0.029084127,0.408606293,0.005918591,91.26269204,4.04,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+489,Polymetallic Hydrothermal,6628.040008,10.09106818,889.9002859,4.461854026,193.4665794,16.46079074,1.690522503,26.14971916,0.030980479,0.040237616,0.012954446,15.95002928,2.91,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+490,Polymetallic Hydrothermal,16411.16186,21.50201899,1042.923575,41.76584155,303.0756984,27.72396543,9.308673655,68.53165534,0.053693563,0.279736633,0.011151106,68.96745672,3.82,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+491,Polymetallic Hydrothermal,17034.48849,28.08011717,712.8938315,2.100922222,293.102886,27.78991183,8.601611684,66.53609061,0.053609372,0.15877208,0.00780848,33.72422461,2.56,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+492,Polymetallic Hydrothermal,12624.09866,16.43724444,681.3210036,1.84553831,237.6968144,21.44785214,8.881185941,45.92562458,0,0.241392042,0.010572005,39.73767821,2.03,"Sulfide Chimneys, Black Smokers",Quaternary,"Py-III Massive py, Innermost interioir wall",Meng et al. 2020
+493,Sedimentary,22.8193,77.5325,26.4696,126.104,264.571,14.3368,0.748785,2.27218,2.18425,0.143495,0.854534,30.9003,,Sedimentary framboids,Quaternary,S4-24-26_0,Figueroa et al. unpublished
+494,Sedimentary,69.8527,117.099,196.774,459.187,168.921,44.7013,0.7986,8.73731,7.3502,0.42919,8.90112,266.487,,Sedimentary framboids,Quaternary,S4-24-26_0,Figueroa et al. unpublished
+495,Sedimentary,66.2223,208.606,117.064,93.8888,1261.75,88.6418,8.8066,6.89035,4.80635,0.334735,5.50896,100.482,,Sedimentary framboids,Quaternary,S4-24-26_0,Figueroa et al. unpublished
+496,Sedimentary,32.7743,127.692,41.1533,239.171,481.663,36.6757,0.61745,20.3437,5.1006,0.33865,3.43114,68.7613,,Sedimentary framboids,Quaternary,S4-24-26_0,Figueroa et al. unpublished
+497,Sedimentary,82.4672,168.7,129.611,506.417,195.94,122.064,2.43934,15.7417,8.8768,3.23247,2.69212,298.985,,Sedimentary framboids,Quaternary,S4-24-26_0,Figueroa et al. unpublished
+498,Sedimentary,39.3252,188.171,195.673,352.729,280.253,92.0632,4.19588,20.0307,7.85425,1.77672,4.48129,304.195,,Sedimentary framboids,Quaternary,S4-24-26_1,Figueroa et al. unpublished
+499,Sedimentary,38.4366,40.8927,85.4061,88.4705,900.538,32.4739,0.48444,1.62455,4.4834,0.27999,1.0562,93.1383,,Sedimentary framboids,Quaternary,S4-24-26_1,Figueroa et al. unpublished
+500,Sedimentary,85.7434,290.74,170.425,321.757,196.882,141.537,7.52155,14.3226,4.7689,0.32653,4.44642,159.899,,Sedimentary framboids,Quaternary,S4-24-26_1,Figueroa et al. unpublished
+501,Sedimentary,86.2891,210.14,216.797,174.432,1090.58,135.726,6.97817,20.4756,7.93039,0.21582,8.1454,132.509,,Sedimentary framboids,Quaternary,S4-24-26_1,Figueroa et al. unpublished
+502,Sedimentary,26.3344,183.68,151.339,398.025,199.518,103.969,9.61274,22.3728,10.53345,0.63585,4.38566,231.669,,Sedimentary framboids,Quaternary,S4-24-26_1,Figueroa et al. unpublished
+503,Sedimentary,233.947,565.995,398.995,348.991,346.657,191.549,19.1714,19.5993,15.467,3.6341,9.7503,407.061,,Sedimentary framboids,Quaternary,S4-24-26_1,Figueroa et al. unpublished
+504,Sedimentary,10.4382,85.2627,42.0342,432.08,124.588,90.751,3.23783,15.0938,2.7579,0.496981,1.26504,31.3998,,Sedimentary framboids,Quaternary,S4-24-26_2,Figueroa et al. unpublished
+505,Sedimentary,7.70185,77.634,70.5649,204.417,226.197,66.0346,3.7172,15.3205,2.1036,0.12794,0.782491,54.3937,,Sedimentary framboids,Quaternary,S4-24-26_2,Figueroa et al. unpublished
+506,Sedimentary,18.3064,133.601,111.273,330.981,497.839,205.383,1.84418,55.9489,8.1274,4.9779,1.57819,135.774,,Sedimentary framboids,Quaternary,S4-24-26_2,Figueroa et al. unpublished
+507,Sedimentary,55.7537,209.409,220.137,165.123,445.356,193.811,12.2942,14.6361,3.42475,0.22761,7.35858,133.719,,Sedimentary framboids,Quaternary,S4-24-26_3,Figueroa et al. unpublished
+508,Sedimentary,33.7563,120.758,243.967,614.94,97.7061,82.9834,3.39325,6.00145,7.73245,0.486635,3.14382,192.248,,Sedimentary framboids,Quaternary,S4-24-26_3,Figueroa et al. unpublished
+509,Sedimentary,15.3119,61.5323,25.5151,93.1248,211.806,33.7783,1.49596,4.38105,1.40295,0.10137,0.487083,21.0107,,Sedimentary framboids,Quaternary,S4-24-26_3,Figueroa et al. unpublished
+510,Sedimentary,18.6338,83.0213,24.4411,105.202,334.557,42.4829,1.12948,4.53576,1.16055,0.497644,0.464893,31.0705,,Sedimentary framboids,Quaternary,S4-24-26_3,Figueroa et al. unpublished
+511,Sedimentary,11.3577,59.8799,77.715,259.952,52.2439,59.6268,3.94675,5.78303,4.83105,0.800513,0.99896,47.2919,,Sedimentary framboids,Quaternary,S4-24-26_3,Figueroa et al. unpublished
+512,Sedimentary,88.6688,211.19,306.939,237.121,338.263,142.541,10.8415,17.0685,6.99435,0.51075,6.08858,109.959,,Sedimentary framboids,Quaternary,S4-24-26_3,Figueroa et al. unpublished
+513,Sedimentary,7.00978,60.6647,81.4095,216.928,76.0805,73.1956,2.49815,11.4681,3.16775,0.477806,0.36503,54.355,,Sedimentary framboids,Quaternary,S4-24-26_3,Figueroa et al. unpublished
+514,Sedimentary,230.463,531.959,602.402,151.72,493.68,143.895,18.2068,14.1694,8.63105,0.6341,6.09627,431.032,,Sedimentary framboids,Quaternary,S4-24-26_4,Figueroa et al. unpublished
+515,Sedimentary,222.568,242.314,95.1823,151.34,384.491,198.286,2.66079,28.9821,6.84816,0.890821,21.8799,158.687,,Sedimentary framboids,Quaternary,S4-24-26_4,Figueroa et al. unpublished
+516,Sedimentary,105.255,278.314,201.545,96.7855,516.136,61.153,6.90451,13.5459,9.94865,0.12902,4.60004,225.255,,Sedimentary framboids,Quaternary,S4-24-26_4,Figueroa et al. unpublished
+517,Sedimentary,266.497,619.137,261.587,404.104,462.412,216.637,3.78046,116.157,4.8706,0.34082,5.10769,225.858,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+518,Sedimentary,412.573,499.541,199.494,348.838,735.787,219.674,5.05668,115.535,3.8798,0.54638,4.63156,185.748,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+519,Sedimentary,166.554,415.623,584.842,114.965,468.88,206.827,13.9878,203.142,5.16525,0.3325,3.89594,138.557,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+520,Sedimentary,509.124,349.12,273.353,202.094,382.241,150.083,1.6119,96.3927,14.1879,1.1067,0.518,621.388,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+521,Sedimentary,242.651,441.79,79.9102,38.5192,233.852,62.8533,0.698567,27.6892,2.2728,0.15246,0.982143,84.1084,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+522,Sedimentary,231.486,424.225,54.3787,31.3603,222.622,50.6457,0.91495,27.3256,1.32685,0.09855,1.00888,44.797,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+523,Sedimentary,777.785,415.698,411.631,169.739,974.68,74.9504,6.96774,52.1844,4.44715,0.32396,4.26892,240.669,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+524,Sedimentary,44.5853,203.949,628.831,207.327,151.313,124.309,13.2338,62.4235,4.96515,0.281425,1.15414,257.85,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+525,Sedimentary,156.471,205.869,533.019,175.455,49.1583,30.1633,7.83528,7.79662,12.94985,0.9174,8.60829,103.232,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+526,Sedimentary,28.6127,273.393,135.933,219.234,209.503,105.941,1.72695,63.9373,3.0681,0.21591,2.31753,118.795,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+527,Sedimentary,51.7363,502.425,418.075,230.6,187.251,415.435,10.011,68.6218,4.2191,0.47254,3.15901,339.004,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+528,Sedimentary,34.7364,224.241,275.676,232.815,200.015,145.22,3.22078,77.113,6.71425,0.493435,1.89796,130.816,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+529,Sedimentary,16.9409,33.3569,62.8201,120.047,5.68455,4.98508,0.7279,2.31285,7.4237,0.478995,0.173755,39.4469,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+530,Sedimentary,27.6693,145.21,146.939,124.645,41.3986,37.6337,0.69395,12.0043,7.33005,0.5171,1.54935,102.982,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+531,Sedimentary,150.655,279.559,437.977,421.849,194.781,205.596,4.09804,64.9556,7.93335,0.5875,3.81572,145.019,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+532,Sedimentary,21.3594,191.31,98.0673,113.67,21.0376,12.4714,0.81085,2.68155,8.51295,2.37379,4.87811,115.292,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+533,Sedimentary,61.0335,71.3671,50.2586,62.706,21.3338,8.38247,1.37659,1.6232,4.61405,0.385185,2.09938,38.3452,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+534,Sedimentary,1.32256,2.62748,2.43649,3.49315,1.69671,0.992995,0.180175,0.60967,2.00325,0.107335,0.0332935,1.92457,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+535,Sedimentary,23.952,15.8475,5.26417,7.03288,33.9321,4.0754,0.385106,2.09345,2.11375,0.13868,0.272023,3.40141,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+536,Sedimentary,9.25804,28.3925,37.2892,20.6411,15.8449,12.6243,1.2897,5.9212,6.1487,0.36574,0.552749,22.7216,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+537,Sedimentary,15.6088,38.2805,18.4704,26.0346,21.2931,6.74086,1.27168,4.2614,4.00655,0.244835,0.497173,30.4253,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+538,Sedimentary,4.49631,17.4938,13.505,11.3756,177.85,2.24985,1.17987,1.82243,4.963,0.32777,0.391367,13.2654,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+539,Sedimentary,2.58046,23.3812,12.2997,20.2763,10.1762,19.7102,0.728522,4.4952,4.13515,0.40986,0.511959,22.0127,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+540,Sedimentary,10.8772,38.7875,13.3989,11.0739,9.72332,7.32776,0.625173,2.2286,3.21175,0.216715,0.998294,16.338,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+541,Sedimentary,1.30113,6.31697,7.22578,21.162,4.3631,2.51664,0.394235,1.50435,4.59775,0.424663,0.240413,11.3861,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+542,Sedimentary,1.46251,6.52131,4.67406,6.19148,6.71517,2.54244,0.194771,1.45747,1.5206,0.12721,0.087936,3.19197,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+543,Sedimentary,1.7517,6.05885,4.25474,4.975,6.29296,2.63761,0.221892,1.26567,2.20115,0.13583,0.123721,3.98286,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+544,Sedimentary,3.40873,13.5924,18.0781,16.1078,12.7342,10.7182,1.03504,6.28302,5.02555,0.24995,0.359442,18.126,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+545,Sedimentary,6.27169,12.1581,19.0851,7.6222,8.96395,3.73444,0.545191,2.13166,3.06505,0.26546,0.343349,5.57883,,Sedimentary framboids,Quaternary,S3-10-12_0,Figueroa et al. unpublished
+546,Sedimentary,49.5656,206.25,500.554,196.359,588.553,360.534,9.89703,17.0539,4.03985,0.261725,1.76032,292.45,,Sedimentary framboids,Quaternary,S4-28-30_0,Figueroa et al. unpublished
+547,Sedimentary,70.1169,319.111,502.92,313.785,599.623,357.907,13.3245,38.0734,3.67045,0.680004,2.26352,237.715,,Sedimentary framboids,Quaternary,S4-28-30_0,Figueroa et al. unpublished
+548,Sedimentary,197.412,1050.55,664.215,62.8142,1405.91,26.0533,15.5966,15.6586,4.46854,0.150755,19.0314,176.744,,Sedimentary framboids,Quaternary,S4-28-30_0,Figueroa et al. unpublished
+549,Sedimentary,26.7288,60.3532,8.81961,87.3973,222.426,10.0825,0.16515,0.5491,1.6313,0.12262,0.104655,14.0778,,Sedimentary framboids,Quaternary,S4-28-30_0,Figueroa et al. unpublished
+550,Sedimentary,218.33,466.302,364.77,198.328,3130.51,63.0558,9.88178,13.0685,5.67505,0.381615,1.94684,512.548,,Sedimentary framboids,Quaternary,S4-28-30_0,Figueroa et al. unpublished
+551,Sedimentary,64.9366,315.07,36.2324,138.548,406.804,40.82,0.6103,18.9673,10.0782,0.371545,1.54698,56.9327,,Sedimentary framboids,Quaternary,S4-28-30_1,Figueroa et al. unpublished
+552,Sedimentary,211.011,282.371,302.309,86.4928,337.236,148.062,8.85302,7.62436,2.4047,0.160485,2.83109,131.129,,Sedimentary framboids,Quaternary,S4-28-30_1,Figueroa et al. unpublished
+553,Sedimentary,68.5699,172.135,131.723,159.882,200.734,93.9611,2.53327,6.42147,4.0552,0.32308,4.16655,61.3715,,Sedimentary framboids,Quaternary,S4-28-30_1,Figueroa et al. unpublished
+554,Sedimentary,177.642,1148.72,264.355,277.356,259.58,67.7388,5.12875,17.9913,4.21715,0.734094,3.15176,219.623,,Sedimentary framboids,Quaternary,S4-28-30_1,Figueroa et al. unpublished
+555,Sedimentary,368.183,709.84,370.12,155.798,898.933,75.4218,7.36862,11.5829,15.6648,0.19387,6.11299,379.126,,Sedimentary framboids,Quaternary,S4-28-30_1,Figueroa et al. unpublished
+556,Sedimentary,28.292,202.948,27.4864,190.615,397.043,104.773,0.24684,25.1302,5.41676,0.154815,4.73439,28.9889,,Sedimentary framboids,Quaternary,S4-28-30_1,Figueroa et al. unpublished
+557,Sedimentary,151.287,404.166,355.171,37.0627,1341.5,12.7299,6.09772,17.0135,4.6603,0.30625,2.11233,964.724,,Sedimentary framboids,Quaternary,S4-28-30_2,Figueroa et al. unpublished
+558,Sedimentary,315.562,411.85,245.163,196.658,320.723,107.233,6.83687,20.3089,25.5956,,28.9839,220.998,,Sedimentary framboids,Quaternary,S3BC_18-20,Figueroa et al. unpublished
+559,Sedimentary,273.715,207.829,150.211,122.036,1160.42,34.1513,4.71603,16.759,20.72485,,4.92616,162.126,,Sedimentary framboids,Quaternary,S3BC_18-20,Figueroa et al. unpublished
+560,Sedimentary,94.9536,254.149,52.1487,112.663,274.214,77.4672,4.57787,22.2653,12.2183,,4.22103,40.8518,,Sedimentary framboids,Quaternary,S3BC_18-20,Figueroa et al. unpublished
+561,Sedimentary,26.4572,30.5087,35.4799,47.24585,272.764,12.5251,1.6001,4.19445,23.5835,,2.03662,32.0914,,Sedimentary framboids,Quaternary,S3BC_18-20,Figueroa et al. unpublished
+562,Sedimentary,39.4398,99.6898,38.2421,144.029,767.759,15.1306,1.2495,19.3613,14.58025,,5.34037,48.7445,,Sedimentary framboids,Quaternary,S4BC_18-20,Figueroa et al. unpublished
+563,Sedimentary,40.545,457.212,319.835,349.697,93.5803,11.952,21.1802,4.87495,23.93205,,10.8367,233.366,,Sedimentary framboids,Quaternary,S4BC_18-20,Figueroa et al. unpublished
+564,Sedimentary,72.3497,128.449,80.8182,237.477,257.069,201.782,1.66775,24.8896,19.84575,,50.1774,111.886,,Sedimentary framboids,Quaternary,S4BC_18-20,Figueroa et al. unpublished
+565,Sedimentary,29.6241,118.206,39.6054,167.775,531.833,18.6645,2.65086,3.9878,21.1702,,3.48112,28.5165,,Sedimentary framboids,Quaternary,S4BC_18-20,Figueroa et al. unpublished
+566,Sedimentary,49.8423,386.263,70.5069,413.818,862.518,114.812,1.6575,23.9373,22.31065,,3.85549,51.1382,,Sedimentary framboids,Quaternary,S4BC_18-20,Figueroa et al. unpublished
+567,Sedimentary,17.8536,59.3108,57.0441,159.175,199.681,16.1273,1.6647,4.4549,23.95215,,2.34256,94.9154,,Sedimentary framboids,Quaternary,S4BC_18-20,Figueroa et al. unpublished
+568,Sedimentary,13.0397,63.3966,33.4375,164.313,276.089,50.6133,1.216,2.86135,17.554,,2.94292,48.8474,,Sedimentary framboids,Quaternary,S4BC_18-20,Figueroa et al. unpublished
+569,Sedimentary,24.8487,148.113,82.7011,278.588,859.994,121.214,2.7223,28.5693,30.52065,,,83.2323,,Sedimentary framboids,Quaternary,S4BC_14-16,Figueroa et al. unpublished
+570,Sedimentary,39.5775,67.6259,45.4145,22.9984,275.109,29.098,2.06582,3.13593,7.56675,,,43.5939,,Sedimentary framboids,Quaternary,S4BC_14-16,Figueroa et al. unpublished
+571,Sedimentary,12.3311,285.957,332.962,73.31235,382.508,25.1822,25.1262,5.04645,28.1433,,,150.923,,Sedimentary framboids,Quaternary,S4BC_14-16,Figueroa et al. unpublished
+572,Sedimentary,64.2859,119.575,267.616,88.8455,109.45505,15.7494,2.71365,6.32485,25.936,,,48.2354,,Sedimentary framboids,Quaternary,S4BC_14-16,Figueroa et al. unpublished
+573,Sedimentary,93.6023,432.923,299.954,18.0688,185.515,6.79388,8.29332,21.2463,4.601,,,487.471,,Sedimentary framboids,Quaternary,S4BC_14-16,Figueroa et al. unpublished
+574,Sedimentary,181.559,605.627,536.558,137.249,1359.74,48.4849,4.99307,16.8297,15.02705,,,104.323,,Sedimentary framboids,Quaternary,S4BC_14-16,Figueroa et al. unpublished
+575,Sedimentary,52.9713,195.207,85.036,151.123,453.837,139.999,3.92375,9.91244,9.9391,,,75.4241,,Sedimentary framboids,Quaternary,S4BC_14-16,Figueroa et al. unpublished
+576,Sedimentary,101.018,346.876,96.2088,90.7785,726.229,150.747,5.44119,17.3779,9.6061,,,101.713,,Sedimentary framboids,Quaternary,S4BC_14-16,Figueroa et al. unpublished
+577,Sedimentary,192.365,68.7402,275.151,71.7152,40.8245,28.8428,0.370485,2.07579,5.3934,,,130.381,,Sedimentary framboids,Quaternary,S3BC_26-28,Figueroa et al. unpublished
+578,Sedimentary,88.3155,375.289,251.133,157.361,69.95625,32.2281,18.1209,4.2664,17.45365,,,101.797,,Sedimentary framboids,Quaternary,S3BC_26-28,Figueroa et al. unpublished
+579,Sedimentary,22.7361,24.3678,24.3042,25.81825,128.267,12.2948,0.71215,2.15425,9.8737,,,27.5492,,Sedimentary framboids,Quaternary,S3BC_26-28,Figueroa et al. unpublished
+580,Sedimentary,343.004,321.511,238.727,118.831,225.984,102.786,6.70709,29.7349,13.7259,,,55.7982,,Sedimentary framboids,Quaternary,S3BC_26-28,Figueroa et al. unpublished
+581,Sedimentary,183.294,596.039,1818.43,499.325,183.16,21.017,81.771,32.495,,,46.869,4.173,,Sedimentary framboids,Quaternary,S3BC_34-36,Figueroa et al. unpublished
+582,Sedimentary,300.808,578.976,616.807,354.917,452.12,90.963,88.451,11.256,,,46.2,12.583,,Sedimentary framboids,Quaternary,S3BC_34-36,Figueroa et al. unpublished
+583,Sedimentary,802.148,176.092,166.674,51.389,82.053,113.044,26.502,8.469,,,12.98,4.806,,Sedimentary framboids,Quaternary,S3BC_34-36,Figueroa et al. unpublished
+584,Sedimentary,774.628,1413.59,956.067,215.207,3044.69,62.284,56.023,19.245,,,48.621,14.379,,Sedimentary framboids,Quaternary,S3BC_34-36,Figueroa et al. unpublished
+585,Sedimentary,34.682,35.942,88.78,532.976,583.775,7.878,103.095,1.088,,,3.289,1.536,,Sedimentary framboids,Quaternary,S3BC_30-32,Figueroa et al. unpublished
+586,Sedimentary,113.163,702.369,309.328,43.167,71.897,31.795,22.605,15.317,,,9.59,14.077,,Sedimentary framboids,Quaternary,S3BC_30-32,Figueroa et al. unpublished
+587,Sedimentary,79.494,163.577,134.081,130.909,368.891,3.343,77.868,1.321,,,14.222,1.584,,Sedimentary framboids,Quaternary,S3BC_30-32,Figueroa et al. unpublished
+588,Sedimentary,244.988,417.012,995.19,203.496,2090.13,34.345,36.966,9.846,,,35.206,25.611,,Sedimentary framboids,Quaternary,S3BC_30-32,Figueroa et al. unpublished
+589,Sedimentary,10.4225,405.789,292.853,114.099,339.37,11.0727,18.7305,3.4516,,,2.3108,112.581,,Sedimentary framboids,Quaternary,S4_2-4_2.c,Figueroa et al. unpublished
+590,Sedimentary,1.3195,35.1207,135.102,187.83,1959.76,30.9638,0.8079,29.0651,,,1.71842,101.225,,Sedimentary framboids,Quaternary,S4_2-4_5.c,Figueroa et al. unpublished
+591,Sedimentary,21.037,89.7763,15.2423,330.685,292.525,7.18234,1.03775,3.2264,,,4.77831,32.2568,,Sedimentary framboids,Quaternary,S4_2-4_7.c,Figueroa et al. unpublished
+592,Sedimentary,12.8834,65.1724,23.5374,426.809,148.057,199.948,0.39865,5.72601,,,2.81819,18.3851,,Sedimentary framboids,Quaternary,S4_2-4_9.c,Figueroa et al. unpublished
+593,Sedimentary,26.4168,50.0047,95.7467,252.474,33.90975,11.0583,1.01875,6.36162,,,2.67541,35.0288,,Sedimentary framboids,Quaternary,S4_2-4_14.,Figueroa et al. unpublished
+594,Sedimentary,88.8821,291.161,704.093,609.715,67.0525,4.18405,6.03575,6.05095,,,4.74518,55.9948,,Sedimentary framboids,Quaternary,S4_2-4_15.,Figueroa et al. unpublished
+595,Sedimentary,133.393,160.206,234.955,182.332,106.991,15.9222,5.80601,51.6599,,,1.18215,163.419,,Sedimentary framboids,Quaternary,S4_2-4_17.,Figueroa et al. unpublished
+596,Sedimentary,14.1182,33.9586,21.6498,40.4788,337.208,1.0054,0.4592,1.33985,,,4.75773,29.0851,,Sedimentary framboids,Quaternary,S4_2-4_18.,Figueroa et al. unpublished
+597,Sedimentary,15.2131,34.1213,247.515,36.97895,87.8107,14.237,7.46625,2.57625,,,3.54407,63.8966,,Sedimentary framboids,Quaternary,S4_6-8_1.c,Figueroa et al. unpublished
+598,Sedimentary,50.3452,156.008,289.015,309.037,772.217,75.8409,2.2034,5.31705,,,3.09955,342.969,,Sedimentary framboids,Quaternary,S4_6-8_2.c,Figueroa et al. unpublished
+599,Sedimentary,21.8129,28.9274,20.1644,95.5315,152.543,12.565,0.460295,1.7107,,,3.16448,45.9567,,Sedimentary framboids,Quaternary,S4_6-8_5.c,Figueroa et al. unpublished
+600,Sedimentary,23.3199,63.5395,28.9018,78.3298,759.765,21.6734,0.492125,7.17513,,,1.54796,50.0916,,Sedimentary framboids,Quaternary,S4_6-8_11.,Figueroa et al. unpublished
+601,Sedimentary,59.3401,179.248,12.8002,113.775,310.683,5.70124,0.44384,1.3658,,,4.16867,40.1234,,Sedimentary framboids,Quaternary,S4_6-8_12.,Figueroa et al. unpublished
+602,Sedimentary,24.3355,63.6257,20.0328,127.148,115.462,7.83516,0.49193,3.90706,,,3.75511,54.2072,,Sedimentary framboids,Quaternary,S4_6-8_13.,Figueroa et al. unpublished
+603,Sedimentary,2.56961,11.3453,4.85201,31.5157,2588.3,3.94984,0.22663,0.8816,,,1.5748,14.244,,Sedimentary framboids,Quaternary,S4_6-8_14.,Figueroa et al. unpublished
+604,Sedimentary,28.7288,50.9919,92.1486,24.49725,56.8841,1.3414,0.6724,2.05485,,,2.56482,43.2104,,Sedimentary framboids,Quaternary,S4_6-8_16.,Figueroa et al. unpublished
+605,Sedimentary,72.2184,267.974,227.183,89.8191,347.139,17.568,143.2,1.08237,,,118.242,112.764,,Sedimentary framboids,Quaternary,S3_14-16_4,Figueroa et al. unpublished
+606,Sedimentary,111.818,315.01,284.118,85.6993,325.025,17.5465,127.955,1.5112,,,187.029,180.452,,Sedimentary framboids,Quaternary,S3_14-16_5,Figueroa et al. unpublished
+607,Sedimentary,30.8996,279.326,891.224,62.1205,499.889,10.042,27.2896,15.8821,,,86.0552,81.4357,,Sedimentary framboids,Quaternary,S3_14-16_6,Figueroa et al. unpublished
+608,Sedimentary,828.469,391.765,294.189,252.448,469.035,2.67874,56.3525,23.288,,,144.379,129.602,,Sedimentary framboids,Quaternary,S3_14-16_8,Figueroa et al. unpublished
+609,Sedimentary,55.7464,121.504,195.828,296.244,1479.88,2.18145,38.1261,0.83745,,,221.812,197.293,,Sedimentary framboids,Quaternary,S3_14-16_9,Figueroa et al. unpublished
+610,Sedimentary,108.502,439.161,209.795,314.619,59.09045,1.7328,4.6853,1.63461,,,667.197,531.344,,Sedimentary framboids,Quaternary,S3_14-16_1,Figueroa et al. unpublished
+611,Sedimentary,229.144,465.502,204.651,199.269,1006.75,1.132,18.2915,14.4291,,,398.437,364.349,,Sedimentary framboids,Quaternary,S3_14-16_1,Figueroa et al. unpublished
+612,Sedimentary,13.5842,142.716,62.5994,33.75035,33.4011,0.7693,10.0675,0.35576,,,40.2486,33.7311,,Sedimentary framboids,Quaternary,S3_14-16_1,Figueroa et al. unpublished
+613,Sedimentary,35.9475,40.0602,31.6305,87.144,270.135,1.3597,4.16702,2.35288,,,36.0289,30.9318,,Sedimentary framboids,Quaternary,S3_22-24_2,Figueroa et al. unpublished
+614,Sedimentary,172.956,178.336,76.7789,142.61,73.14815,2.4012,5.862,6.29508,,,96.1052,59.5395,,Sedimentary framboids,Quaternary,S3_22-24_5,Figueroa et al. unpublished
+615,Sedimentary,235.519,324.451,1124.68,122.8078,383.62,183.101,3.5987,21.809,,,4.28936,126.917,,Sedimentary framboids,Quaternary,S3_2-4_3.c,Figueroa et al. unpublished
+616,Sedimentary,2.36661,67.1224,16.5334,22.31605,3248.74,18.5782,0.87495,2.1912,,,0.355315,43.6022,,Sedimentary framboids,Quaternary,S3_2-4_8.c,Figueroa et al. unpublished
+617,Sedimentary,12.4566,285.431,196.003,257.321,3252.85,128.307,1.7967,70.4367,,,3.1955,544.065,,Sedimentary framboids,Quaternary,S3_2-4_13.,Figueroa et al. unpublished
+618,Sedimentary,107.324,291.535,15.9704,323.493,110.84,50.6144,1.24824,15.6217,,,2.12155,49.5073,,Sedimentary framboids,Quaternary,S3_2-4_20.,Figueroa et al. unpublished
+619,Sedimentary,222.169,1055.9,478.52,159.56,917.355,408.992,24.142,22.2545,,,64.77,133.836,,Sedimentary framboids,Quaternary,S3_2-4_22.,Figueroa et al. unpublished
+620,Sedimentary,9.20736,65.0962,317.665,45.65025,399.666,11.5039,4.71095,3.74355,,,19.5323,88.4373,,Sedimentary framboids,Quaternary,S4_10-12_1,Figueroa et al. unpublished
+621,Sedimentary,10.1964,47.5224,5.08926,119.816,561.926,6.13725,0.52195,1.3368,,,0.9405,13.8736,,Sedimentary framboids,Quaternary,S4_10-12_4,Figueroa et al. unpublished
+622,Sedimentary,103.441,191.822,43.1295,49.4137,302.72,23.4186,1.86285,4.47245,,,6.02463,106.047,,Sedimentary framboids,Quaternary,S4_10-12_7,Figueroa et al. unpublished
+623,Sedimentary,149.855,1447.92,846.276,199.909,1949.63,15.7268,33.9621,41.9676,,,23.9662,609.676,,Sedimentary framboids,Quaternary,S4_10-12_9,Figueroa et al. unpublished
+624,Sedimentary,960.792,615.737,52.9186,62.0293,79.2923,1.7291,1.77014,1.81185,,,0.27516,75.4059,,Sedimentary framboids,Quaternary,S4_10-12_1,Figueroa et al. unpublished
+625,Sedimentary,63.0835,61.6753,53.9543,199.057,50.4213,3.48525,1.6787,4.5185,,,0.73785,63.4509,,Sedimentary framboids,Quaternary,S4_10-12_1,Figueroa et al. unpublished
+626,Sedimentary,97.3339,149.304,77.2095,131.327,1040.34,9.38498,0.9525,2.39735,,,6.20955,117.669,,Sedimentary framboids,Quaternary,S4_10-12_1,Figueroa et al. unpublished
+627,Sedimentary,16.1064,31.2548,8.6308,30.6674,241.044,2.30046,0.41816,3.33221,,,1.20578,25.5304,,Sedimentary framboids,Quaternary,S4_10-12_2,Figueroa et al. unpublished
+628,Sedimentary,5.14385,10.8331,5.71515,42.4312,146.289,7.12631,0.2809,0.8195,,,0.907439,6.96358,,Sedimentary framboids,Quaternary,S4_10-12_2,Figueroa et al. unpublished
+629,Sedimentary,2.20773,18.0485,1.0736,38.0367,196.434,3.63358,0.266585,0.79915,,,0.26446,6.46531,,Sedimentary framboids,Quaternary,S4_10-12_2,Figueroa et al. unpublished
+630,Low Temp Hydrothermal,0.05,0.001,0.147,0.028,8.091,,0.023,0.029,0.021,0.02,0.001,0.004,2.48,Hydrothermal Au-ore,Triassic,"Py4 hydrothermal alteration, along fractures, Au mineralization",Jinxiang Li 2019
+631,Low Temp Hydrothermal,0.059,0.001,0.17,0.0015,3.723,,0.015,0.02,0.024,0.003,0.196,0.004,2.48,Hydrothermal Au-ore,Triassic,"Py4 hydrothermal alteration, along fractures, Au mineralization",Jinxiang Li 2019
+632,Low Temp Hydrothermal,0.059,0.015,0.1,0.024,3.766,,0.001,0.001,0.001,0.003,0.177,0.004,2.48,Hydrothermal Au-ore,Triassic,"Py4 hydrothermal alteration, along fractures, Au mineralization",Jinxiang Li 2019
+633,Low Temp Hydrothermal,0.04,0.039,0.038,0.02,2.975,,0.001,0.001,0.047,0.003,0.209,0.004,2.48,Hydrothermal Au-ore,Triassic,"Py4 hydrothermal alteration, along fractures, Au mineralization",Jinxiang Li 2019
+634,Low Temp Hydrothermal,0.063,0.062,0.247,0.0015,5.514,,0.001,0.032,0.001,0.029,0.001,0.004,2.1,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+635,Low Temp Hydrothermal,0.059,0.001,0.168,0.0015,3.309,,0.001,0.001,0.001,0.014,0.014,0.075,2,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+636,Low Temp Hydrothermal,0.059,0.019,0.145,0.0015,3.156,,0.001,0.052,0.038,0.041,0.012,0.004,2.1,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+637,Low Temp Hydrothermal,0.034,0.012,0.259,0.019,4.215,,0.001,0.002,0.001,0.019,0.001,0.004,2,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+638,Low Temp Hydrothermal,0.078,0.03,0.172,0.027,3.314,,0.001,0.044,0.001,0.009,0.007,0.004,2.1,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+639,Low Temp Hydrothermal,0.045,0.001,0.093,0.007,1.102,,0.009,0.028,0.001,0.013,0.168,0.004,2,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+640,Low Temp Hydrothermal,0.042,0.001,0.204,0.0015,2.745,,0.004,0.001,0.001,0.037,0.157,0.004,2.1,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+641,Low Temp Hydrothermal,0.066,0.001,0.042,0.0015,0.65,,0.008,0.009,0.001,0.003,0.189,0.004,2,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+642,Low Temp Hydrothermal,0.032,0.001,0.063,0.032,1.901,,0.004,0.013,0.024,0.019,0.192,0.004,2.1,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+643,Low Temp Hydrothermal,0.004,0.001,0.0045,0.162,0.496,,0.001,0.001,0.001,0.022,0.154,0.004,2,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+644,Low Temp Hydrothermal,0.035,0.001,0.0045,0.165,2.221,,0.001,0.009,0.006,0.047,0.227,0.024,2.1,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+645,Low Temp Hydrothermal,0.068,0.032,0.109,0.01,1.589,,0.001,0.025,0.001,0.018,0.178,0.004,2,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+646,Low Temp Hydrothermal,0.083,0.013,0.04,0.012,1.565,,0.001,0.021,0.001,0.028,0.203,0.004,2.1,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+647,Low Temp Hydrothermal,0.046,0.001,0.038,0.012,1.14,,0.031,0.001,0.005,0.022,0.2,0.004,2,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+648,Low Temp Hydrothermal,0.049,0.001,0.105,0.012,1.379,,0.001,0.017,0.031,0.005,0.192,0.004,2.1,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+649,Low Temp Hydrothermal,0.054,0.001,0.058,0.012,1.267,,0.024,0.001,0.045,0.003,0.189,0.004,2,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+650,Low Temp Hydrothermal,0.065,0.022,0.064,0.012,3.337,,0.001,0.001,0.027,0.003,0.182,0.004,2.1,Hydrothermal Au-ore,Triassic,"Py5 hydrothermal, or magmatic, Au-rich",Jinxiang Li 2019
+651,Polymetallic Hydrothermal,5.27547865,23.04214706,0.933652931,0.422,6693.716518,0.008,0.520843569,0.492661127,0.048,0.0025,0.0095,6.677658681,2.047,Hydrothermal Breccias ,not defined,"2091448_1, small euhedral, dolomitic marble",Figueroa et al. unpublished
+652,Polymetallic Hydrothermal,0.780336069,27.30347667,0.1815,0.3775,2697.207996,0.0055,0.253808277,0.062950189,0.06,0.002,0.007,0.394364005,2.408,Hydrothermal Breccias ,not defined,"2091448_2, small euhedral, dolomitic marble",Figueroa et al. unpublished
+653,Polymetallic Hydrothermal,0.044,0.412250673,1.356575585,1.632128469,8391.884683,0.0055,1.328392072,1.490333904,0.06,0.008697331,0.024307827,165.0885391,-0.168,Hydrothermal Breccias ,not defined,"2091448_4, small euhedral, dolomitic marble",Figueroa et al. unpublished
+654,Polymetallic Hydrothermal,20.74402638,2.080019857,1.533374729,0.772118664,2899.613131,0.0055,7.707991757,2.256312366,0.06,0.007364929,0.111638045,463.4009221,4.208,Hydrothermal Breccias ,not defined,"2091449_3, large euhedral, dolomitic marble",Figueroa et al. unpublished
+655,Polymetallic Hydrothermal,204.546868,23.83689431,2.845732189,4.342479958,3774.594339,0.11323982,14.4908537,11.60383598,0.06,0.011739844,0.292627376,2391.576526,4.447,Hydrothermal Breccias ,not defined,"2091449_3, large euhedral, dolomitic marble",Figueroa et al. unpublished
+656,Polymetallic Hydrothermal,5420.669929,2771.42161,365.9070768,124.8421957,3505.280531,0.339360269,34.60760954,171.0120493,1.058454179,0.087047945,4.263564665,301.1779575,6.774,Hydrothermal Breccias ,not defined,"2091451_1, small anhedral, metasediment",Figueroa et al. unpublished
+657,Polymetallic Hydrothermal,1886.828134,3267.214519,3218.865252,11.58785095,2065.943921,1.652037932,37.2295694,80.22635914,2.280544546,0.19566538,0.735324513,1410.665356,5.276,Hydrothermal Breccias ,not defined,"2091451_1, small anhedral, metasediment",Figueroa et al. unpublished
+658,Polymetallic Hydrothermal,1605.304612,2685.999053,366.2566129,3.653262376,461.3591771,0.080374849,22.24583874,71.06800372,0.425752993,0.057652833,1.670021391,1706.912266,7.018,Hydrothermal Breccias ,not defined,"2091451_1, small anhedral, metasediment",Figueroa et al. unpublished
+659,Polymetallic Hydrothermal,853.4064536,2604.271997,667.2780306,5.020211642,61.2264346,0.021166948,0.977542277,19.27463599,0.211421343,0.005918182,0.676969941,254.3586838,8.626,Hydrothermal Breccias ,not defined,"2091451_1, small anhedral, metasediment",Figueroa et al. unpublished
+660,Polymetallic Hydrothermal,253.977971,331.148246,120.5072857,1062.029043,218.7671097,0.063047003,5.172245411,10.29922924,2.592943128,0.015846866,0.889270027,217.4094984,22.582,Hydrothermal Breccias ,not defined,"2091452_1, large anhedral, dolomitic marble",Figueroa et al. unpublished
+661,Polymetallic Hydrothermal,36.08974,59.08338327,43.94528297,6.895629391,91.166305,0.019940808,1.352781338,9.746789583,0.0525,0.0025,2.221556693,147.1482374,21.332,Hydrothermal Breccias ,not defined,"2091452_1, large anhedral, dolomitic marble",Figueroa et al. unpublished
+662,Polymetallic Hydrothermal,171.5718076,419.2527637,214.5724421,202.837992,93.61929377,0.098900754,10.10443953,10.36249405,0.924948058,0.012017055,4.244178981,1260.93622,22.894,Hydrothermal Breccias ,not defined,"2091452_1, large anhedral, dolomitic marble",Figueroa et al. unpublished
+663,Polymetallic Hydrothermal,49.27553836,143.670016,68.1731714,169.7108983,118.1080746,0.022945601,5.948093746,3.278348578,2.263260531,0.017660224,1.445594723,138.4293705,22.994,Hydrothermal Breccias ,not defined,"2091452_1, large anhedral, dolomitic marble",Figueroa et al. unpublished
+664,Polymetallic Hydrothermal,564.8047839,397.6621565,13.03919841,9.702688797,87.53362199,0.034008395,1.657254206,0.282506498,2.399571065,0.0025,0.759155943,48.53953313,21.148,Hydrothermal Breccias ,not defined,"2091452_1, large anhedral, dolomitic marble",Figueroa et al. unpublished
+665,Polymetallic Hydrothermal,843.7299604,277.6150928,29.02723031,0.386,177.9570857,0.008,2.244590574,59.16292572,24.50386635,0.145782509,0.332629781,376.3093107,8.603,Hydrothermal Breccias ,not defined,"2091455_1, small euhedral, metasediment",Figueroa et al. unpublished
+666,Polymetallic Hydrothermal,2236.847138,255.298137,6.294659322,0.386,302.6031818,0.008,0.635859512,17.76671163,6.866341122,0.026616312,0.277441141,78.53633104,4.172,Hydrothermal Breccias ,not defined,"2091455_1, small euhedral, metasediment",Figueroa et al. unpublished
+667,Polymetallic Hydrothermal,52.35690087,48.2913118,6.142387356,0.386,144.0609092,0.008,0.407882478,1.77294934,3.762816485,0.011741328,0.110012071,122.3103697,9.783,Hydrothermal Breccias ,not defined,"2091455_1, small euhedral, metasediment",Figueroa et al. unpublished
+668,Polymetallic Hydrothermal,1224.112351,301.2462088,20.01433152,0.918454989,409.968808,0.008,2.386287409,2.408847025,20.18352848,0.105911027,0.436827118,176.131993,5.959,Hydrothermal Breccias ,not defined,"2091455_1, small euhedral, metasediment",Figueroa et al. unpublished
+669,Polymetallic Hydrothermal,784.2077686,356.6317376,25.63641257,1.077124043,159.3726929,0.008,1.092504881,2.120432061,17.79197314,0.120106507,0.206130202,108.1272709,11.339,Hydrothermal Breccias ,not defined,"2091455_1, small euhedral, metasediment",Figueroa et al. unpublished
+670,Polymetallic Hydrothermal,470.0076902,1628.780255,10.29166111,0.386,100.006052,0.008,0.317432492,2.713176588,3.133290624,0.052084124,0.007,16.69816051,1.861,Hydrothermal Breccias ,not defined,"2091456_1, small anhedral, metasediment",Figueroa et al. unpublished
+671,Polymetallic Hydrothermal,0.771293302,67.2570329,0.525482583,0.386,51.90376609,0.008,0.0175,0.098292026,1.624503912,0.0025,0.007,6.229037951,1.89,Hydrothermal Breccias ,not defined,"2091456_1, small anhedral, metasediment",Figueroa et al. unpublished
+672,Polymetallic Hydrothermal,224.5096694,426.7555468,0.42235527,0.363,17.25938353,0.015,0.018,0.22506071,0.967145559,0.006342976,0.014809745,1.023997625,1.428,Hydrothermal Breccias ,not defined,"2091456_1, small anhedral, metasediment",Figueroa et al. unpublished
+673,Polymetallic Hydrothermal,105.191158,552.7327934,0.1885,0.363,235.685747,0.015,0.018,0.0215,0.58156356,0.0015,0.0075,1.433185165,1.258,Hydrothermal Breccias ,not defined,"2091456_1, small anhedral, metasediment",Figueroa et al. unpublished
+674,Polymetallic Hydrothermal,967.4588955,583.2088815,0.79165907,0.363,155.3010062,0.015,0.018,0.095344892,2.208015506,0.0015,0.019988968,8.434176767,1.3,Hydrothermal Breccias ,not defined,"2091456_1, small anhedral, metasediment",Figueroa et al. unpublished
+675,Polymetallic Hydrothermal,0.04,0.519266948,4.456525957,9027.988237,180.0626852,0.044748873,3.726800785,0.589387772,2.535785555,0.029113557,1.082228318,38.59646104,5.663,Hydrothermal Breccias ,not defined,"2091457_1, small Euhedral, sandston conglomerate",Figueroa et al. unpublished
+676,Polymetallic Hydrothermal,0.159980444,0.17805065,2.60461819,0.363,231.5694544,0.015,2.46513338,0.359538148,1.311774086,0.011094808,1.150618335,9.226475513,4.645,Hydrothermal Breccias ,not defined,"2091457_1, small Euhedral, sandston conglomerate",Figueroa et al. unpublished
+677,Polymetallic Hydrothermal,0.432269961,0.628028155,4.094934612,8.782155217,599.5780752,0.037370013,2.565225565,0.930118593,1.461933025,0.02389557,0.401911963,21.16787699,3.989,Hydrothermal Breccias ,not defined,"2091457_1, small Euhedral, sandston conglomerate",Figueroa et al. unpublished
+678,Polymetallic Hydrothermal,0.388067295,1.627672393,19.67834873,0.363,676.9315807,0.200978805,27.0983836,9.03582811,8.125218405,0.05655359,8.074654575,1849.165366,5.091,Hydrothermal Breccias ,not defined,"2091457_1, small Euhedral, sandston conglomerate",Figueroa et al. unpublished
+679,Polymetallic Hydrothermal,0.089076709,1.331332474,10.3799868,1.30044893,1085.850629,0.457636621,13.53124113,3.946501047,3.553343626,0.071350693,2.717228941,622.1231777,4.221,Hydrothermal Breccias ,not defined,"2091457_1, small Euhedral, sandston conglomerate",Figueroa et al. unpublished
+680,Polymetallic Hydrothermal,18.47505197,40.80120024,589.1256194,87.67803291,442.8760229,0.015,56.12403634,1.428941612,6.108627357,0.024273679,5.344167035,440.2518551,2.3,Hydrothermal Breccias ,not defined,"2091458_1, small euhedral, carbonaceous siltstone ",Figueroa et al. unpublished
+681,Polymetallic Hydrothermal,87.35280655,124.1034002,17.58316912,1.540057932,356.960172,0.265947117,14.89247403,5.734560058,7.307658935,0.018567454,1.417643159,111.2924816,2.1,Hydrothermal Breccias ,not defined,"2091458_2, small euhedral, carbonaceous siltstone ",Figueroa et al. unpublished
+682,Polymetallic Hydrothermal,54.32670238,77.8497743,143.4701798,1437.494176,889.345728,0.057848277,44.01052827,5.571028995,6.877386169,0.048764278,13.08938363,277.4080331,2.2,Hydrothermal Breccias ,not defined,"2091458_3, small euhedral, carbonaceous siltstone ",Figueroa et al. unpublished
+683,Polymetallic Hydrothermal,62.70151311,103.8177791,219.2076753,35.64847768,1239.162302,0.015,22.90074621,6.717793013,6.210627973,0.035559623,9.563986538,364.7066072,2.2,Hydrothermal Breccias ,not defined,"2091458_4, small euhedral, carbonaceous siltstone ",Figueroa et al. unpublished
+684,Polymetallic Hydrothermal,557.8119259,252.3084591,172.973078,5.802655717,983.0465034,0.01,23.59645218,1.570681331,0.258488219,0.052537931,104.4076627,224.4836557,5.736,Hydrothermal Breccias ,not defined,"2091459_1, small anhedral, carboneceous siltstone",Figueroa et al. unpublished
+685,Polymetallic Hydrothermal,45.36261997,305.9308797,390.1069026,5.472034048,215.8828237,0.01,22.18712854,11.26884874,0.035,0.011850477,1.146167037,1908.8753,4.274,Hydrothermal Breccias ,not defined,"2091459_1, small anhedral, carboneceous siltstone",Figueroa et al. unpublished
+686,Polymetallic Hydrothermal,160.6431536,496.607086,328.6911829,21.2451658,383.1270127,0.01,30.00561369,16.16128516,0.162006556,0.025484446,1.408916126,1853.309124,3.85,Hydrothermal Breccias ,not defined,"2091459_1, small anhedral, carboneceous siltstone",Figueroa et al. unpublished
+687,Polymetallic Hydrothermal,458.6912631,400.0236298,91.09982559,2.916110844,757.8480254,0.01,28.54076138,18.97483986,0.353139782,0.021662082,3.592848327,1304.774564,4.031,Hydrothermal Breccias ,not defined,"2091459_1, small anhedral, carboneceous siltstone",Figueroa et al. unpublished
+688,Polymetallic Hydrothermal,1.105541919,6.763632804,5.639154755,1.267836929,214.2806372,0.01,1.793002081,0.371626203,0.035,0.0015,0.094689613,111.9483465,7.322,Hydrothermal Breccias ,not defined,"2091459_1, small anhedral, carboneceous siltstone",Figueroa et al. unpublished
+689,Polymetallic Hydrothermal,10.33635831,6.825248156,0.1795,0.3455,150.5123652,0.01,0.0115,0.14342742,1.542159492,0.0015,0.0055,2.174231027,4.343,Hydrothermal Breccias ,not defined,"2091460_1,  large euhedral, Py-Ga vein",Figueroa et al. unpublished
+690,Polymetallic Hydrothermal,4.229736403,1.680043869,1.76443685,13.54819025,155.9093989,0.01,0.0115,0.0215,13.63389812,0.0015,0.0055,23.08529741,4.595,Hydrothermal Breccias ,not defined,"2091460_1,  large euhedral, Py-Ga vein",Figueroa et al. unpublished
+691,Polymetallic Hydrothermal,69.83254014,28.26083473,10.12101333,24.44454685,60.73091833,0.01,2.531540871,1.456272051,24.32765779,0.003573167,0.334407676,43.76828584,3.641,Hydrothermal Breccias ,not defined,"2091460_1,  large euhedral, Py-Ga vein",Figueroa et al. unpublished
+692,Polymetallic Hydrothermal,2.93588865,6.953775725,727.4195117,4622.498796,9375.775351,0.01,122.3321415,2.540501608,9.640799689,4.001411491,0.039215047,1098.924383,4.81,Hydrothermal Breccias,not defined,"2091460_1,  large euhedral, Py-Ga vein",Figueroa et al. unpublished
+693,Polymetallic Hydrothermal,0.0315,3.759587241,51.70261007,0.3455,1269.215558,0.042198008,26.01089417,0.482530781,5.521507011,0.075065316,0.021922765,156.4579376,4.003,Hydrothermal Breccias ,not defined,"2091461_1, large anhedral, meta siltstone",Figueroa et al. unpublished
+694,Polymetallic Hydrothermal,42.74983216,154.3911505,2.716436297,0.3455,2287.840433,0.01,0.292246011,0.739167196,4.8878842,0.016922051,0.054934278,20.03623856,1.549,Hydrothermal Breccias ,not defined,"2091461_1, large anhedral, meta siltstone",Figueroa et al. unpublished
+695,Polymetallic Hydrothermal,12.94867626,103.2930791,2.980453118,1.759678069,27.10418811,0.01,0.517583326,0.363591937,2.181132285,0.015097628,0.058000397,21.15838217,-1.976,Hydrothermal Breccias ,not defined,"2091461_1, large anhedral, meta siltstone",Figueroa et al. unpublished
+696,Polymetallic Hydrothermal,0.0315,0.059,12.44235579,0.3455,1063.153283,0.01,0.0115,0.0215,0.748222674,0.026934228,0.0055,0.426807506,2.149,Hydrothermal Breccias ,not defined,"2091461_1, large anhedral, meta siltstone",Figueroa et al. unpublished
+697,Polymetallic Hydrothermal,0.0315,0.149420774,41.4640592,0.913684876,2801.363925,0.01,0.030897848,0.0215,0.670624108,0.04612231,0.0055,0.0585,5.333,Hydrothermal Breccias ,not defined,"2091461_1, large anhedral, meta siltstone",Figueroa et al. unpublished
+698,Polymetallic Hydrothermal,0.609928001,0.918055807,1258.243309,1258.57653,7085.967709,0.0045,48.63452617,3.689441031,0.405022525,0.321611091,0.075149784,448.1867276,5.8,Hydrothermal Breccias ,not defined,"2091464_3, large euhedral, conglomerate",Figueroa et al. unpublished
+699,Polymetallic Hydrothermal,19.30241934,20.73235732,254.5898583,44.21877712,2466.27799,0.004,23.52545838,12.68942691,0.0585,0.497684514,0.156692475,956.1866964,5.1,Hydrothermal Breccias ,not defined,"2091466_1, Large anhedral, granodiorite",Figueroa et al. unpublished
+700,Polymetallic Hydrothermal,12.66598166,14.71282501,131.9148056,4.15908293,1682.621345,0.013228271,32.11747678,4.481098823,0.20406938,4.216048493,0.016597738,7077.054848,4.7,Hydrothermal Breccias,not defined,"2091466_2, Large anhedral, granodiorite",Figueroa et al. unpublished
+701,Polymetallic Hydrothermal,20.47610032,36.31803108,66.5472309,1.888925043,1392.095254,0.03014579,32.27931312,6.713561059,0.31625259,0.264418676,0.072604969,6117.787245,4.5,Hydrothermal Breccias ,not defined,"2091466_3, large anhedral, granodiorite",Figueroa et al. unpublished
+702,Polymetallic Hydrothermal,12.4195628,271.8408219,1152.999393,196.3453016,3735.620547,0.004,19.55608545,29.18157787,0.0585,5.014251598,0.159356174,949.1884753,4.8,Hydrothermal Breccias,not defined,"2091466_5, Large anhedral, granodiorite",Figueroa et al. unpublished
+703,Polymetallic Hydrothermal,1.723691656,76.78348478,26.46231085,6.486085094,3828.733192,0.013695807,22.6438006,3.120785825,0.253197158,0.145684484,13.30261262,347.3175724,4,Hydrothermal Breccias ,not defined,"2091473_1,  Large anhedral, silicified shale",Figueroa et al. unpublished
+704,Polymetallic Hydrothermal,0.0425,23.18505003,10.5630771,0.4665,22.35482969,0.212596409,3.473729534,0.288966765,0.038,0.0025,121.4573667,2.239627828,3.7,Hydrothermal Breccias ,not defined,"2091473_2,  Large anhedral, silicified shale",Figueroa et al. unpublished
+705,Polymetallic Hydrothermal,96.23132758,112.5118848,83.37768475,0.4665,778.1077253,0.13463707,2.760803014,0.0225,0.253734758,0.0025,0.25144027,223.5401993,0.2,Hydrothermal Breccias ,not defined,"2091475_2, Large euhedral, silicified shale",Figueroa et al. unpublished
+706,Polymetallic Hydrothermal,277.2891037,286.0765072,238.3553948,8.919128341,410.5132327,0.002,46.06094944,2.601780612,2.016554466,0.010790117,48.87117369,327.9559624,-0.8,Hydrothermal Breccias ,not defined,"2091475_3, Large euhedral, silicified shale",Figueroa et al. unpublished
+707,Polymetallic Hydrothermal,75.03606735,209.2249092,255.8071095,316.481551,472.6056838,0.036727479,49.15596388,2.639986695,2.804840161,0.030189185,79.5826626,232.6896265,-1.2,Hydrothermal Breccias ,not defined,"2091475_4, Large euhedral, silicified shale",Figueroa et al. unpublished
+708,Polymetallic Hydrothermal,0.0385,0.084,30.62356179,298.3186361,50.31612466,0.0055,11.59713207,0.687817003,0.057,0.009451636,0.0065,30.77047704,5,Hydrothermal Breccias ,not defined,"2091476_2, large. Euhedral,  massive sulfide",Figueroa et al. unpublished
+709,Polymetallic Hydrothermal,0.11126191,0.084,866.686325,6467.183876,3522.163788,0.0055,156.2588517,1.371049752,0.057,0.140118319,0.0065,427.8264832,4.3,Hydrothermal Breccias ,not defined,"2091476_3, Large euhedral, Massive sulfide",Figueroa et al. unpublished
+710,Polymetallic Hydrothermal,0.0385,0.084,86.70738223,90.82720593,2022.672536,0.0055,11.35144432,2.406043329,0.057,0.066982236,0.037965658,544.8911645,4.7,Hydrothermal Breccias ,not defined,"2091476_4, Large euhedral, Massive sulfide",Figueroa et al. unpublished
+711,Polymetallic Hydrothermal,0.0385,0.084,18.28432424,40.37397819,248.764027,0.0055,12.03881321,3.64559056,0.057,0.035775666,0.0065,135.9097092,4.7,Hydrothermal Breccias ,not defined,"2091476_5, Large euhedral, Massive sulfide",Figueroa et al. unpublished
+712,Polymetallic Hydrothermal,21.67159948,18.76734845,11.99784041,0.805118899,6462.714587,0.074944468,18.45747192,3.311893425,2.062146373,0.080579902,0.141890441,303.6139813,4,Hydrothermal Breccias ,not defined,"2091485_1, Large anhedral, granodiorite",Figueroa et al. unpublished
+713,Polymetallic Hydrothermal,2.036205411,6.682450356,6.266115858,0.551627085,174.8038014,0.030835255,16.00818924,0.821486453,1.90949389,0.000308321,0.069248539,72.6171495,3.9,Hydrothermal Breccias ,not defined,"2091485_2, Large anhedral, granodiorite",Figueroa et al. unpublished
+714,Polymetallic Hydrothermal,17.50239358,18.38134623,3.921546446,1.72089963,115.8853731,0.002301153,9.711320393,0.24546027,0.961084979,0.008743486,0.02167564,64.89995037,3.9,Hydrothermal Breccias ,not defined,"2091485_3, Large anhedral, granodiorite",Figueroa et al. unpublished
+715,Polymetallic Hydrothermal,0.018595702,0.385582101,3.79292501,0.635811426,237.2045514,0.027546506,11.21684857,0.451647266,2.491119499,0.007708681,0.005396084,219.9019168,3.8,Hydrothermal Breccias ,not defined,"2091485_4, Large anhedral, granodiorite",Figueroa et al. unpublished
+716,Polymetallic Hydrothermal,92.32852817,305.1947617,20.27308228,0.781563254,0.071297629,0.01298249,0.02758347,0.02135375,1.731779075,0.003906534,0.003432082,0.039174529,-1.3,IOCG,not defined,"2129528_1, large anhedral, granite",Figueroa et al. unpublished
+717,Polymetallic Hydrothermal,634.8091492,511.9009358,1311.66589,1.343474378,0.118418366,0.002873704,0.043023385,0.012883281,17.40824253,0.004416717,0.002714909,0.278484046,-1.5,IOCG,not defined,"2129528_2, Large anhedral, granite",Figueroa et al. unpublished
+718,Polymetallic Hydrothermal,327.3320733,113.7628383,0.012613728,2.208683108,60.05594713,0.024688705,0.007093057,0.010922241,6.418456001,0.006297219,0.000766516,0.090234134,2.6,IOCG,not defined,"2129534_1, large euhedral, metasediment",Figueroa et al. unpublished
+719,Polymetallic Hydrothermal,441.2027781,1078.936254,4.393834393,1.253226023,12.14407213,0.071239948,1.894372498,0.071560243,1.428383683,0.001860093,0.187263186,35.60258852,2.5,IOCG,not defined,"2129542_1, small anhedral, metasediment",Figueroa et al. unpublished
+720,Polymetallic Hydrothermal,137.5402098,2398.712181,10.47920369,0.328831899,610.3874322,0.075040073,2.295537121,0.39006435,2.327179895,0.001267877,0.237055844,52.63384139,2.4,IOCG,not defined,"2129542_2, small anhedral, metasediment",Figueroa et al. unpublished
+721,Polymetallic Hydrothermal,526.9900402,632.1912606,31.93000307,0.382207805,12.8793387,0.146759085,7.909472785,0.599351038,1.331656403,0.000347649,8.76603478,85.98218688,2.5,IOCG,not defined,"2129542_3, small anhedral, metasediment",Figueroa et al. unpublished
+722,Polymetallic Hydrothermal,28.45289933,14.27081129,0.175448992,0.315101895,73.58535275,0.007300077,0.000663651,0.001815415,1.09025365,0.002085477,0.001660167,0.310659092,3.9,IOCG,not defined,"2129543_1, Large euhedral, metasediment",Figueroa et al. unpublished
+723,Polymetallic Hydrothermal,117.2541286,1.673757388,5.930987421,0.716272349,71.75176369,0.104646035,0.33160829,0.125318201,18.35660114,0.001339891,0.011303597,9.203003511,4.5,IOCG,not defined,"2129543_2, Large euhedral, metasediment",Figueroa et al. unpublished
+724,Polymetallic Hydrothermal,0.646312827,980.9959741,188.5997959,2.392808209,378.7388186,0.01693611,0.190013007,0.27792604,2.438358325,0.008900296,0.002529567,6.58547225,5.1,IOCG,not defined,"2129545_2, large anhedral, metasediment",Figueroa et al. unpublished
+725,Polymetallic Hydrothermal,295.9526259,4.140123108,0.373093062,828.8025909,0.791,0.0155,5.26918043,5.383536025,0.066,0.007,0.401314892,6283.844004,10.798,Hydrothermal Breccias ,not defined,"TD10_325.57, needle like, massive sulfide",Figueroa et al. unpublished
+726,Polymetallic Hydrothermal,50.33814362,1.190855103,0.101,7.117456953,0.791,0.0155,2.7889037,7.299575596,0.066,0.007,0.117107129,1994.113869,7.807,Hydrothermal Breccias ,not defined,"TD10_325.57, needle like, massive sulfide",Figueroa et al. unpublished
+727,Polymetallic Hydrothermal,208.8434275,2.649503749,0.101,52.58983191,0.791,0.0155,33.91339878,22.28316355,0.066,0.007,0.498893555,9172.940023,10.414,Hydrothermal Breccias ,not defined,"TD10_325.57, needle like, massive sulfide",Figueroa et al. unpublished
+728,Polymetallic Hydrothermal,3.836416089,32.65366048,0.583624649,0.420724,1088.444242,0.0245,0.105161895,0.3579469,0.064,0.06605908,0.041212943,3.56996064,4.5,Hydrothermal Breccias ,not defined,"TD10_353.54, small euhedral, dolomitic marble",Figueroa et al. unpublished
+729,Cubic Grade,3.750060505,3.216833588,8.835733375,0.200352351,0.322672882,0.043033084,0.081226425,0.022767396,0.919202794,0.008751534,0.006452236,0.321719955,5.184225507,Magmatic,not defined,,Gilbert et al. 2014
+730,Cubic Grade,2.334289893,2.569233634,9.39276409,0.4259298,0.534080786,0.039006429,0.066576672,0.020430263,0.812641456,0.012277597,0.006166262,0.021122513,5.225664173,Magmatic,not defined,,Gilbert et al. 2014
+731,Cubic Grade,5.265887814,2.765326542,2.910112985,0.241571332,0.445733561,0.044845777,0.059681414,0.022936007,1.11936386,0.014557822,0.003784893,0.020062545,5.333174475,Magmatic,not defined,,Gilbert et al. 2014
+732,Cubic Grade,3.059941736,3.28273039,10.29068519,0.267833436,0.345664683,0.023685256,0.051732953,0.027537115,0.519809125,0.013643198,0.005608558,0.01491889,5.416210521,Magmatic,not defined,,Gilbert et al. 2014
+733,Cubic Grade,1.953140704,2.37127117,9.351048112,0.212782832,0.573191488,0.025682053,0.062045044,0.014932908,1.356811659,0.008515229,0.006495089,0.018389286,5.35454792,Magmatic,not defined,,Gilbert et al. 2014
+734,Cubic Grade,3.32801902,3.98425479,10.01772607,0.864088941,0.504456642,0.047678911,0.056207619,0.020507503,2.146882571,0.017322588,0.004349293,0.013442619,5.240349929,Magmatic,not defined,,Gilbert et al. 2014
+735,Cubic Grade,1.953587171,2.370303596,9.35120789,0.212790627,0.573180678,0.025692364,0.061931185,0.01495417,1.360276531,0.008515572,0.006463459,0.018430471,5.359949721,Magmatic,not defined,,Gilbert et al. 2014
+736,Cubic Grade,3.329030374,3.98275076,10.04615845,0.867223241,0.506391077,0.047773212,0.056641015,0.02053535,2.154266318,0.017221988,0.004343707,0.013457656,5.184452758,Magmatic,not defined,,Gilbert et al. 2014
+737,Cubic Grade,3.02679594,2.863145895,9.608723454,0.252700173,0.407490239,0.047116109,0.050682105,0.030809575,0.702580234,0.010331258,0.010460863,0.032018572,5.364422406,Magmatic,not defined,,Gilbert et al. 2014
+738,Cubic Grade,3.178896845,3.523440301,8.969634496,0.225131213,0.363239146,0.043046037,0.044289003,0.014144759,0.585909781,0.007329715,0.003839667,0.028579542,5.262868389,Magmatic,not defined,,Gilbert et al. 2014
+739,Cubic Grade,3.97385553,2.312215451,8.788811787,0.213190386,0.421714438,0.037544395,0.045217979,0.019019094,1.133351324,0.010955877,0.008914587,0.024678409,5.205773452,Magmatic,not defined,,Gilbert et al. 2014
+740,Cubic Grade,3.583882081,3.759436179,10.65786376,0.222310856,0.433893681,0.023562062,0.044138212,0.016102899,1.999544879,0.010013017,0.01181543,0.017012406,5.359200682,Magmatic,not defined,,Gilbert et al. 2014
+741,Cubic Grade,1.112026266,0.802221211,9.280836468,0.160079533,0.30668635,0.027892397,0.051471098,0.020776048,0.46941212,0.011823407,0.00909575,0.018382576,5.224074344,Magmatic,not defined,,Gilbert et al. 2014
+742,Cubic Grade,1.434660826,0.585867164,11.36117565,0.399416166,0.360650319,0.043827842,0.04972476,0.021716067,1.349307846,0.01272328,0.005633783,0.02196165,5.106767973,Magmatic,not defined,,Gilbert et al. 2014
+743,Cubic Grade,2.837074264,2.71933651,9.255888445,0.287289437,0.495229839,0.023705887,0.047451202,0.025039691,1.226573954,0.012008505,0.010185992,0.019910664,5.463651725,Magmatic,not defined,,Gilbert et al. 2014
+744,Cubic Grade,3.097829255,2.441858752,10.93412163,0.245759395,0.317236324,0.035353368,0.047481618,0.027441345,0.481175207,0.011449212,0.011581452,0.016277398,5.352209082,Magmatic,not defined,,Gilbert et al. 2014
+745,Cubic Grade,2.947102781,2.751367649,11.13238664,0.245272728,0.381603221,0.072638163,0.047979231,0.017817912,0.991295256,0.009136336,0.004796649,0.025621076,5.418922264,Magmatic,not defined,,Gilbert et al. 2014
+746,Cubic Grade,3.159577267,3.125073274,11.11795714,0.235208025,0.455449599,0.02362988,0.070263693,0.021282715,1.245133908,0.007544277,0.004648488,0.030974005,5.200952572,Magmatic,not defined,,Gilbert et al. 2014
+747,Cubic Grade,2.933638807,2.254499505,9.665411556,0.46980225,0.406875544,0.038728611,0.063965106,0.015041669,0.916718077,0.008449861,0.00460917,0.034981735,5.46830388,Magmatic,not defined,,Gilbert et al. 2014
+748,Cubic Grade,3.036170617,3.408022758,9.681660083,0.998253999,0.427578816,0.037048819,0.036998696,0.027653684,1.151704786,0.01235307,0.004671698,0.028216733,5.334430367,Magmatic,not defined,,Gilbert et al. 2014
+749,Cubic Grade,0.992256265,0.470127649,9.683040188,0.203360774,0.462508755,0.023238016,0.058993165,0.019210216,1.213611464,0.012487061,0.00962452,0.024791396,5.323288749,Magmatic,not defined,,Gilbert et al. 2014
+750,Cubic Grade,1.197593437,0.530996534,9.29944558,0.236819615,0.342498862,0.033607946,0.065638283,0.022021558,0.559702945,0.016505683,0.005582699,0.020243756,5.385677745,Magmatic,not defined,,Gilbert et al. 2014
+751,Cubic Grade,2.271237383,1.765499464,9.343709481,0.212078079,0.388570463,0.018713202,0.039083519,0.019109545,1.144469316,0.011772044,0.005297271,0.024723823,5.340229716,Magmatic,not defined,,Gilbert et al. 2014
+752,Cubic Grade,2.106891425,2.001405101,10.08661165,0.179613151,0.338560004,0.035443605,0.04708586,0.017583419,0.510209303,0.008640915,0.008224866,0.020277133,5.220523467,Magmatic,not defined,,Gilbert et al. 2014
+753,Cubic Grade,2.691495916,3.009411356,8.962896068,0.271805788,0.441943997,0.013482741,0.045992926,0.017056795,0.424072038,0.009719961,0.005106768,0.022284084,5.411282972,Magmatic,not defined,,Gilbert et al. 2014
+754,Cubic Grade,3.315776151,3.868193644,10.53141185,0.566500999,0.780779107,0.021421135,0.05944055,0.014293625,0.857325169,0.014841781,0.006797456,0.036458601,5.275132843,Magmatic,not defined,,Gilbert et al. 2014
+755,Cubic Grade,3.218844398,3.39992986,9.914066991,0.264628442,0.429614789,0.020150087,0.059140369,0.025913297,0.477716049,0.013101706,0.006259185,0.018997272,5.155318186,Magmatic,not defined,,Gilbert et al. 2014
+756,Cubic Grade,2.687374118,3.010874577,9.642099595,0.432609774,0.290878591,0.029470945,0.046636335,0.015819889,1.095240399,0.013474073,0.009010521,0.029739427,5.135750013,Magmatic,not defined,,Gilbert et al. 2014
+757,Cubic Grade,1.331957705,0.843409378,10.55833765,0.204990618,0.38071731,0.058813836,0.075782756,0.022148916,0.907908513,0.013333478,0.008096334,0.02078003,5.373948994,Magmatic,not defined,,Gilbert et al. 2014
+758,Cubic Grade,3.728952281,4.544076238,8.465464534,0.239156975,0.479746091,0.048135545,0.077698818,0.017489973,1.065005235,0.007658896,0.003689834,0.056996326,5.488152774,Magmatic,not defined,,Gilbert et al. 2014
+759,Cubic Grade,3.458717167,4.197199746,9.994135396,0.204172033,0.446572284,0.043934139,0.066394206,0.020223843,0.55512418,0.008134292,0.00697831,0.016602191,5.230295618,Magmatic,not defined,,Gilbert et al. 2014
+760,Cubic Grade,2.469923198,1.70281855,8.994584552,0.184896705,0.364335617,0.033428596,0.05415564,0.017742091,0.827779206,0.008977,0.007170665,0.01347254,5.322389033,Magmatic,not defined,,Gilbert et al. 2014
+761,Cubic Grade,3.353378697,3.380880319,8.977859624,0.256104102,0.536109414,0.038048413,0.046190412,0.023434017,0.901492143,0.004088555,0.005144335,0.038524037,5.340465223,Magmatic,not defined,,Gilbert et al. 2014
+762,Cubic Grade,3.250088041,4.25354759,9.848662995,0.27701989,0.397281867,0.028906568,0.056697324,0.02591823,1.722702193,0.012830483,0.00644754,0.019446402,5.424544354,Magmatic,not defined,,Gilbert et al. 2014
+763,Cubic Grade,2.476064432,1.447977346,9.462187457,0.234083379,0.784008285,0.025757443,0.043494136,0.028471448,0.367088671,0.007747073,0.005117255,0.019979869,5.427036818,Magmatic,not defined,,Gilbert et al. 2014
+764,Cubic Grade,0.914220313,0.721822167,8.908773044,0.195202106,0.335000039,0.068255345,0.043114627,0.038236653,0.396852198,0.008426498,0.011234786,0.036017915,5.3823145,Magmatic,not defined,,Gilbert et al. 2014
+765,Cubic Grade,3.409298688,3.256742928,10.40714577,0.271143639,0.373790183,0.028378313,0.040941951,0.016124517,0.354640715,0.007498601,0.006828054,0.013476868,5.375962987,Magmatic,not defined,,Gilbert et al. 2014
+766,Cubic Grade,3.192690681,2.185222635,8.792913997,0.191383168,0.457552257,0.031355131,0.040796019,0.0229312,1.197976432,0.009691616,0.006787347,0.013324598,5.186299466,Magmatic,not defined,,Gilbert et al. 2014
+767,Cubic Grade,3.573041589,3.99624319,9.862137569,0.217642597,0.390076864,0.031342144,0.04980107,0.026391074,0.391761876,0.011467387,0.00678048,0.018755507,5.184571596,Magmatic,not defined,,Gilbert et al. 2014
+768,Cubic Grade,3.458678404,4.369669116,10.97317346,0.263922362,0.567812934,0.032871482,0.043888076,0.022077414,1.582614256,0.010696579,0.007325327,0.017854729,5.140456371,Magmatic,not defined,,Gilbert et al. 2014
+769,Cubic Grade,1.341665597,0.951532269,9.741744935,0.190154965,0.370453963,0.043055624,0.042629267,0.014841801,0.470261206,0.009770141,0.007779365,0.015706878,5.196845796,Magmatic,not defined,,Gilbert et al. 2014
+770,Cubic Grade,2.416345192,2.292760359,10.7161273,0.231049929,0.447323822,0.014929225,0.040474654,0.019960976,0.447079054,0.01474636,0.008857208,0.098507569,5.108390905,Magmatic,not defined,,Gilbert et al. 2014
+771,Cubic Grade,1.230157043,0.54482523,9.814762072,0.434324198,0.342958307,0.031203228,0.050932621,0.031762038,0.451492522,0.009612202,0.007193794,0.021023011,5.261284665,Magmatic,not defined,,Gilbert et al. 2014
+772,Cubic Grade,1.530047555,0.745678616,10.58464739,0.462006208,0.427736605,0.048321177,0.035596185,0.026990851,0.47921305,0.010600276,0.006394636,0.031579497,5.345870966,Magmatic,not defined,,Gilbert et al. 2014
+773,Cubic Grade,3.662762085,4.651729506,9.650390939,0.240971376,0.427701638,0.025630818,0.047132808,0.02021848,0.434224192,0.013054982,0.006963089,0.026595596,5.264513683,Magmatic,not defined,,Gilbert et al. 2014
+774,Cubic Grade,2.88976322,2.728741078,9.093477302,0.209128817,0.322223617,0.03481973,0.054804388,0.022478627,0.435139056,0.013526867,0.0066711,0.032460167,5.134481707,Magmatic,not defined,,Gilbert et al. 2014
+775,Cubic Grade,2.981372754,3.613866439,9.060428994,0.230228218,0.49782625,0.042425314,0.066122151,0.013173082,0.376406515,0.009117912,0.007402732,0.016360825,5.364958902,Magmatic,not defined,,Gilbert et al. 2014
+776,Cubic Grade,4.995288031,2.599122898,2.931005974,0.91436584,0.318415736,0.037143741,0.531239871,0.020719461,1.290231409,0.008447173,0.004708322,2.559693736,5.476584588,Magmatic,not defined,,Gilbert et al. 2014
+777,Cubic Grade,4.386964052,4.224408817,10.45261101,1.343038788,0.515295838,0.028911859,0.047556562,0.021120635,0.389561834,0.00877042,0.004057574,0.014481587,5.483230613,Magmatic,not defined,,Gilbert et al. 2014
+778,Cubic Grade,3.016072468,11.34487482,9.187953762,0.986774739,0.393986693,0.044432932,0.046733936,0.020269355,0.419862824,0.013453221,0.004053559,0.018232314,5.213755325,Magmatic,not defined,,Gilbert et al. 2014
+779,Cubic Grade,1.372341558,0.801183573,8.646608677,0.178622153,0.548934869,0.036494122,0.057915582,0.017969017,0.328206154,0.010941008,0.008244752,0.019687995,5.346519185,Magmatic,not defined,,Gilbert et al. 2014
+780,Cubic Grade,4.4419304,3.261908278,9.718599941,0.256913155,0.572406309,0.024962491,0.058263945,0.014625673,0.817022691,0.013898859,0.00790266,0.017615756,5.274636011,Magmatic,not defined,,Gilbert et al. 2014
+781,Cubic Grade,4.427899523,3.205096827,9.59629969,0.41063547,0.433142743,0.024584753,0.048242103,0.016651118,0.406848208,0.01370435,0.008560011,0.022914041,5.129958619,Magmatic,not defined,,Gilbert et al. 2014
+782,Cubic Grade,3.941382606,2.054701414,12.30746036,0.474588804,0.458396905,0.033720901,0.05278366,0.022763061,0.480944523,0.011319996,0.007232151,0.017641068,5.38870582,Magmatic,not defined,,Gilbert et al. 2014
+783,Cubic Grade,2.872258437,2.93219822,9.201858437,0.199036083,1.029382181,0.035413085,0.045626507,0.018399963,0.411476909,0.014626389,0.005515399,0.018916905,5.454873044,Magmatic,not defined,,Gilbert et al. 2014
+784,Cubic Grade,2.807635482,3.59824061,8.977072752,0.249564928,0.449521853,0.041102891,0.076129954,0.02158891,0.489634038,0.007550442,0.00533462,0.0197237,5.288813552,Magmatic,not defined,,Gilbert et al. 2014
+785,Cubic Grade,2.807193092,2.548577916,9.962844997,0.771753536,0.569015931,0.033117953,0.067520386,0.023564557,0.926940891,0.011311281,0.003694658,0.029780443,5.268269203,Magmatic,not defined,,Gilbert et al. 2014
+786,Cubic Grade,3.272625294,2.917621014,10.76774354,0.381165001,0.507526811,0.036780318,0.053206757,0.031058225,1.178373401,0.012314776,0.00507568,0.02308898,5.220782271,Magmatic,not defined,,Gilbert et al. 2014
+787,Cubic Grade,4.332599811,4.461736315,9.856962691,0.207951574,0.472875945,0.023949651,0.049916554,0.014000571,0.336178437,0.011165658,0.004489106,0.016089665,5.2383729,Magmatic,not defined,,Gilbert et al. 2014
+788,Cubic Grade,3.902003964,3.309960641,10.60111395,0.449988224,0.497309949,0.040389574,0.051829171,0.014665429,0.386843874,0.009255099,0.005932469,0.020356224,5.107206453,Magmatic,not defined,,Gilbert et al. 2014
+789,Cubic Grade,3.092691465,3.047229622,9.839586836,0.470190967,0.393262427,0.032630293,0.051827798,0.015525382,0.372544028,0.010286153,0.004618669,0.024276989,5.152250217,Magmatic,not defined,,Gilbert et al. 2014
+790,Cubic Grade,2.989800987,3.934839483,9.57529856,0.243700715,0.370922129,0.021941436,0.057598959,0.020944297,0.49246633,0.010596223,0.004929759,0.015348711,5.25106872,Magmatic,not defined,,Gilbert et al. 2014
+791,Cubic Grade,2.069854895,1.644564365,7.430274722,0.186307716,0.377185529,0.033244123,0.049721573,0.01332179,0.463886344,0.011395191,0.007147326,0.020561841,5.27629164,Magmatic,not defined,,Gilbert et al. 2014
+792,Cubic Grade,3.786785943,2.745677667,10.39300363,0.232046637,0.360836319,0.048376681,0.053526312,0.02707976,0.307737962,0.007760276,0.005269988,0.022513103,5.386965069,Magmatic,not defined,,Gilbert et al. 2014
+793,Cubic Grade,3.374406785,2.338062371,9.678760746,0.251030562,0.29916254,0.049883394,0.055823739,0.024061559,0.468634572,0.008390081,0.005175651,0.019966661,5.324335233,Magmatic,not defined,,Gilbert et al. 2014
+794,Cubic Grade,0.946129078,0.487680376,9.86879679,0.460107602,0.351667905,0.036792097,0.050923394,0.030548646,0.384297568,0.00948283,0.004356406,0.022820769,5.12477405,Magmatic,not defined,,Gilbert et al. 2014
+795,Cubic Grade,3.009201326,2.943538755,11.6654819,0.19915725,0.303353541,0.034572358,4.623563535,0.019538402,5.869068291,0.061752447,0.004783184,27.66352306,5.475787129,Magmatic,not defined,,Gilbert et al. 2014
+796,Cubic Grade,3.675572525,3.879090909,8.65367081,0.145749547,0.367119182,0.02359369,0.044144434,0.019066779,1.202753154,0.008627099,0.005722824,0.012191573,5.200742332,Magmatic,not defined,,Gilbert et al. 2014
+797,Cubic Grade,4.282543956,3.547760453,9.021091851,0.260531949,0.43125654,0.047153523,0.075643891,0.020148974,0.840337735,0.010662271,0.004160103,0.020511236,5.121827234,Magmatic,not defined,,Gilbert et al. 2014
+798,Cubic Grade,4.513830292,4.39089751,8.516556462,0.256681614,0.632167125,0.047433938,0.072679802,0.012227148,0.984642805,0.01164563,0.007487159,0.019312196,5.417825255,Magmatic,not defined,,Gilbert et al. 2014
+799,Cubic Grade,3.250895308,3.670892028,10.63210883,2.499853935,0.422958135,0.034119681,0.06505538,0.016738081,0.881431484,0.01502792,0.006944581,0.011399378,5.381647072,Magmatic,not defined,,Gilbert et al. 2014
+800,Cubic Grade,4.05484474,3.849728226,10.44106227,0.436600117,0.50564773,0.030805792,0.074835061,0.026953896,1.35645171,0.009195651,0.004038524,0.03903707,5.226051265,Magmatic,not defined,,Gilbert et al. 2014
+801,Cubic Grade,3.539592616,3.539409854,10.64125882,0.730969779,0.547936811,0.034029041,0.081038342,0.020044234,0.633221248,0.006953899,0.007199056,0.018840949,5.397795792,Magmatic,not defined,,Gilbert et al. 2014
+802,Cubic Grade,3.776158471,2.807891854,8.232879492,0.210372285,0.567042329,0.043586424,0.071677908,0.016839,1.721480512,0.007523792,0.004782097,0.020846437,5.278564752,Magmatic,not defined,,Gilbert et al. 2014
+803,Cubic Grade,5.431193742,4.232005314,9.727941437,0.532469145,0.566650087,0.037804108,0.06770146,0.020623291,2.156135208,0.008544233,0.009503998,0.045045553,5.380401772,Magmatic,not defined,,Gilbert et al. 2014
+804,Cubic Grade,2.880965949,3.590106295,10.94986175,0.235428114,0.455573935,0.025100632,0.082020249,0.021036431,0.61024746,0.005986248,0.007929143,0.020441643,5.261454716,Magmatic,not defined,,Gilbert et al. 2014
+805,Cubic Grade,4.000193802,3.827440935,9.15925682,0.273383734,0.891466405,0.045834092,0.087154434,0.015571867,0.656147519,0.006151827,0.009908304,0.01555555,5.210806462,Magmatic,not defined,,Gilbert et al. 2014
+806,Cubic Grade,2.704515554,2.638046454,9.039811161,0.344366839,0.414384263,0.043943504,0.072680611,0.010556938,0.837020432,0.012380575,0.010654405,0.019880715,5.19408711,Magmatic,not defined,,Gilbert et al. 2014
+807,Cubic Grade,2.064311915,2.511751415,9.09692772,0.399726625,0.387036481,0.051540333,0.07230898,0.023405778,0.665093471,0.012360646,0.007871216,0.020387344,5.497116924,Magmatic,not defined,,Gilbert et al. 2014
+808,Cubic Grade,2.913082227,4.19137002,9.372918858,0.253405453,0.640588981,0.050764573,0.072375463,0.027854575,0.751905376,0.008611048,0.00777877,0.019718689,5.462531406,Magmatic,not defined,,Gilbert et al. 2014
+809,Cubic Grade,3.531977691,2.800262203,10.51866405,0.231781541,0.712629809,0.021500844,0.068656224,0.017636686,1.815572864,0.005771774,0.002449551,0.030905413,5.489431288,Magmatic,not defined,,Gilbert et al. 2014
+810,Cubic Grade,2.382744469,2.041832317,10.01407909,0.202654159,0.348709616,0.040356942,0.064077238,0.024699395,0.917658896,0.010862015,0.011144239,0.021712174,5.453169174,Magmatic,not defined,,Gilbert et al. 2014
+811,Cubic Grade,4.665594431,5.08662297,10.85586639,0.49482746,0.433971225,0.0321129,0.065762914,0.016809388,1.571085817,0.00783057,0.003776453,0.017790855,5.30220477,Magmatic,not defined,,Gilbert et al. 2014
+812,Cubic Grade,2.147000063,2.373570452,10.62609764,0.279178564,0.428150889,0.034720591,0.065366426,0.031546672,0.968993108,0.017433993,0.006641598,0.016522794,5.424919202,Magmatic,not defined,,Gilbert et al. 2014
+813,Cubic Grade,3.837239837,3.384779629,7.93744526,0.419687817,0.674827352,0.025551519,0.032735386,0.023432217,0.438767527,0.012793519,0.012913194,0.016059263,5.274631802,Magmatic,not defined,,Gilbert et al. 2014
+814,Cubic Grade,2.67851479,2.127043206,10.28799866,0.495106155,0.642825067,0.037569122,0.049504082,0.022314951,0.485993868,0.009975846,0.011481675,0.018608981,5.281457634,Magmatic,not defined,,Gilbert et al. 2014
+815,Cubic Grade,3.991303454,3.155394685,10.39373112,0.275868362,0.871408676,0.038892348,0.039395749,0.02131858,0.936318613,0.009985968,0.007849203,0.020848197,5.310911146,Magmatic,not defined,,Gilbert et al. 2014
+816,Cubic Grade,4.184286981,4.167706512,8.489755015,0.168414881,0.898561388,0.038771268,0.038178555,0.02272904,0.883712941,0.009019723,0.004043887,0.015268015,5.406471465,Magmatic,not defined,,Gilbert et al. 2014
+817,Cubic Grade,3.153998758,3.214885352,5.957234711,0.257916038,1.052095852,0.033853054,0.031086216,0.025418073,1.142409503,0.008004408,0.003701978,0.019085941,5.158187682,Magmatic,not defined,,Gilbert et al. 2014
+818,Cubic Grade,1.170587398,0.479294672,8.093453553,0.201665851,0.992273107,0.047946126,0.046109195,0.02415453,0.438825871,0.011318587,0.006118319,0.020865471,5.230661344,Magmatic,not defined,,Gilbert et al. 2014
+819,Cubic Grade,7.582894814,9.56130634,4.605222937,0.712346037,32.00456938,0.021202315,0.031814122,0.623239328,0.883450953,0.020548723,0.02654313,0.034592477,5.120837861,Magmatic,not defined,,Gilbert et al. 2014
+820,Cubic Grade,2.126549186,2.108027452,2.316158776,1.397641745,4.814864372,0.020348512,0.030418981,0.598578433,0.337647852,0.020012156,0.025251556,0.033119244,5.215768446,Magmatic,not defined,,Gilbert et al. 2014
+821,Cubic Grade,2.652629155,4.368607624,6.01801865,0.730652221,28.4568017,0.021100473,0.029521361,0.629119783,0.364577277,0.028448637,0.022566421,0.066747832,5.414462757,Magmatic,not defined,,Gilbert et al. 2014
+822,Cubic Grade,10.89805073,25.938268,6.050959983,1.773440112,5.258315307,0.022055673,0.071261898,0.658053146,0.38188228,0.030307647,0.023423527,0.034300545,5.211072248,Magmatic,not defined,,Gilbert et al. 2014
+823,Cubic Grade,3.998489838,9.410439501,4.37192106,2.18171019,54.83278441,0.182995628,0.054874947,1.576252794,0.686912568,0.049488065,0.047028588,0.093466895,5.204964625,Magmatic,not defined,,Gilbert et al. 2014
+824,Cubic Grade,1.19924139,0.163673151,7.580968801,1.504215088,9.279542231,0.126186369,0.037706973,1.088344714,0.474841657,0.146924159,0.032441817,0.064462735,5.274260881,Magmatic,not defined,,Gilbert et al. 2014
+825,Cubic Grade,5.279280573,2.321404808,2.246034351,6.185600373,74.01586871,0.521468376,0.138150241,4.723719529,2.15769169,0.144656039,0.607024155,0.268179715,5.252488941,Magmatic,not defined,,Gilbert et al. 2014
+826,Cubic Grade,27.02849472,12.73329313,7.605718343,4.391429405,25.13835196,0.37026193,0.097795903,3.358520397,1.53612159,0.102779928,0.096623123,0.190451624,5.281038311,Magmatic,not defined,,Gilbert et al. 2014
+827,Cubic Grade,2.376896958,1.061692636,2.322201469,0.562842475,3.38803757,0.024490744,0.021542844,0.602656051,0.73499676,0.007430905,0.031055095,0.019786441,5.319640023,Magmatic,not defined,,Gilbert et al. 2014
+828,Cubic Grade,1.043677331,0.753762671,6.078621655,0.66489771,4.045158404,0.028848534,0.025410495,0.710247698,0.364011898,0.008305911,0.032559014,0.023294309,5.426294133,Magmatic,not defined,,Gilbert et al. 2014
+829,Cubic Grade,0.480568691,2.126422714,3.322272129,1.7867331,5.269192783,0.027900825,0.025223276,0.693526468,0.344822839,0.004082602,0.013134143,0.02229615,5.359219089,Magmatic,not defined,,Gilbert et al. 2014
+830,Cubic Grade,3.544581871,5.418166886,1.877699152,0.532253231,4.181365354,0.021777048,0.019711772,0.541555515,0.268878329,0.003114021,0.010182513,0.057506916,5.136002536,Magmatic,not defined,,Gilbert et al. 2014
+831,Cubic Grade,7.087280915,8.91831872,9.653291449,0.891911044,4.554156801,0.012628291,0.023750197,0.744775836,0.343609692,0.009639654,0.015166433,0.037925667,5.350324683,Magmatic,not defined,,Gilbert et al. 2014
+832,Cubic Grade,5.362192736,1.696179575,15.64565891,0.961146064,12.73097257,0.013562546,0.025611516,0.801414471,0.369945505,0.010356611,0.016346237,0.040852011,5.465886388,Magmatic,not defined,,Gilbert et al. 2014
+833,Cubic Grade,2.889098772,0.082956657,6.653470199,0.914935165,9.438121453,0.011543822,0.02498499,0.72569268,4.902164349,0.008917296,0.015644177,0.038308593,5.454952759,Magmatic,not defined,,Gilbert et al. 2014
+834,Cubic Grade,3.178287478,0.0876909,8.755853452,0.967040651,4.691259397,0.012164443,0.026426619,0.765953738,2.622002251,0.009399487,0.016537658,0.040473035,5.269948168,Magmatic,not defined,,Gilbert et al. 2014
+835,Cubic Grade,11.51710137,20.68867447,8.922054941,1.007337216,16.85392205,0.079408803,0.032536619,0.334921031,0.575930122,0.158930996,0.032215581,0.060391806,5.354818688,Magmatic,not defined,,Gilbert et al. 2014
+836,Cubic Grade,26.49745362,55.62601079,10.91529435,1.135119629,19.05810885,0.688211731,0.03678986,0.377580343,2.922754264,0.06673466,0.036101897,0.067898386,5.29335079,Magmatic,not defined,,Gilbert et al. 2014
+837,Cubic Grade,24.97983513,51.37967345,19.02356825,1.26062842,24.09204108,0.104328827,0.046409133,0.426173288,1.483484639,0.025555066,0.033630918,0.069889222,5.10055719,Magmatic,not defined,,Gilbert et al. 2014
+838,Cubic Grade,2.625744751,17.84584878,6.07878421,0.687824134,13.19698693,0.656742995,0.025419958,0.232636653,0.455665062,0.013872158,0.018265987,0.038053803,5.451060558,Magmatic,not defined,,Gilbert et al. 2014
+839,Cubic Grade,2.520824083,13.82309621,6.866058484,0.862094101,15.18757447,0.107533161,0.038990021,0.273306991,0.205345251,0.046968207,0.019310946,0.053082648,5.399170757,Magmatic,not defined,,Gilbert et al. 2014
+840,Cubic Grade,3.787734709,6.177570064,7.444370899,1.252128583,22.02717784,0.155670122,0.056712821,0.396662895,0.297051633,0.027206237,0.028155439,0.076997634,5.237329977,Magmatic,not defined,,Gilbert et al. 2014
+841,Cubic Grade,12.45894148,29.38267986,7.494013417,1.09581281,18.31877849,0.121644741,0.238648021,0.337971851,0.226779872,0.022599034,0.084636618,0.064313141,5.335925892,Magmatic,not defined,,Gilbert et al. 2014
+842,Cubic Grade,14.41522592,24.6803632,5.132437463,1.319722132,22.02928838,0.146035148,0.063239884,0.406710441,1.422905387,0.072043341,0.034673473,0.077349412,5.474297593,Magmatic,not defined,,Gilbert et al. 2014
+843,Cubic Grade,1.216811831,1.555323995,1.396168568,4.518507555,12.69752596,0.110210036,0.056583695,0.30194387,0.174963091,0.050709172,0.026761152,0.051508081,5.22496288,Magmatic,not defined,,Gilbert et al. 2014
+844,Cubic Grade,1.780185638,0.605169214,2.476889877,0.698378342,8.590229777,0.074752947,0.038321725,0.204484198,0.924080496,0.016121416,0.017896241,0.034860795,5.101989911,Magmatic,not defined,,Gilbert et al. 2014
+845,Cubic Grade,1.262029536,0.61953129,5.261594449,1.22705172,14.20749238,0.135355328,0.159551524,0.350302863,0.208872414,0.038946804,0.021362931,0.277000433,5.383258724,Magmatic,not defined,,Gilbert et al. 2014
+846,Cubic Grade,5.051879389,4.828742449,11.8554883,1.043226011,12.0584722,0.115180042,0.055866501,0.297607367,0.17759399,0.089031813,0.017994695,0.174774258,5.105155847,Magmatic,not defined,,Gilbert et al. 2014
+847,Cubic Grade,1.594321648,1.353117626,3.81223951,0.452321732,4.31785739,0.038479822,0.027246604,0.115666645,1.742323041,0.007702237,0.014285894,0.023607788,5.193089091,Magmatic,not defined,,Gilbert et al. 2014
+848,Cubic Grade,9.513565908,5.372057734,9.343694232,1.138407094,10.88709157,0.096649997,0.068625812,0.291155311,0.115229857,0.019547455,0.035631466,0.059355943,5.201542146,Magmatic,not defined,,Gilbert et al. 2014
+849,Cubic Grade,3.891207643,2.907913282,11.61852935,1.469103213,14.99962076,0.116543219,0.295057239,0.377734569,8.201413065,0.035536294,0.072750432,0.073996052,5.198175992,Magmatic,not defined,,Gilbert et al. 2014
+850,Cubic Grade,2.372103133,2.511566615,6.382086906,1.074210794,10.98875369,0.085058838,0.066529462,0.276241768,0.358775062,0.026287968,0.025465433,0.054054124,5.302008952,Magmatic,not defined,,Gilbert et al. 2014
+851,Cubic Grade,1.935113699,0.143994119,7.101090059,2.427736871,9.0377126,0.046123172,0.02744058,0.227306659,5.313063888,0.024430143,0.056841016,0.049099585,5.312943888,Magmatic,not defined,,Gilbert et al. 2014
+852,Cubic Grade,3.545211992,2.342686324,3.436201027,1.023350973,9.885315396,0.050463785,0.029968757,0.248514351,6.625778955,0.026604642,0.025068437,0.053701935,5.248491067,Magmatic,not defined,,Gilbert et al. 2014
+853,Cubic Grade,2.955832912,2.017664555,4.69721487,1.142960524,10.59835337,0.05461684,0.030661816,0.26274452,0.14690622,0.025054729,0.064634233,0.05749201,5.484192392,Magmatic,not defined,,Gilbert et al. 2014
+854,Cubic Grade,3.130090508,0.153190664,0.575787844,0.965235544,8.939481948,0.046080847,0.025828205,0.22152986,0.124463462,0.021058552,0.021984342,0.112364733,5.239076018,Magmatic,not defined,,Gilbert et al. 2014
+855,Cubic Grade,6.568463737,4.146010797,8.854855134,0.993017827,17.98744612,0.506776047,0.035632175,0.309358429,1.365500786,0.026597741,0.027395081,0.053065997,5.26899908,Magmatic,not defined,,Gilbert et al. 2014
+856,Cubic Grade,3.474190563,0.839881154,9.205800004,1.005701966,7.912020659,0.069278475,0.035967712,0.31304377,3.772115155,0.088483821,0.02762785,0.117050501,5.316949573,Magmatic,not defined,,Gilbert et al. 2014
+857,Cubic Grade,3.165871881,0.392079328,7.895944772,1.295419537,10.40576675,0.085515649,0.041539008,0.391646307,0.709437317,0.023279344,0.031028086,0.164775008,5.406930457,Magmatic,not defined,,Gilbert et al. 2014
+858,Cubic Grade,6.804535661,4.404802217,14.76568003,1.167740803,9.38576745,0.076995911,0.037335213,0.352757309,0.179730572,0.02079595,0.027868509,0.060051368,5.163793683,Magmatic,not defined,,Gilbert et al. 2014
+859,Cubic Grade,30.08818246,39.55514868,19.14552491,1.476500898,12.44398237,0.08632881,0.053683243,0.521468493,1.737760007,0.027827557,0.044703811,0.067862276,5.465540376,Magmatic,not defined,,Gilbert et al. 2014
+860,Cubic Grade,5.60541672,14.50659257,7.639374796,1.440210918,12.16977532,0.084029933,0.052270081,0.508187884,0.493863571,0.027278021,0.043770775,0.066092431,5.318711692,Magmatic,not defined,,Gilbert et al. 2014
+861,Cubic Grade,2.249224364,7.766455454,3.047986866,3.365665528,11.21493645,0.065584206,0.04121524,0.412602332,0.588896331,0.027623518,0.042271871,0.052546036,5.490891597,Magmatic,not defined,,Gilbert et al. 2014
+862,Cubic Grade,2.550248615,5.539549111,6.442287429,1.427579386,13.3077656,0.077450524,0.048685664,0.487775512,0.136187328,0.032880505,0.05023598,0.062083975,5.43347119,Magmatic,not defined,,Gilbert et al. 2014
+863,Cubic Grade,3.466365961,0.486265301,1.671833647,6.715534966,87.51935873,0.34264456,0.29414395,11.83968404,3.475061865,0.088998751,0.17020114,0.299008276,5.199648019,Magmatic,not defined,,Gilbert et al. 2014
+864,Cubic Grade,9.368542118,1.392123915,1.484022464,5.965077874,77.65757039,0.305322913,0.261353739,10.48609754,3.077409593,0.078872139,0.151644795,0.265418174,5.251958712,Magmatic,not defined,,Gilbert et al. 2014
+865,Cubic Grade,1.083519683,0.28657074,3.960014881,4.025057081,50.3421302,0.235208052,0.178489816,6.356763654,1.857930719,0.048858081,0.116217321,0.174583362,5.149742863,Magmatic,not defined,,Gilbert et al. 2014
+866,Cubic Grade,3.181213647,2.13506918,5.82142757,4.652108323,58.12623653,0.27284108,0.206360263,7.327979408,2.141593011,0.056351134,0.134791513,0.201650923,5.331454923,Magmatic,not defined,,Gilbert et al. 2014
+867,Cubic Grade,9.643075077,4.304820673,9.056847704,6.191400119,49.81612696,0.238020689,0.158372119,9.651878716,2.732087177,0.068610588,0.153720116,0.558697349,5.401360773,Magmatic,not defined,,Gilbert et al. 2014
+868,Cubic Grade,5.403574088,0.394971187,1.259976783,18.53113185,47.84719602,0.247237395,0.150086781,9.341540208,7.765376488,0.062789283,0.135242283,0.236773749,5.349818968,Magmatic,not defined,,Gilbert et al. 2014
+869,Cubic Grade,1.758779322,5.050005021,1.697121874,7.110195533,72.34374882,0.321216863,0.184944381,10.04342081,2.874160696,0.403736659,0.154676205,0.309306038,5.297668809,Magmatic,not defined,,Gilbert et al. 2014
+870,Cubic Grade,3.155267324,1.761012614,1.775142117,7.438935936,75.5174628,0.336621517,0.193610073,10.50446029,3.009543055,0.152631232,0.163040014,0.323661733,5.385295695,Magmatic,not defined,,Gilbert et al. 2014
+871,Cubic Grade,3.688179711,0.677763508,8.778420112,5.957478692,55.4566197,0.288612121,0.158826436,8.307408628,2.493061969,0.105909963,0.186549954,0.260978488,5.39723551,Magmatic,not defined,,Gilbert et al. 2014
+872,Cubic Grade,5.29228533,15.1731164,3.654413035,5.847411559,54.31326881,0.28380744,0.155992027,8.151243644,2.449219159,0.249879605,0.185194318,0.256202961,5.295361134,Magmatic,not defined,,Gilbert et al. 2014
+873,Cubic Grade,10.05611629,52.41285184,1.879916617,7.353668835,53.56390245,0.287335009,0.485794219,8.928846974,2.570482777,0.063134877,0.167120602,0.303069724,5.416648041,Magmatic,not defined,,Gilbert et al. 2014
+874,Cubic Grade,4.703433894,47.06690877,2.350946284,9.216194988,67.26484836,0.358364871,0.235617133,11.19069335,3.217512986,0.078970296,0.207224337,0.37977444,5.334194066,Magmatic,not defined,,Gilbert et al. 2014
+875,Cubic Grade,2.895672512,0.451531622,6.612202908,22.72791526,69.35245853,0.289480705,0.178461215,10.68873874,2.932925432,0.070194094,0.141563702,0.360307515,5.204362207,Magmatic,not defined,,Gilbert et al. 2014
+876,Cubic Grade,4.222358277,4.201194976,2.100027008,8.917696087,70.49770669,0.292390898,0.17999726,10.84167488,2.971187368,0.071063798,0.142481324,0.365395952,5.133839012,Magmatic,not defined,,Gilbert et al. 2014
+877,Cubic Grade,2.886374374,0.633685412,6.723300321,22.69679381,63.59553137,0.302100105,0.136629051,10.80489936,2.909517061,0.065779097,0.12600626,0.367394093,5.411487802,Magmatic,not defined,,Gilbert et al. 2014
+878,Cubic Grade,4.203638185,4.212123246,2.278463875,9.056273107,64.31091175,0.306308684,0.138586102,10.95416028,2.953600694,0.066993392,0.127515969,0.372149321,5.13260992,Magmatic,not defined,,Gilbert et al. 2014
+879,Cubic Grade,3.626907868,1.997932676,13.90313022,8.321328941,53.46375421,0.282145191,0.129704743,10.04276504,6.11204884,0.075471957,0.108906465,0.32967751,5.282522059,Magmatic,not defined,,Gilbert et al. 2014
+880,Cubic Grade,1.135801957,2.725495205,6.519364416,19.85464617,36.35395362,0.192305501,0.605054649,6.844204121,1.952602097,0.051720603,0.074097847,0.224494157,5.232641928,Magmatic,not defined,,Gilbert et al. 2014
+881,Cubic Grade,5.898587787,0.373680956,6.070757909,11.22853023,84.91496028,0.477846162,0.050054352,8.57966124,4.068733283,0.043151056,0.095732247,0.353580396,5.170705004,Magmatic,not defined,,Gilbert et al. 2014
+882,Cubic Grade,5.27375763,13.99900257,17.14895926,9.516994081,173.1581523,0.405381089,0.042449514,7.27631901,3.448607913,0.036755504,0.081606177,0.299729016,5.14070841,Magmatic,not defined,,Gilbert et al. 2014
+883,Cubic Grade,6.680278371,0.477966116,9.187175018,14.32604004,105.4830821,0.62463031,0.064852871,11.12350536,5.193545934,0.063226475,0.143563225,0.452854952,5.463940579,Magmatic,not defined,,Gilbert et al. 2014
+884,Cubic Grade,0.669479079,0.385660477,1.438849376,11.5582446,85.01706139,0.504430197,0.052354666,8.980055544,9.335702831,0.139921584,0.116617445,0.365417581,5.332009259,Magmatic,not defined,,Gilbert et al. 2014
+885,Cubic Grade,0.88851557,0.378224461,8.397763072,12.3218524,63.07522398,0.203348444,0.109109107,8.075559071,3.041196135,0.213991378,0.099731352,0.338834158,5.419079303,Magmatic,not defined,,Gilbert et al. 2014
+886,Cubic Grade,1.439303336,0.348514067,6.997875432,11.35442604,171.9024872,0.187770319,0.100542281,7.439450915,2.806681901,0.077694443,0.091956707,1.012246497,5.220400295,Magmatic,not defined,,Gilbert et al. 2014
+887,Cubic Grade,9.655902798,8.376721693,15.58849755,13.46844333,62.09408754,0.243484659,0.119245268,8.724435778,3.551825672,0.081057929,0.111866526,0.353251121,5.337736616,Magmatic,not defined,,Gilbert et al. 2014
+888,Cubic Grade,5.108402586,0.428939426,3.894022399,13.99980005,64.38286779,0.253699823,0.12394929,9.065981187,8.401460626,0.083995071,0.116356548,0.366761208,5.28033408,Magmatic,not defined,,Gilbert et al. 2014
+889,Cubic Grade,2.830416594,0.458782501,9.714425937,13.10114638,54.06405679,0.386951613,0.064261463,7.971693804,2.874857709,0.127399961,0.232431106,0.941716529,5.109254922,Magmatic,not defined,,Gilbert et al. 2014
+890,Cubic Grade,0.495460531,0.54785844,4.342574514,15.64627556,64.53633469,0.463181934,0.836036203,9.519402323,7.857205992,0.074899166,0.098525428,0.410082482,5.484340878,Magmatic,not defined,,Gilbert et al. 2014
+891,Cubic Grade,36.46488771,66.19162741,6.68826439,20.71815474,83.84815023,0.675919449,0.105919302,12.55539214,4.783112226,0.066103057,0.123935857,0.524976903,5.199700961,Magmatic,not defined,,Gilbert et al. 2014
+892,Cubic Grade,21.51687878,49.72194425,10.29822191,17.12123104,69.25643421,0.56009155,0.087626552,10.37453324,3.958055749,0.054146595,0.102283005,0.433451668,5.419816434,Magmatic,not defined,,Gilbert et al. 2014
+893,Cubic Grade,2.133682152,8.88118983,18.29218818,18.31829166,69.69952558,0.319231407,1.081032974,9.941673893,3.876924436,0.266912197,0.113944519,0.454060269,5.464449289,Magmatic,not defined,,Gilbert et al. 2014
+894,Cubic Grade,3.157349073,7.039068773,16.40886634,12.90619417,49.32440239,0.225082942,0.145505585,7.002468813,2.733172903,0.064232687,0.080059479,0.320032125,5.368222626,Magmatic,not defined,,Gilbert et al. 2014
+895,Cubic Grade,3.498191166,14.63513832,4.291635287,15.12299712,69.69493968,0.271551468,0.158842965,8.117643736,3.280275722,0.039176003,0.084831589,0.380640978,5.296040029,Magmatic,not defined,,Gilbert et al. 2014
+896,Cubic Grade,14.59679424,6.017195765,1.169092843,9.948928752,46.09056268,0.178779051,0.104316866,5.33888957,2.159313929,0.025463124,0.05567287,0.250506832,5.134616937,Magmatic,not defined,,Gilbert et al. 2014
