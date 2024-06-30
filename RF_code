@@ -8,7 +8,7 @@ url = "https://github.com/mcfig/pyrite-ML/blob/75b7049697b46a953976439568e0f21d0
 df = pd.read_csv(url)
 
 # Extract features and target variable
-features = df[['Co', 'Ni', 'Cu', 'Zn', 'As', 'Mo', 'Ag', 'Sb', 'Te', 'Au', 'Tl', 'Pb', '34S']]
+features = df[['Co (ppm)', 'Ni (ppm)', 'Cu (ppm)', 'Zn (ppm)', 'As (ppm)', 'Mo (ppm)', 'Ag (ppm)', 'Sb (ppm)', 'Te (ppm)', 'Au (ppm)', 'Tl (ppm)', 'Pb (ppm)', 'd34S (‰)']]
 target = df['Class']
 
 # Split the data into training and testing sets
